@@ -1,0 +1,4513 @@
+Cód_IBGE,Município,Sigla UF,Região,Mês/Ano,Vítimas
+1500107,Abaetetuba,PA,NORTE,jan.-18,6
+1500131,Abel Figueiredo,PA,NORTE,jan.-18,1
+1500206,Acará,PA,NORTE,jan.-18,1
+1500347,Água Azul Do Norte,PA,NORTE,jan.-18,1
+1500503,Almeirim,PA,NORTE,jan.-18,2
+1500602,Altamira,PA,NORTE,jan.-18,15
+1500701,Anajás,PA,NORTE,jan.-18,1
+1500800,Ananindeua,PA,NORTE,jan.-18,42
+1500859,Anapu,PA,NORTE,jan.-18,7
+1501204,Baião,PA,NORTE,jan.-18,1
+1501303,Barcarena,PA,NORTE,jan.-18,7
+1501402,Belém,PA,NORTE,jan.-18,66
+1501501,Benevides,PA,NORTE,jan.-18,10
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jan.-18,2
+1501600,Bonito,PA,NORTE,jan.-18,1
+1501709,Bragança,PA,NORTE,jan.-18,6
+1501725,Brasil Novo,PA,NORTE,jan.-18,2
+1501758,Brejo Grande Do Araguaia,PA,NORTE,jan.-18,1
+1501782,Breu Branco,PA,NORTE,jan.-18,4
+1501808,Breves,PA,NORTE,jan.-18,1
+1501907,Bujaru,PA,NORTE,jan.-18,3
+1501956,Cachoeira Do Piriá,PA,NORTE,jan.-18,1
+1502103,Cametá,PA,NORTE,jan.-18,2
+1502400,Castanhal,PA,NORTE,jan.-18,17
+1502756,Concórdia Do Pará,PA,NORTE,jan.-18,1
+1502772,Curionópolis,PA,NORTE,jan.-18,2
+1502905,Curuçá,PA,NORTE,jan.-18,1
+1502954,Eldorado Do Carajás,PA,NORTE,jan.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,jan.-18,2
+1503077,Garrafão Do Norte,PA,NORTE,jan.-18,2
+1503101,Gurupá,PA,NORTE,jan.-18,1
+1503200,Igarapé-Açu,PA,NORTE,jan.-18,1
+1503309,Igarapé-Miri,PA,NORTE,jan.-18,3
+1503606,Itaituba,PA,NORTE,jan.-18,10
+1503705,Itupiranga,PA,NORTE,jan.-18,2
+1504000,Limoeiro Do Ajuru,PA,NORTE,jan.-18,1
+1504059,Mãe Do Rio,PA,NORTE,jan.-18,2
+1504208,Marabá,PA,NORTE,jan.-18,26
+1504406,Marapanim,PA,NORTE,jan.-18,4
+1504422,Marituba,PA,NORTE,jan.-18,8
+1504455,Medicilândia,PA,NORTE,jan.-18,1
+1504604,Mocajuba,PA,NORTE,jan.-18,2
+1504703,Moju,PA,NORTE,jan.-18,6
+1504802,Monte Alegre,PA,NORTE,jan.-18,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jan.-18,1
+1504976,Nova Ipixuna,PA,NORTE,jan.-18,1
+1505031,Novo Progresso,PA,NORTE,jan.-18,3
+1505064,Novo Repartimento,PA,NORTE,jan.-18,4
+1505304,Oriximiná,PA,NORTE,jan.-18,2
+1505437,Ourilândia Do Norte,PA,NORTE,jan.-18,5
+1505486,Pacajá,PA,NORTE,jan.-18,4
+1505502,Paragominas,PA,NORTE,jan.-18,4
+1505536,Parauapebas,PA,NORTE,jan.-18,3
+1505650,Placas,PA,NORTE,jan.-18,1
+1505809,Portel,PA,NORTE,jan.-18,5
+1506138,Redenção,PA,NORTE,jan.-18,8
+1506161,Rio Maria,PA,NORTE,jan.-18,1
+1506187,Rondon Do Pará,PA,NORTE,jan.-18,1
+1506203,Salinópolis,PA,NORTE,jan.-18,3
+1506302,Salvaterra,PA,NORTE,jan.-18,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,jan.-18,2
+1506401,Santa Cruz Do Arari,PA,NORTE,jan.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jan.-18,6
+1506559,Santa Luzia Do Pará,PA,NORTE,jan.-18,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,jan.-18,2
+1506609,Santa Maria Do Pará,PA,NORTE,jan.-18,5
+1506807,Santarém,PA,NORTE,jan.-18,5
+1507003,Santo Antônio Do Tauá,PA,NORTE,jan.-18,1
+1507151,São Domingos Do Araguaia,PA,NORTE,jan.-18,1
+1507201,São Domingos Do Capim,PA,NORTE,jan.-18,2
+1507300,São Félix Do Xingu,PA,NORTE,jan.-18,4
+1507607,São Miguel Do Guamá,PA,NORTE,jan.-18,2
+1507805,Senador José Porfírio,PA,NORTE,jan.-18,1
+1507953,Tailândia,PA,NORTE,jan.-18,5
+1507961,Terra Alta,PA,NORTE,jan.-18,2
+1508001,Tomé-Açu,PA,NORTE,jan.-18,4
+1508050,Trairão,PA,NORTE,jan.-18,1
+1508084,Tucumã,PA,NORTE,jan.-18,1
+1508100,Tucuruí,PA,NORTE,jan.-18,2
+1508126,Ulianópolis,PA,NORTE,jan.-18,5
+1508159,Uruará,PA,NORTE,jan.-18,1
+1508209,Vigia,PA,NORTE,jan.-18,3
+1508357,Vitória Do Xingu,PA,NORTE,jan.-18,3
+1508407,Xinguara,PA,NORTE,jan.-18,1
+1500107,Abaetetuba,PA,NORTE,fev.-18,3
+1500131,Abel Figueiredo,PA,NORTE,fev.-18,2
+1500206,Acará,PA,NORTE,fev.-18,2
+1500347,Água Azul Do Norte,PA,NORTE,fev.-18,1
+1500602,Altamira,PA,NORTE,fev.-18,6
+1500800,Ananindeua,PA,NORTE,fev.-18,27
+1500859,Anapu,PA,NORTE,fev.-18,1
+1500909,Augusto Corrêa,PA,NORTE,fev.-18,1
+1501105,Bagre,PA,NORTE,fev.-18,1
+1501204,Baião,PA,NORTE,fev.-18,1
+1501303,Barcarena,PA,NORTE,fev.-18,1
+1501402,Belém,PA,NORTE,fev.-18,57
+1501501,Benevides,PA,NORTE,fev.-18,4
+1501600,Bonito,PA,NORTE,fev.-18,2
+1501709,Bragança,PA,NORTE,fev.-18,1
+1501725,Brasil Novo,PA,NORTE,fev.-18,1
+1501782,Breu Branco,PA,NORTE,fev.-18,2
+1501808,Breves,PA,NORTE,fev.-18,3
+1501907,Bujaru,PA,NORTE,fev.-18,1
+1502103,Cametá,PA,NORTE,fev.-18,1
+1502152,Canaã Dos Carajás,PA,NORTE,fev.-18,2
+1502202,Capanema,PA,NORTE,fev.-18,1
+1502301,Capitão Poço,PA,NORTE,fev.-18,5
+1502400,Castanhal,PA,NORTE,fev.-18,10
+1502707,Conceição Do Araguaia,PA,NORTE,fev.-18,1
+1502756,Concórdia Do Pará,PA,NORTE,fev.-18,2
+1502939,Dom Eliseu,PA,NORTE,fev.-18,2
+1502954,Eldorado Do Carajás,PA,NORTE,fev.-18,3
+1503044,Floresta Do Araguaia,PA,NORTE,fev.-18,3
+1503077,Garrafão Do Norte,PA,NORTE,fev.-18,1
+1503093,Goianésia Do Pará,PA,NORTE,fev.-18,1
+1503200,Igarapé-Açu,PA,NORTE,fev.-18,2
+1503309,Igarapé-Miri,PA,NORTE,fev.-18,4
+1503507,Irituia,PA,NORTE,fev.-18,1
+1503606,Itaituba,PA,NORTE,fev.-18,1
+1503754,Jacareacanga,PA,NORTE,fev.-18,1
+1503804,Jacundá,PA,NORTE,fev.-18,2
+1503903,Juruti,PA,NORTE,fev.-18,1
+1504059,Mãe Do Rio,PA,NORTE,fev.-18,3
+1504208,Marabá,PA,NORTE,fev.-18,10
+1504406,Marapanim,PA,NORTE,fev.-18,2
+1504422,Marituba,PA,NORTE,fev.-18,12
+1504455,Medicilândia,PA,NORTE,fev.-18,1
+1504604,Mocajuba,PA,NORTE,fev.-18,3
+1504703,Moju,PA,NORTE,fev.-18,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,fev.-18,1
+1504976,Nova Ipixuna,PA,NORTE,fev.-18,1
+1505007,Nova Timboteua,PA,NORTE,fev.-18,1
+1505031,Novo Progresso,PA,NORTE,fev.-18,1
+1505064,Novo Repartimento,PA,NORTE,fev.-18,2
+1505106,Óbidos,PA,NORTE,fev.-18,3
+1505304,Oriximiná,PA,NORTE,fev.-18,2
+1505403,Ourém,PA,NORTE,fev.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,fev.-18,1
+1505486,Pacajá,PA,NORTE,fev.-18,4
+1505502,Paragominas,PA,NORTE,fev.-18,5
+1505536,Parauapebas,PA,NORTE,fev.-18,6
+1505635,Piçarra,PA,NORTE,fev.-18,1
+1505650,Placas,PA,NORTE,fev.-18,1
+1505809,Portel,PA,NORTE,fev.-18,1
+1506138,Redenção,PA,NORTE,fev.-18,4
+1506161,Rio Maria,PA,NORTE,fev.-18,1
+1506187,Rondon Do Pará,PA,NORTE,fev.-18,2
+1506203,Salinópolis,PA,NORTE,fev.-18,2
+1506500,Santa Izabel Do Pará,PA,NORTE,fev.-18,11
+1506559,Santa Luzia Do Pará,PA,NORTE,fev.-18,1
+1506609,Santa Maria Do Pará,PA,NORTE,fev.-18,1
+1506708,Santana Do Araguaia,PA,NORTE,fev.-18,3
+1506807,Santarém,PA,NORTE,fev.-18,2
+1506906,Santarém Novo,PA,NORTE,fev.-18,1
+1507102,São Caetano De Odivelas,PA,NORTE,fev.-18,1
+1507151,São Domingos Do Araguaia,PA,NORTE,fev.-18,2
+1507300,São Félix Do Xingu,PA,NORTE,fev.-18,1
+1507607,São Miguel Do Guamá,PA,NORTE,fev.-18,1
+1507904,Soure,PA,NORTE,fev.-18,1
+1507953,Tailândia,PA,NORTE,fev.-18,6
+1507961,Terra Alta,PA,NORTE,fev.-18,1
+1508001,Tomé-Açu,PA,NORTE,fev.-18,4
+1508084,Tucumã,PA,NORTE,fev.-18,2
+1508100,Tucuruí,PA,NORTE,fev.-18,6
+1508126,Ulianópolis,PA,NORTE,fev.-18,4
+1508407,Xinguara,PA,NORTE,fev.-18,1
+1500107,Abaetetuba,PA,NORTE,mar.-18,4
+1500305,Afuá,PA,NORTE,mar.-18,1
+1500347,Água Azul Do Norte,PA,NORTE,mar.-18,2
+1500503,Almeirim,PA,NORTE,mar.-18,1
+1500602,Altamira,PA,NORTE,mar.-18,6
+1500800,Ananindeua,PA,NORTE,mar.-18,34
+1500859,Anapu,PA,NORTE,mar.-18,1
+1500909,Augusto Corrêa,PA,NORTE,mar.-18,1
+1500958,Aurora Do Pará,PA,NORTE,mar.-18,2
+1501006,Aveiro,PA,NORTE,mar.-18,1
+1501105,Bagre,PA,NORTE,mar.-18,1
+1501204,Baião,PA,NORTE,mar.-18,1
+1501303,Barcarena,PA,NORTE,mar.-18,9
+1501402,Belém,PA,NORTE,mar.-18,73
+1501501,Benevides,PA,NORTE,mar.-18,1
+1501709,Bragança,PA,NORTE,mar.-18,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,mar.-18,1
+1501782,Breu Branco,PA,NORTE,mar.-18,2
+1501808,Breves,PA,NORTE,mar.-18,1
+1501956,Cachoeira Do Piriá,PA,NORTE,mar.-18,2
+1502103,Cametá,PA,NORTE,mar.-18,2
+1502152,Canaã Dos Carajás,PA,NORTE,mar.-18,1
+1502202,Capanema,PA,NORTE,mar.-18,4
+1502301,Capitão Poço,PA,NORTE,mar.-18,1
+1502400,Castanhal,PA,NORTE,mar.-18,5
+1502756,Concórdia Do Pará,PA,NORTE,mar.-18,1
+1502764,Cumaru Do Norte,PA,NORTE,mar.-18,1
+1502772,Curionópolis,PA,NORTE,mar.-18,2
+1502939,Dom Eliseu,PA,NORTE,mar.-18,1
+1502954,Eldorado Do Carajás,PA,NORTE,mar.-18,3
+1503002,Faro,PA,NORTE,mar.-18,2
+1503309,Igarapé-Miri,PA,NORTE,mar.-18,2
+1503408,Inhangapi,PA,NORTE,mar.-18,1
+1503457,Ipixuna Do Pará,PA,NORTE,mar.-18,1
+1503606,Itaituba,PA,NORTE,mar.-18,2
+1504059,Mãe Do Rio,PA,NORTE,mar.-18,1
+1504208,Marabá,PA,NORTE,mar.-18,11
+1504422,Marituba,PA,NORTE,mar.-18,9
+1504455,Medicilândia,PA,NORTE,mar.-18,1
+1504604,Mocajuba,PA,NORTE,mar.-18,3
+1504703,Moju,PA,NORTE,mar.-18,2
+1504901,Muaná,PA,NORTE,mar.-18,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,mar.-18,2
+1504976,Nova Ipixuna,PA,NORTE,mar.-18,1
+1505007,Nova Timboteua,PA,NORTE,mar.-18,1
+1505064,Novo Repartimento,PA,NORTE,mar.-18,4
+1505106,Óbidos,PA,NORTE,mar.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,mar.-18,3
+1505486,Pacajá,PA,NORTE,mar.-18,2
+1505502,Paragominas,PA,NORTE,mar.-18,4
+1505536,Parauapebas,PA,NORTE,mar.-18,5
+1505551,Pau D'Arco,PA,NORTE,mar.-18,1
+1505635,Piçarra,PA,NORTE,mar.-18,1
+1506005,Prainha,PA,NORTE,mar.-18,1
+1506138,Redenção,PA,NORTE,mar.-18,6
+1506187,Rondon Do Pará,PA,NORTE,mar.-18,2
+1506203,Salinópolis,PA,NORTE,mar.-18,2
+1506351,Santa Bárbara Do Pará,PA,NORTE,mar.-18,2
+1506500,Santa Izabel Do Pará,PA,NORTE,mar.-18,8
+1506559,Santa Luzia Do Pará,PA,NORTE,mar.-18,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,mar.-18,3
+1506609,Santa Maria Do Pará,PA,NORTE,mar.-18,3
+1506807,Santarém,PA,NORTE,mar.-18,6
+1507003,Santo Antônio Do Tauá,PA,NORTE,mar.-18,1
+1507102,São Caetano De Odivelas,PA,NORTE,mar.-18,1
+1507201,São Domingos Do Capim,PA,NORTE,mar.-18,1
+1507300,São Félix Do Xingu,PA,NORTE,mar.-18,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,mar.-18,1
+1507508,São João Do Araguaia,PA,NORTE,mar.-18,2
+1507607,São Miguel Do Guamá,PA,NORTE,mar.-18,1
+1507904,Soure,PA,NORTE,mar.-18,1
+1507953,Tailândia,PA,NORTE,mar.-18,4
+1507961,Terra Alta,PA,NORTE,mar.-18,1
+1508084,Tucumã,PA,NORTE,mar.-18,1
+1508100,Tucuruí,PA,NORTE,mar.-18,3
+1508126,Ulianópolis,PA,NORTE,mar.-18,3
+1508159,Uruará,PA,NORTE,mar.-18,2
+1508209,Vigia,PA,NORTE,mar.-18,3
+1508407,Xinguara,PA,NORTE,mar.-18,3
+1500107,Abaetetuba,PA,NORTE,abr.-18,1
+1500206,Acará,PA,NORTE,abr.-18,2
+1500305,Afuá,PA,NORTE,abr.-18,2
+1500404,Alenquer,PA,NORTE,abr.-18,1
+1500602,Altamira,PA,NORTE,abr.-18,8
+1500800,Ananindeua,PA,NORTE,abr.-18,53
+1500859,Anapu,PA,NORTE,abr.-18,8
+1501105,Bagre,PA,NORTE,abr.-18,1
+1501303,Barcarena,PA,NORTE,abr.-18,2
+1501402,Belém,PA,NORTE,abr.-18,121
+1501501,Benevides,PA,NORTE,abr.-18,7
+1501709,Bragança,PA,NORTE,abr.-18,8
+1501758,Brejo Grande Do Araguaia,PA,NORTE,abr.-18,1
+1501782,Breu Branco,PA,NORTE,abr.-18,3
+1501808,Breves,PA,NORTE,abr.-18,2
+1502004,Cachoeira Do Arari,PA,NORTE,abr.-18,2
+1502152,Canaã Dos Carajás,PA,NORTE,abr.-18,2
+1502202,Capanema,PA,NORTE,abr.-18,2
+1502301,Capitão Poço,PA,NORTE,abr.-18,3
+1502400,Castanhal,PA,NORTE,abr.-18,11
+1502707,Conceição Do Araguaia,PA,NORTE,abr.-18,1
+1502756,Concórdia Do Pará,PA,NORTE,abr.-18,1
+1502806,Curralinho,PA,NORTE,abr.-18,1
+1502905,Curuçá,PA,NORTE,abr.-18,1
+1502939,Dom Eliseu,PA,NORTE,abr.-18,2
+1502954,Eldorado Do Carajás,PA,NORTE,abr.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,abr.-18,1
+1503077,Garrafão Do Norte,PA,NORTE,abr.-18,4
+1503093,Goianésia Do Pará,PA,NORTE,abr.-18,5
+1503309,Igarapé-Miri,PA,NORTE,abr.-18,3
+1503408,Inhangapi,PA,NORTE,abr.-18,3
+1503457,Ipixuna Do Pará,PA,NORTE,abr.-18,1
+1503606,Itaituba,PA,NORTE,abr.-18,3
+1503705,Itupiranga,PA,NORTE,abr.-18,5
+1503754,Jacareacanga,PA,NORTE,abr.-18,1
+1503903,Juruti,PA,NORTE,abr.-18,1
+1504059,Mãe Do Rio,PA,NORTE,abr.-18,1
+1504208,Marabá,PA,NORTE,abr.-18,13
+1504307,Maracanã,PA,NORTE,abr.-18,1
+1504422,Marituba,PA,NORTE,abr.-18,10
+1504455,Medicilândia,PA,NORTE,abr.-18,1
+1504505,Melgaço,PA,NORTE,abr.-18,1
+1504703,Moju,PA,NORTE,abr.-18,7
+1504950,Nova Esperança Do Piriá,PA,NORTE,abr.-18,1
+1505007,Nova Timboteua,PA,NORTE,abr.-18,1
+1505403,Ourém,PA,NORTE,abr.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,abr.-18,3
+1505502,Paragominas,PA,NORTE,abr.-18,5
+1505536,Parauapebas,PA,NORTE,abr.-18,11
+1505650,Placas,PA,NORTE,abr.-18,4
+1505809,Portel,PA,NORTE,abr.-18,1
+1506138,Redenção,PA,NORTE,abr.-18,5
+1506161,Rio Maria,PA,NORTE,abr.-18,1
+1506203,Salinópolis,PA,NORTE,abr.-18,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,abr.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,abr.-18,7
+1506583,Santa Maria Das Barreiras,PA,NORTE,abr.-18,4
+1506609,Santa Maria Do Pará,PA,NORTE,abr.-18,1
+1506807,Santarém,PA,NORTE,abr.-18,2
+1507003,Santo Antônio Do Tauá,PA,NORTE,abr.-18,2
+1507102,São Caetano De Odivelas,PA,NORTE,abr.-18,2
+1507300,São Félix Do Xingu,PA,NORTE,abr.-18,1
+1507474,São João De Pirabas,PA,NORTE,abr.-18,1
+1507508,São João Do Araguaia,PA,NORTE,abr.-18,1
+1507607,São Miguel Do Guamá,PA,NORTE,abr.-18,1
+1507953,Tailândia,PA,NORTE,abr.-18,6
+1508001,Tomé-Açu,PA,NORTE,abr.-18,4
+1508035,Tracuateua,PA,NORTE,abr.-18,3
+1508084,Tucumã,PA,NORTE,abr.-18,2
+1508100,Tucuruí,PA,NORTE,abr.-18,3
+1508126,Ulianópolis,PA,NORTE,abr.-18,1
+1508159,Uruará,PA,NORTE,abr.-18,2
+1508209,Vigia,PA,NORTE,abr.-18,3
+1500107,Abaetetuba,PA,NORTE,mai.-18,6
+1500206,Acará,PA,NORTE,mai.-18,1
+1500305,Afuá,PA,NORTE,mai.-18,2
+1500602,Altamira,PA,NORTE,mai.-18,5
+1500701,Anajás,PA,NORTE,mai.-18,2
+1500800,Ananindeua,PA,NORTE,mai.-18,26
+1500859,Anapu,PA,NORTE,mai.-18,7
+1501204,Baião,PA,NORTE,mai.-18,2
+1501303,Barcarena,PA,NORTE,mai.-18,5
+1501402,Belém,PA,NORTE,mai.-18,86
+1501501,Benevides,PA,NORTE,mai.-18,4
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mai.-18,1
+1501709,Bragança,PA,NORTE,mai.-18,6
+1501725,Brasil Novo,PA,NORTE,mai.-18,1
+1501782,Breu Branco,PA,NORTE,mai.-18,3
+1501907,Bujaru,PA,NORTE,mai.-18,1
+1501956,Cachoeira Do Piriá,PA,NORTE,mai.-18,1
+1502103,Cametá,PA,NORTE,mai.-18,1
+1502152,Canaã Dos Carajás,PA,NORTE,mai.-18,3
+1502202,Capanema,PA,NORTE,mai.-18,1
+1502400,Castanhal,PA,NORTE,mai.-18,9
+1502756,Concórdia Do Pará,PA,NORTE,mai.-18,3
+1502764,Cumaru Do Norte,PA,NORTE,mai.-18,3
+1502772,Curionópolis,PA,NORTE,mai.-18,1
+1502939,Dom Eliseu,PA,NORTE,mai.-18,2
+1502954,Eldorado Do Carajás,PA,NORTE,mai.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,mai.-18,7
+1503077,Garrafão Do Norte,PA,NORTE,mai.-18,1
+1503093,Goianésia Do Pará,PA,NORTE,mai.-18,3
+1503101,Gurupá,PA,NORTE,mai.-18,1
+1503200,Igarapé-Açu,PA,NORTE,mai.-18,2
+1503309,Igarapé-Miri,PA,NORTE,mai.-18,1
+1503457,Ipixuna Do Pará,PA,NORTE,mai.-18,1
+1503606,Itaituba,PA,NORTE,mai.-18,3
+1503705,Itupiranga,PA,NORTE,mai.-18,4
+1503804,Jacundá,PA,NORTE,mai.-18,1
+1503903,Juruti,PA,NORTE,mai.-18,2
+1504059,Mãe Do Rio,PA,NORTE,mai.-18,2
+1504208,Marabá,PA,NORTE,mai.-18,18
+1504422,Marituba,PA,NORTE,mai.-18,12
+1504703,Moju,PA,NORTE,mai.-18,2
+1504802,Monte Alegre,PA,NORTE,mai.-18,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mai.-18,2
+1504976,Nova Ipixuna,PA,NORTE,mai.-18,2
+1505031,Novo Progresso,PA,NORTE,mai.-18,2
+1505437,Ourilândia Do Norte,PA,NORTE,mai.-18,1
+1505486,Pacajá,PA,NORTE,mai.-18,5
+1505502,Paragominas,PA,NORTE,mai.-18,8
+1505536,Parauapebas,PA,NORTE,mai.-18,12
+1505650,Placas,PA,NORTE,mai.-18,3
+1505700,Ponta De Pedras,PA,NORTE,mai.-18,1
+1505809,Portel,PA,NORTE,mai.-18,1
+1505908,Porto De Moz,PA,NORTE,mai.-18,2
+1506138,Redenção,PA,NORTE,mai.-18,4
+1506161,Rio Maria,PA,NORTE,mai.-18,2
+1506187,Rondon Do Pará,PA,NORTE,mai.-18,1
+1506203,Salinópolis,PA,NORTE,mai.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,mai.-18,3
+1506559,Santa Luzia Do Pará,PA,NORTE,mai.-18,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,mai.-18,2
+1506609,Santa Maria Do Pará,PA,NORTE,mai.-18,2
+1506708,Santana Do Araguaia,PA,NORTE,mai.-18,2
+1506807,Santarém,PA,NORTE,mai.-18,7
+1507003,Santo Antônio Do Tauá,PA,NORTE,mai.-18,1
+1507151,São Domingos Do Araguaia,PA,NORTE,mai.-18,4
+1507300,São Félix Do Xingu,PA,NORTE,mai.-18,5
+1507458,São Geraldo Do Araguaia,PA,NORTE,mai.-18,3
+1507607,São Miguel Do Guamá,PA,NORTE,mai.-18,1
+1507953,Tailândia,PA,NORTE,mai.-18,5
+1508001,Tomé-Açu,PA,NORTE,mai.-18,4
+1508084,Tucumã,PA,NORTE,mai.-18,1
+1508100,Tucuruí,PA,NORTE,mai.-18,1
+1508126,Ulianópolis,PA,NORTE,mai.-18,1
+1508159,Uruará,PA,NORTE,mai.-18,4
+1508209,Vigia,PA,NORTE,mai.-18,1
+1508308,Viseu,PA,NORTE,mai.-18,3
+1508407,Xinguara,PA,NORTE,mai.-18,2
+1500107,Abaetetuba,PA,NORTE,jun.-18,6
+1500206,Acará,PA,NORTE,jun.-18,1
+1500347,Água Azul Do Norte,PA,NORTE,jun.-18,1
+1500404,Alenquer,PA,NORTE,jun.-18,1
+1500503,Almeirim,PA,NORTE,jun.-18,2
+1500602,Altamira,PA,NORTE,jun.-18,1
+1500800,Ananindeua,PA,NORTE,jun.-18,31
+1500859,Anapu,PA,NORTE,jun.-18,2
+1500909,Augusto Corrêa,PA,NORTE,jun.-18,1
+1500958,Aurora Do Pará,PA,NORTE,jun.-18,1
+1501204,Baião,PA,NORTE,jun.-18,2
+1501303,Barcarena,PA,NORTE,jun.-18,7
+1501402,Belém,PA,NORTE,jun.-18,47
+1501501,Benevides,PA,NORTE,jun.-18,5
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jun.-18,4
+1501600,Bonito,PA,NORTE,jun.-18,1
+1501709,Bragança,PA,NORTE,jun.-18,5
+1501725,Brasil Novo,PA,NORTE,jun.-18,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,jun.-18,1
+1501782,Breu Branco,PA,NORTE,jun.-18,1
+1501907,Bujaru,PA,NORTE,jun.-18,2
+1502103,Cametá,PA,NORTE,jun.-18,1
+1502152,Canaã Dos Carajás,PA,NORTE,jun.-18,3
+1502202,Capanema,PA,NORTE,jun.-18,3
+1502301,Capitão Poço,PA,NORTE,jun.-18,1
+1502400,Castanhal,PA,NORTE,jun.-18,9
+1502707,Conceição Do Araguaia,PA,NORTE,jun.-18,1
+1502756,Concórdia Do Pará,PA,NORTE,jun.-18,1
+1502764,Cumaru Do Norte,PA,NORTE,jun.-18,1
+1502954,Eldorado Do Carajás,PA,NORTE,jun.-18,1
+1503044,Floresta Do Araguaia,PA,NORTE,jun.-18,4
+1503077,Garrafão Do Norte,PA,NORTE,jun.-18,4
+1503093,Goianésia Do Pará,PA,NORTE,jun.-18,1
+1503101,Gurupá,PA,NORTE,jun.-18,2
+1503457,Ipixuna Do Pará,PA,NORTE,jun.-18,1
+1503606,Itaituba,PA,NORTE,jun.-18,6
+1503705,Itupiranga,PA,NORTE,jun.-18,1
+1503804,Jacundá,PA,NORTE,jun.-18,3
+1503903,Juruti,PA,NORTE,jun.-18,1
+1504059,Mãe Do Rio,PA,NORTE,jun.-18,1
+1504208,Marabá,PA,NORTE,jun.-18,17
+1504406,Marapanim,PA,NORTE,jun.-18,1
+1504422,Marituba,PA,NORTE,jun.-18,9
+1504505,Melgaço,PA,NORTE,jun.-18,1
+1504604,Mocajuba,PA,NORTE,jun.-18,3
+1504703,Moju,PA,NORTE,jun.-18,6
+1504752,Mojuí Dos Campos,PA,NORTE,jun.-18,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jun.-18,3
+1505031,Novo Progresso,PA,NORTE,jun.-18,6
+1505064,Novo Repartimento,PA,NORTE,jun.-18,1
+1505106,Óbidos,PA,NORTE,jun.-18,2
+1505403,Ourém,PA,NORTE,jun.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,jun.-18,4
+1505486,Pacajá,PA,NORTE,jun.-18,1
+1505502,Paragominas,PA,NORTE,jun.-18,6
+1505536,Parauapebas,PA,NORTE,jun.-18,12
+1506104,Primavera,PA,NORTE,jun.-18,1
+1506138,Redenção,PA,NORTE,jun.-18,13
+1506161,Rio Maria,PA,NORTE,jun.-18,5
+1506187,Rondon Do Pará,PA,NORTE,jun.-18,5
+1506203,Salinópolis,PA,NORTE,jun.-18,2
+1506351,Santa Bárbara Do Pará,PA,NORTE,jun.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jun.-18,7
+1506559,Santa Luzia Do Pará,PA,NORTE,jun.-18,1
+1506708,Santana Do Araguaia,PA,NORTE,jun.-18,1
+1506807,Santarém,PA,NORTE,jun.-18,9
+1507003,Santo Antônio Do Tauá,PA,NORTE,jun.-18,1
+1507201,São Domingos Do Capim,PA,NORTE,jun.-18,2
+1507300,São Félix Do Xingu,PA,NORTE,jun.-18,8
+1507458,São Geraldo Do Araguaia,PA,NORTE,jun.-18,5
+1507474,São João De Pirabas,PA,NORTE,jun.-18,1
+1507508,São João Do Araguaia,PA,NORTE,jun.-18,1
+1507607,São Miguel Do Guamá,PA,NORTE,jun.-18,3
+1507706,São Sebastião Da Boa Vista,PA,NORTE,jun.-18,1
+1507805,Senador José Porfírio,PA,NORTE,jun.-18,1
+1507953,Tailândia,PA,NORTE,jun.-18,2
+1508001,Tomé-Açu,PA,NORTE,jun.-18,2
+1508035,Tracuateua,PA,NORTE,jun.-18,3
+1508084,Tucumã,PA,NORTE,jun.-18,2
+1508100,Tucuruí,PA,NORTE,jun.-18,5
+1508126,Ulianópolis,PA,NORTE,jun.-18,2
+1508209,Vigia,PA,NORTE,jun.-18,1
+1508357,Vitória Do Xingu,PA,NORTE,jun.-18,1
+1508407,Xinguara,PA,NORTE,jun.-18,1
+1500107,Abaetetuba,PA,NORTE,jul.-18,5
+1500206,Acará,PA,NORTE,jul.-18,2
+1500347,Água Azul Do Norte,PA,NORTE,jul.-18,1
+1500404,Alenquer,PA,NORTE,jul.-18,1
+1500602,Altamira,PA,NORTE,jul.-18,5
+1500800,Ananindeua,PA,NORTE,jul.-18,21
+1500859,Anapu,PA,NORTE,jul.-18,2
+1500958,Aurora Do Pará,PA,NORTE,jul.-18,2
+1501105,Bagre,PA,NORTE,jul.-18,1
+1501204,Baião,PA,NORTE,jul.-18,1
+1501303,Barcarena,PA,NORTE,jul.-18,3
+1501402,Belém,PA,NORTE,jul.-18,55
+1501501,Benevides,PA,NORTE,jul.-18,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jul.-18,1
+1501709,Bragança,PA,NORTE,jul.-18,5
+1501725,Brasil Novo,PA,NORTE,jul.-18,1
+1501782,Breu Branco,PA,NORTE,jul.-18,3
+1501808,Breves,PA,NORTE,jul.-18,2
+1501907,Bujaru,PA,NORTE,jul.-18,2
+1502152,Canaã Dos Carajás,PA,NORTE,jul.-18,7
+1502202,Capanema,PA,NORTE,jul.-18,3
+1502301,Capitão Poço,PA,NORTE,jul.-18,2
+1502400,Castanhal,PA,NORTE,jul.-18,3
+1502707,Conceição Do Araguaia,PA,NORTE,jul.-18,2
+1502756,Concórdia Do Pará,PA,NORTE,jul.-18,1
+1502764,Cumaru Do Norte,PA,NORTE,jul.-18,2
+1502772,Curionópolis,PA,NORTE,jul.-18,1
+1502939,Dom Eliseu,PA,NORTE,jul.-18,1
+1502954,Eldorado Do Carajás,PA,NORTE,jul.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,jul.-18,2
+1503093,Goianésia Do Pará,PA,NORTE,jul.-18,1
+1503309,Igarapé-Miri,PA,NORTE,jul.-18,1
+1503606,Itaituba,PA,NORTE,jul.-18,3
+1503705,Itupiranga,PA,NORTE,jul.-18,2
+1503754,Jacareacanga,PA,NORTE,jul.-18,2
+1504059,Mãe Do Rio,PA,NORTE,jul.-18,3
+1504208,Marabá,PA,NORTE,jul.-18,7
+1504422,Marituba,PA,NORTE,jul.-18,6
+1504604,Mocajuba,PA,NORTE,jul.-18,2
+1504703,Moju,PA,NORTE,jul.-18,3
+1504950,Nova Esperança Do Piriá,PA,NORTE,jul.-18,1
+1504976,Nova Ipixuna,PA,NORTE,jul.-18,1
+1505031,Novo Progresso,PA,NORTE,jul.-18,2
+1505064,Novo Repartimento,PA,NORTE,jul.-18,5
+1505403,Ourém,PA,NORTE,jul.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,jul.-18,1
+1505486,Pacajá,PA,NORTE,jul.-18,3
+1505494,Palestina Do Pará,PA,NORTE,jul.-18,1
+1505502,Paragominas,PA,NORTE,jul.-18,5
+1505536,Parauapebas,PA,NORTE,jul.-18,11
+1505551,Pau D'Arco,PA,NORTE,jul.-18,1
+1505650,Placas,PA,NORTE,jul.-18,1
+1505809,Portel,PA,NORTE,jul.-18,1
+1505908,Porto De Moz,PA,NORTE,jul.-18,1
+1506112,Quatipuru,PA,NORTE,jul.-18,1
+1506138,Redenção,PA,NORTE,jul.-18,7
+1506187,Rondon Do Pará,PA,NORTE,jul.-18,4
+1506203,Salinópolis,PA,NORTE,jul.-18,1
+1506302,Salvaterra,PA,NORTE,jul.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jul.-18,5
+1506559,Santa Luzia Do Pará,PA,NORTE,jul.-18,1
+1506807,Santarém,PA,NORTE,jul.-18,8
+1507102,São Caetano De Odivelas,PA,NORTE,jul.-18,1
+1507151,São Domingos Do Araguaia,PA,NORTE,jul.-18,2
+1507201,São Domingos Do Capim,PA,NORTE,jul.-18,1
+1507300,São Félix Do Xingu,PA,NORTE,jul.-18,3
+1507458,São Geraldo Do Araguaia,PA,NORTE,jul.-18,1
+1507805,Senador José Porfírio,PA,NORTE,jul.-18,1
+1507953,Tailândia,PA,NORTE,jul.-18,5
+1508001,Tomé-Açu,PA,NORTE,jul.-18,2
+1508084,Tucumã,PA,NORTE,jul.-18,1
+1508100,Tucuruí,PA,NORTE,jul.-18,5
+1508159,Uruará,PA,NORTE,jul.-18,1
+1508209,Vigia,PA,NORTE,jul.-18,3
+1500107,Abaetetuba,PA,NORTE,ago.-18,2
+1500206,Acará,PA,NORTE,ago.-18,3
+1500347,Água Azul Do Norte,PA,NORTE,ago.-18,2
+1500503,Almeirim,PA,NORTE,ago.-18,1
+1500602,Altamira,PA,NORTE,ago.-18,4
+1500800,Ananindeua,PA,NORTE,ago.-18,35
+1500859,Anapu,PA,NORTE,ago.-18,4
+1501303,Barcarena,PA,NORTE,ago.-18,3
+1501402,Belém,PA,NORTE,ago.-18,66
+1501501,Benevides,PA,NORTE,ago.-18,3
+1501576,Bom Jesus Do Tocantins,PA,NORTE,ago.-18,1
+1501709,Bragança,PA,NORTE,ago.-18,4
+1501725,Brasil Novo,PA,NORTE,ago.-18,1
+1501782,Breu Branco,PA,NORTE,ago.-18,2
+1501808,Breves,PA,NORTE,ago.-18,3
+1501907,Bujaru,PA,NORTE,ago.-18,1
+1502004,Cachoeira Do Arari,PA,NORTE,ago.-18,1
+1501956,Cachoeira Do Piriá,PA,NORTE,ago.-18,1
+1502103,Cametá,PA,NORTE,ago.-18,1
+1502202,Capanema,PA,NORTE,ago.-18,2
+1502301,Capitão Poço,PA,NORTE,ago.-18,1
+1502400,Castanhal,PA,NORTE,ago.-18,7
+1502707,Conceição Do Araguaia,PA,NORTE,ago.-18,2
+1502756,Concórdia Do Pará,PA,NORTE,ago.-18,1
+1502764,Cumaru Do Norte,PA,NORTE,ago.-18,1
+1502772,Curionópolis,PA,NORTE,ago.-18,1
+1502806,Curralinho,PA,NORTE,ago.-18,1
+1502905,Curuçá,PA,NORTE,ago.-18,1
+1502939,Dom Eliseu,PA,NORTE,ago.-18,4
+1502954,Eldorado Do Carajás,PA,NORTE,ago.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,ago.-18,1
+1503077,Garrafão Do Norte,PA,NORTE,ago.-18,1
+1503093,Goianésia Do Pará,PA,NORTE,ago.-18,3
+1503101,Gurupá,PA,NORTE,ago.-18,2
+1503309,Igarapé-Miri,PA,NORTE,ago.-18,2
+1503408,Inhangapi,PA,NORTE,ago.-18,1
+1503457,Ipixuna Do Pará,PA,NORTE,ago.-18,2
+1503606,Itaituba,PA,NORTE,ago.-18,4
+1503705,Itupiranga,PA,NORTE,ago.-18,4
+1503754,Jacareacanga,PA,NORTE,ago.-18,2
+1503804,Jacundá,PA,NORTE,ago.-18,2
+1504059,Mãe Do Rio,PA,NORTE,ago.-18,2
+1504208,Marabá,PA,NORTE,ago.-18,20
+1504422,Marituba,PA,NORTE,ago.-18,5
+1504455,Medicilândia,PA,NORTE,ago.-18,1
+1504604,Mocajuba,PA,NORTE,ago.-18,1
+1504703,Moju,PA,NORTE,ago.-18,5
+1504752,Mojuí Dos Campos,PA,NORTE,ago.-18,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,ago.-18,5
+1504976,Nova Ipixuna,PA,NORTE,ago.-18,1
+1505031,Novo Progresso,PA,NORTE,ago.-18,2
+1505064,Novo Repartimento,PA,NORTE,ago.-18,1
+1505106,Óbidos,PA,NORTE,ago.-18,2
+1505304,Oriximiná,PA,NORTE,ago.-18,2
+1505437,Ourilândia Do Norte,PA,NORTE,ago.-18,1
+1505502,Paragominas,PA,NORTE,ago.-18,6
+1505536,Parauapebas,PA,NORTE,ago.-18,11
+1505700,Ponta De Pedras,PA,NORTE,ago.-18,3
+1505809,Portel,PA,NORTE,ago.-18,1
+1505908,Porto De Moz,PA,NORTE,ago.-18,1
+1506005,Prainha,PA,NORTE,ago.-18,1
+1506138,Redenção,PA,NORTE,ago.-18,9
+1506187,Rondon Do Pará,PA,NORTE,ago.-18,1
+1506195,Rurópolis,PA,NORTE,ago.-18,1
+1506203,Salinópolis,PA,NORTE,ago.-18,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,ago.-18,2
+1506500,Santa Izabel Do Pará,PA,NORTE,ago.-18,2
+1506559,Santa Luzia Do Pará,PA,NORTE,ago.-18,3
+1506609,Santa Maria Do Pará,PA,NORTE,ago.-18,1
+1506708,Santana Do Araguaia,PA,NORTE,ago.-18,1
+1506807,Santarém,PA,NORTE,ago.-18,2
+1507003,Santo Antônio Do Tauá,PA,NORTE,ago.-18,1
+1507102,São Caetano De Odivelas,PA,NORTE,ago.-18,1
+1507300,São Félix Do Xingu,PA,NORTE,ago.-18,2
+1507458,São Geraldo Do Araguaia,PA,NORTE,ago.-18,1
+1507466,São João Da Ponta,PA,NORTE,ago.-18,2
+1507607,São Miguel Do Guamá,PA,NORTE,ago.-18,1
+1507805,Senador José Porfírio,PA,NORTE,ago.-18,4
+1507904,Soure,PA,NORTE,ago.-18,1
+1507953,Tailândia,PA,NORTE,ago.-18,3
+1507961,Terra Alta,PA,NORTE,ago.-18,1
+1507979,Terra Santa,PA,NORTE,ago.-18,1
+1508001,Tomé-Açu,PA,NORTE,ago.-18,1
+1508050,Trairão,PA,NORTE,ago.-18,3
+1508100,Tucuruí,PA,NORTE,ago.-18,1
+1508126,Ulianópolis,PA,NORTE,ago.-18,2
+1508159,Uruará,PA,NORTE,ago.-18,1
+1508209,Vigia,PA,NORTE,ago.-18,3
+1508308,Viseu,PA,NORTE,ago.-18,1
+1500107,Abaetetuba,PA,NORTE,set.-18,7
+1500206,Acará,PA,NORTE,set.-18,4
+1500347,Água Azul Do Norte,PA,NORTE,set.-18,1
+1500404,Alenquer,PA,NORTE,set.-18,1
+1500503,Almeirim,PA,NORTE,set.-18,1
+1500602,Altamira,PA,NORTE,set.-18,13
+1500800,Ananindeua,PA,NORTE,set.-18,18
+1500859,Anapu,PA,NORTE,set.-18,3
+1500909,Augusto Corrêa,PA,NORTE,set.-18,1
+1501303,Barcarena,PA,NORTE,set.-18,3
+1501402,Belém,PA,NORTE,set.-18,76
+1501501,Benevides,PA,NORTE,set.-18,3
+1501709,Bragança,PA,NORTE,set.-18,5
+1501808,Breves,PA,NORTE,set.-18,4
+1501907,Bujaru,PA,NORTE,set.-18,1
+1501956,Cachoeira Do Piriá,PA,NORTE,set.-18,3
+1502152,Canaã Dos Carajás,PA,NORTE,set.-18,2
+1502202,Capanema,PA,NORTE,set.-18,1
+1502301,Capitão Poço,PA,NORTE,set.-18,3
+1502400,Castanhal,PA,NORTE,set.-18,8
+1502707,Conceição Do Araguaia,PA,NORTE,set.-18,3
+1502772,Curionópolis,PA,NORTE,set.-18,3
+1502905,Curuçá,PA,NORTE,set.-18,2
+1502939,Dom Eliseu,PA,NORTE,set.-18,1
+1502954,Eldorado Do Carajás,PA,NORTE,set.-18,1
+1503044,Floresta Do Araguaia,PA,NORTE,set.-18,2
+1503077,Garrafão Do Norte,PA,NORTE,set.-18,1
+1503309,Igarapé-Miri,PA,NORTE,set.-18,1
+1503457,Ipixuna Do Pará,PA,NORTE,set.-18,2
+1503606,Itaituba,PA,NORTE,set.-18,5
+1503705,Itupiranga,PA,NORTE,set.-18,2
+1503804,Jacundá,PA,NORTE,set.-18,2
+1504059,Mãe Do Rio,PA,NORTE,set.-18,3
+1504109,Magalhães Barata,PA,NORTE,set.-18,2
+1504208,Marabá,PA,NORTE,set.-18,14
+1504307,Maracanã,PA,NORTE,set.-18,1
+1504406,Marapanim,PA,NORTE,set.-18,2
+1504422,Marituba,PA,NORTE,set.-18,13
+1504703,Moju,PA,NORTE,set.-18,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,set.-18,1
+1505031,Novo Progresso,PA,NORTE,set.-18,1
+1505064,Novo Repartimento,PA,NORTE,set.-18,5
+1505106,Óbidos,PA,NORTE,set.-18,1
+1505205,Oeiras Do Pará,PA,NORTE,set.-18,1
+1505304,Oriximiná,PA,NORTE,set.-18,1
+1505403,Ourém,PA,NORTE,set.-18,2
+1505437,Ourilândia Do Norte,PA,NORTE,set.-18,2
+1505486,Pacajá,PA,NORTE,set.-18,3
+1505502,Paragominas,PA,NORTE,set.-18,7
+1505536,Parauapebas,PA,NORTE,set.-18,10
+1505650,Placas,PA,NORTE,set.-18,2
+1505809,Portel,PA,NORTE,set.-18,1
+1506005,Prainha,PA,NORTE,set.-18,1
+1506138,Redenção,PA,NORTE,set.-18,9
+1506187,Rondon Do Pará,PA,NORTE,set.-18,3
+1506302,Salvaterra,PA,NORTE,set.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,set.-18,6
+1506609,Santa Maria Do Pará,PA,NORTE,set.-18,1
+1506708,Santana Do Araguaia,PA,NORTE,set.-18,1
+1506807,Santarém,PA,NORTE,set.-18,3
+1507102,São Caetano De Odivelas,PA,NORTE,set.-18,1
+1507151,São Domingos Do Araguaia,PA,NORTE,set.-18,1
+1507201,São Domingos Do Capim,PA,NORTE,set.-18,1
+1507300,São Félix Do Xingu,PA,NORTE,set.-18,3
+1507409,São Francisco Do Pará,PA,NORTE,set.-18,2
+1507458,São Geraldo Do Araguaia,PA,NORTE,set.-18,1
+1507474,São João De Pirabas,PA,NORTE,set.-18,1
+1507508,São João Do Araguaia,PA,NORTE,set.-18,2
+1507805,Senador José Porfírio,PA,NORTE,set.-18,2
+1507953,Tailândia,PA,NORTE,set.-18,3
+1508001,Tomé-Açu,PA,NORTE,set.-18,2
+1508035,Tracuateua,PA,NORTE,set.-18,1
+1508050,Trairão,PA,NORTE,set.-18,1
+1508100,Tucuruí,PA,NORTE,set.-18,5
+1508126,Ulianópolis,PA,NORTE,set.-18,2
+1508159,Uruará,PA,NORTE,set.-18,2
+1508209,Vigia,PA,NORTE,set.-18,1
+1508308,Viseu,PA,NORTE,set.-18,1
+1508357,Vitória Do Xingu,PA,NORTE,set.-18,1
+1500107,Abaetetuba,PA,NORTE,out.-18,7
+1500206,Acará,PA,NORTE,out.-18,3
+1500305,Afuá,PA,NORTE,out.-18,1
+1500347,Água Azul Do Norte,PA,NORTE,out.-18,3
+1500602,Altamira,PA,NORTE,out.-18,5
+1500800,Ananindeua,PA,NORTE,out.-18,40
+1500859,Anapu,PA,NORTE,out.-18,5
+1500958,Aurora Do Pará,PA,NORTE,out.-18,1
+1501204,Baião,PA,NORTE,out.-18,2
+1501303,Barcarena,PA,NORTE,out.-18,4
+1501402,Belém,PA,NORTE,out.-18,83
+1501451,Belterra,PA,NORTE,out.-18,2
+1501501,Benevides,PA,NORTE,out.-18,5
+1501576,Bom Jesus Do Tocantins,PA,NORTE,out.-18,1
+1501709,Bragança,PA,NORTE,out.-18,4
+1501725,Brasil Novo,PA,NORTE,out.-18,4
+1501782,Breu Branco,PA,NORTE,out.-18,3
+1501808,Breves,PA,NORTE,out.-18,1
+1501907,Bujaru,PA,NORTE,out.-18,1
+1501956,Cachoeira Do Piriá,PA,NORTE,out.-18,2
+1502103,Cametá,PA,NORTE,out.-18,3
+1502202,Capanema,PA,NORTE,out.-18,2
+1502301,Capitão Poço,PA,NORTE,out.-18,2
+1502400,Castanhal,PA,NORTE,out.-18,10
+1502608,Colares,PA,NORTE,out.-18,1
+1502772,Curionópolis,PA,NORTE,out.-18,3
+1502905,Curuçá,PA,NORTE,out.-18,1
+1502939,Dom Eliseu,PA,NORTE,out.-18,2
+1502954,Eldorado Do Carajás,PA,NORTE,out.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,out.-18,4
+1503077,Garrafão Do Norte,PA,NORTE,out.-18,3
+1503101,Gurupá,PA,NORTE,out.-18,1
+1503200,Igarapé-Açu,PA,NORTE,out.-18,1
+1503309,Igarapé-Miri,PA,NORTE,out.-18,2
+1503408,Inhangapi,PA,NORTE,out.-18,1
+1503457,Ipixuna Do Pará,PA,NORTE,out.-18,4
+1503507,Irituia,PA,NORTE,out.-18,1
+1503606,Itaituba,PA,NORTE,out.-18,7
+1503705,Itupiranga,PA,NORTE,out.-18,1
+1503804,Jacundá,PA,NORTE,out.-18,2
+1504000,Limoeiro Do Ajuru,PA,NORTE,out.-18,1
+1504109,Magalhães Barata,PA,NORTE,out.-18,1
+1504208,Marabá,PA,NORTE,out.-18,16
+1504422,Marituba,PA,NORTE,out.-18,10
+1504505,Melgaço,PA,NORTE,out.-18,1
+1504703,Moju,PA,NORTE,out.-18,1
+1504802,Monte Alegre,PA,NORTE,out.-18,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,out.-18,1
+1505031,Novo Progresso,PA,NORTE,out.-18,2
+1505064,Novo Repartimento,PA,NORTE,out.-18,1
+1505304,Oriximiná,PA,NORTE,out.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,out.-18,1
+1505486,Pacajá,PA,NORTE,out.-18,1
+1505502,Paragominas,PA,NORTE,out.-18,3
+1505536,Parauapebas,PA,NORTE,out.-18,4
+1505650,Placas,PA,NORTE,out.-18,4
+1506005,Prainha,PA,NORTE,out.-18,1
+1506138,Redenção,PA,NORTE,out.-18,2
+1506161,Rio Maria,PA,NORTE,out.-18,1
+1506187,Rondon Do Pará,PA,NORTE,out.-18,2
+1506195,Rurópolis,PA,NORTE,out.-18,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,out.-18,3
+1506500,Santa Izabel Do Pará,PA,NORTE,out.-18,2
+1506609,Santa Maria Do Pará,PA,NORTE,out.-18,2
+1506708,Santana Do Araguaia,PA,NORTE,out.-18,3
+1506807,Santarém,PA,NORTE,out.-18,3
+1507102,São Caetano De Odivelas,PA,NORTE,out.-18,1
+1507151,São Domingos Do Araguaia,PA,NORTE,out.-18,1
+1507300,São Félix Do Xingu,PA,NORTE,out.-18,1
+1507474,São João De Pirabas,PA,NORTE,out.-18,1
+1507607,São Miguel Do Guamá,PA,NORTE,out.-18,2
+1507706,São Sebastião Da Boa Vista,PA,NORTE,out.-18,2
+1507805,Senador José Porfírio,PA,NORTE,out.-18,1
+1507953,Tailândia,PA,NORTE,out.-18,3
+1507961,Terra Alta,PA,NORTE,out.-18,1
+1508001,Tomé-Açu,PA,NORTE,out.-18,5
+1508050,Trairão,PA,NORTE,out.-18,2
+1508100,Tucuruí,PA,NORTE,out.-18,2
+1508126,Ulianópolis,PA,NORTE,out.-18,2
+1508159,Uruará,PA,NORTE,out.-18,1
+1508209,Vigia,PA,NORTE,out.-18,1
+1508407,Xinguara,PA,NORTE,out.-18,1
+1500107,Abaetetuba,PA,NORTE,nov.-18,7
+1500131,Abel Figueiredo,PA,NORTE,nov.-18,1
+1500206,Acará,PA,NORTE,nov.-18,3
+1500602,Altamira,PA,NORTE,nov.-18,3
+1500701,Anajás,PA,NORTE,nov.-18,2
+1500800,Ananindeua,PA,NORTE,nov.-18,23
+1500859,Anapu,PA,NORTE,nov.-18,3
+1501204,Baião,PA,NORTE,nov.-18,1
+1501303,Barcarena,PA,NORTE,nov.-18,7
+1501402,Belém,PA,NORTE,nov.-18,74
+1501501,Benevides,PA,NORTE,nov.-18,3
+1501600,Bonito,PA,NORTE,nov.-18,1
+1501709,Bragança,PA,NORTE,nov.-18,2
+1501725,Brasil Novo,PA,NORTE,nov.-18,1
+1501782,Breu Branco,PA,NORTE,nov.-18,1
+1501808,Breves,PA,NORTE,nov.-18,3
+1501907,Bujaru,PA,NORTE,nov.-18,1
+1501956,Cachoeira Do Piriá,PA,NORTE,nov.-18,1
+1502103,Cametá,PA,NORTE,nov.-18,1
+1502202,Capanema,PA,NORTE,nov.-18,5
+1502400,Castanhal,PA,NORTE,nov.-18,15
+1502608,Colares,PA,NORTE,nov.-18,2
+1502707,Conceição Do Araguaia,PA,NORTE,nov.-18,1
+1502756,Concórdia Do Pará,PA,NORTE,nov.-18,2
+1502772,Curionópolis,PA,NORTE,nov.-18,1
+1502905,Curuçá,PA,NORTE,nov.-18,4
+1502939,Dom Eliseu,PA,NORTE,nov.-18,3
+1502954,Eldorado Do Carajás,PA,NORTE,nov.-18,4
+1503002,Faro,PA,NORTE,nov.-18,1
+1503077,Garrafão Do Norte,PA,NORTE,nov.-18,1
+1503309,Igarapé-Miri,PA,NORTE,nov.-18,1
+1503408,Inhangapi,PA,NORTE,nov.-18,1
+1503457,Ipixuna Do Pará,PA,NORTE,nov.-18,4
+1503507,Irituia,PA,NORTE,nov.-18,1
+1503606,Itaituba,PA,NORTE,nov.-18,9
+1503705,Itupiranga,PA,NORTE,nov.-18,5
+1503804,Jacundá,PA,NORTE,nov.-18,2
+1503903,Juruti,PA,NORTE,nov.-18,1
+1504000,Limoeiro Do Ajuru,PA,NORTE,nov.-18,1
+1504208,Marabá,PA,NORTE,nov.-18,9
+1504422,Marituba,PA,NORTE,nov.-18,10
+1504604,Mocajuba,PA,NORTE,nov.-18,1
+1504703,Moju,PA,NORTE,nov.-18,5
+1504976,Nova Ipixuna,PA,NORTE,nov.-18,1
+1505031,Novo Progresso,PA,NORTE,nov.-18,5
+1505064,Novo Repartimento,PA,NORTE,nov.-18,4
+1505106,Óbidos,PA,NORTE,nov.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,nov.-18,4
+1505486,Pacajá,PA,NORTE,nov.-18,6
+1505502,Paragominas,PA,NORTE,nov.-18,4
+1505536,Parauapebas,PA,NORTE,nov.-18,10
+1505551,Pau D'Arco,PA,NORTE,nov.-18,1
+1505601,Peixe-Boi,PA,NORTE,nov.-18,1
+1505908,Porto De Moz,PA,NORTE,nov.-18,1
+1506138,Redenção,PA,NORTE,nov.-18,3
+1506161,Rio Maria,PA,NORTE,nov.-18,4
+1506187,Rondon Do Pará,PA,NORTE,nov.-18,1
+1506195,Rurópolis,PA,NORTE,nov.-18,1
+1506203,Salinópolis,PA,NORTE,nov.-18,3
+1506351,Santa Bárbara Do Pará,PA,NORTE,nov.-18,2
+1506500,Santa Izabel Do Pará,PA,NORTE,nov.-18,2
+1506559,Santa Luzia Do Pará,PA,NORTE,nov.-18,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,nov.-18,1
+1506708,Santana Do Araguaia,PA,NORTE,nov.-18,2
+1506807,Santarém,PA,NORTE,nov.-18,4
+1507151,São Domingos Do Araguaia,PA,NORTE,nov.-18,2
+1507201,São Domingos Do Capim,PA,NORTE,nov.-18,3
+1507300,São Félix Do Xingu,PA,NORTE,nov.-18,2
+1507607,São Miguel Do Guamá,PA,NORTE,nov.-18,2
+1507953,Tailândia,PA,NORTE,nov.-18,2
+1508050,Trairão,PA,NORTE,nov.-18,1
+1508084,Tucumã,PA,NORTE,nov.-18,2
+1508100,Tucuruí,PA,NORTE,nov.-18,5
+1508159,Uruará,PA,NORTE,nov.-18,1
+1508209,Vigia,PA,NORTE,nov.-18,2
+1508308,Viseu,PA,NORTE,nov.-18,1
+1500107,Abaetetuba,PA,NORTE,dez.-18,2
+1500206,Acará,PA,NORTE,dez.-18,1
+1500404,Alenquer,PA,NORTE,dez.-18,1
+1500602,Altamira,PA,NORTE,dez.-18,7
+1500800,Ananindeua,PA,NORTE,dez.-18,23
+1500859,Anapu,PA,NORTE,dez.-18,4
+1501006,Aveiro,PA,NORTE,dez.-18,1
+1501204,Baião,PA,NORTE,dez.-18,1
+1501303,Barcarena,PA,NORTE,dez.-18,3
+1501402,Belém,PA,NORTE,dez.-18,42
+1501501,Benevides,PA,NORTE,dez.-18,2
+1501709,Bragança,PA,NORTE,dez.-18,3
+1501782,Breu Branco,PA,NORTE,dez.-18,2
+1501808,Breves,PA,NORTE,dez.-18,3
+1501907,Bujaru,PA,NORTE,dez.-18,3
+1502004,Cachoeira Do Arari,PA,NORTE,dez.-18,1
+1502103,Cametá,PA,NORTE,dez.-18,3
+1502152,Canaã Dos Carajás,PA,NORTE,dez.-18,3
+1502202,Capanema,PA,NORTE,dez.-18,2
+1502301,Capitão Poço,PA,NORTE,dez.-18,5
+1502400,Castanhal,PA,NORTE,dez.-18,13
+1502707,Conceição Do Araguaia,PA,NORTE,dez.-18,1
+1502756,Concórdia Do Pará,PA,NORTE,dez.-18,2
+1502772,Curionópolis,PA,NORTE,dez.-18,5
+1502905,Curuçá,PA,NORTE,dez.-18,4
+1502939,Dom Eliseu,PA,NORTE,dez.-18,2
+1502954,Eldorado Do Carajás,PA,NORTE,dez.-18,2
+1503044,Floresta Do Araguaia,PA,NORTE,dez.-18,5
+1503077,Garrafão Do Norte,PA,NORTE,dez.-18,1
+1503093,Goianésia Do Pará,PA,NORTE,dez.-18,4
+1503200,Igarapé-Açu,PA,NORTE,dez.-18,2
+1503309,Igarapé-Miri,PA,NORTE,dez.-18,3
+1503457,Ipixuna Do Pará,PA,NORTE,dez.-18,1
+1503507,Irituia,PA,NORTE,dez.-18,3
+1503606,Itaituba,PA,NORTE,dez.-18,1
+1503754,Jacareacanga,PA,NORTE,dez.-18,1
+1503804,Jacundá,PA,NORTE,dez.-18,1
+1503903,Juruti,PA,NORTE,dez.-18,1
+1504059,Mãe Do Rio,PA,NORTE,dez.-18,1
+1504208,Marabá,PA,NORTE,dez.-18,10
+1504307,Maracanã,PA,NORTE,dez.-18,2
+1504422,Marituba,PA,NORTE,dez.-18,8
+1504703,Moju,PA,NORTE,dez.-18,3
+1504802,Monte Alegre,PA,NORTE,dez.-18,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,dez.-18,2
+1505031,Novo Progresso,PA,NORTE,dez.-18,3
+1505064,Novo Repartimento,PA,NORTE,dez.-18,1
+1505304,Oriximiná,PA,NORTE,dez.-18,1
+1505437,Ourilândia Do Norte,PA,NORTE,dez.-18,5
+1505486,Pacajá,PA,NORTE,dez.-18,3
+1505502,Paragominas,PA,NORTE,dez.-18,6
+1505536,Parauapebas,PA,NORTE,dez.-18,3
+1505809,Portel,PA,NORTE,dez.-18,2
+1506112,Quatipuru,PA,NORTE,dez.-18,1
+1506138,Redenção,PA,NORTE,dez.-18,5
+1506187,Rondon Do Pará,PA,NORTE,dez.-18,2
+1506195,Rurópolis,PA,NORTE,dez.-18,1
+1506203,Salinópolis,PA,NORTE,dez.-18,1
+1506302,Salvaterra,PA,NORTE,dez.-18,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,dez.-18,1
+1506500,Santa Izabel Do Pará,PA,NORTE,dez.-18,5
+1506583,Santa Maria Das Barreiras,PA,NORTE,dez.-18,1
+1506609,Santa Maria Do Pará,PA,NORTE,dez.-18,1
+1506708,Santana Do Araguaia,PA,NORTE,dez.-18,4
+1506807,Santarém,PA,NORTE,dez.-18,3
+1507151,São Domingos Do Araguaia,PA,NORTE,dez.-18,1
+1507201,São Domingos Do Capim,PA,NORTE,dez.-18,1
+1507300,São Félix Do Xingu,PA,NORTE,dez.-18,2
+1507458,São Geraldo Do Araguaia,PA,NORTE,dez.-18,3
+1507474,São João De Pirabas,PA,NORTE,dez.-18,1
+1507508,São João Do Araguaia,PA,NORTE,dez.-18,2
+1507607,São Miguel Do Guamá,PA,NORTE,dez.-18,1
+1507755,Sapucaia,PA,NORTE,dez.-18,1
+1507953,Tailândia,PA,NORTE,dez.-18,4
+1507961,Terra Alta,PA,NORTE,dez.-18,3
+1507979,Terra Santa,PA,NORTE,dez.-18,1
+1508001,Tomé-Açu,PA,NORTE,dez.-18,2
+1508050,Trairão,PA,NORTE,dez.-18,3
+1508084,Tucumã,PA,NORTE,dez.-18,1
+1508100,Tucuruí,PA,NORTE,dez.-18,2
+1508159,Uruará,PA,NORTE,dez.-18,2
+1508209,Vigia,PA,NORTE,dez.-18,4
+1508308,Viseu,PA,NORTE,dez.-18,1
+1508357,Vitória Do Xingu,PA,NORTE,dez.-18,1
+1508407,Xinguara,PA,NORTE,dez.-18,1
+1500107,Abaetetuba,PA,NORTE,jan.-19,4
+1500206,Acará,PA,NORTE,jan.-19,2
+1500305,Afuá,PA,NORTE,jan.-19,1
+1500602,Altamira,PA,NORTE,jan.-19,11
+1500800,Ananindeua,PA,NORTE,jan.-19,14
+1500859,Anapu,PA,NORTE,jan.-19,3
+1500909,Augusto Corrêa,PA,NORTE,jan.-19,2
+1500958,Aurora Do Pará,PA,NORTE,jan.-19,2
+1501204,Baião,PA,NORTE,jan.-19,1
+1501303,Barcarena,PA,NORTE,jan.-19,1
+1501402,Belém,PA,NORTE,jan.-19,58
+1501501,Benevides,PA,NORTE,jan.-19,2
+1501600,Bonito,PA,NORTE,jan.-19,2
+1501709,Bragança,PA,NORTE,jan.-19,2
+1501758,Brejo Grande Do Araguaia,PA,NORTE,jan.-19,1
+1501782,Breu Branco,PA,NORTE,jan.-19,3
+1501808,Breves,PA,NORTE,jan.-19,1
+1501907,Bujaru,PA,NORTE,jan.-19,1
+1502103,Cametá,PA,NORTE,jan.-19,2
+1502152,Canaã Dos Carajás,PA,NORTE,jan.-19,2
+1502202,Capanema,PA,NORTE,jan.-19,3
+1502301,Capitão Poço,PA,NORTE,jan.-19,2
+1502400,Castanhal,PA,NORTE,jan.-19,9
+1502707,Conceição Do Araguaia,PA,NORTE,jan.-19,1
+1502756,Concórdia Do Pará,PA,NORTE,jan.-19,1
+1502764,Cumaru Do Norte,PA,NORTE,jan.-19,1
+1502772,Curionópolis,PA,NORTE,jan.-19,1
+1502806,Curralinho,PA,NORTE,jan.-19,1
+1502905,Curuçá,PA,NORTE,jan.-19,3
+1502939,Dom Eliseu,PA,NORTE,jan.-19,4
+1502954,Eldorado Do Carajás,PA,NORTE,jan.-19,2
+1503044,Floresta Do Araguaia,PA,NORTE,jan.-19,1
+1503077,Garrafão Do Norte,PA,NORTE,jan.-19,1
+1503093,Goianésia Do Pará,PA,NORTE,jan.-19,2
+1503309,Igarapé-Miri,PA,NORTE,jan.-19,1
+1503408,Inhangapi,PA,NORTE,jan.-19,2
+1503457,Ipixuna Do Pará,PA,NORTE,jan.-19,3
+1503606,Itaituba,PA,NORTE,jan.-19,5
+1503705,Itupiranga,PA,NORTE,jan.-19,1
+1503804,Jacundá,PA,NORTE,jan.-19,2
+1504059,Mãe Do Rio,PA,NORTE,jan.-19,1
+1504109,Magalhães Barata,PA,NORTE,jan.-19,1
+1504208,Marabá,PA,NORTE,jan.-19,12
+1504406,Marapanim,PA,NORTE,jan.-19,2
+1504422,Marituba,PA,NORTE,jan.-19,3
+1504455,Medicilândia,PA,NORTE,jan.-19,2
+1504703,Moju,PA,NORTE,jan.-19,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,jan.-19,4
+1505007,Nova Timboteua,PA,NORTE,jan.-19,1
+1505031,Novo Progresso,PA,NORTE,jan.-19,1
+1505064,Novo Repartimento,PA,NORTE,jan.-19,3
+1505304,Oriximiná,PA,NORTE,jan.-19,2
+1505403,Ourém,PA,NORTE,jan.-19,3
+1505437,Ourilândia Do Norte,PA,NORTE,jan.-19,1
+1505486,Pacajá,PA,NORTE,jan.-19,3
+1505494,Palestina Do Pará,PA,NORTE,jan.-19,1
+1505502,Paragominas,PA,NORTE,jan.-19,4
+1505536,Parauapebas,PA,NORTE,jan.-19,7
+1505551,Pau D'Arco,PA,NORTE,jan.-19,1
+1505809,Portel,PA,NORTE,jan.-19,3
+1506104,Primavera,PA,NORTE,jan.-19,1
+1506138,Redenção,PA,NORTE,jan.-19,3
+1506161,Rio Maria,PA,NORTE,jan.-19,1
+1506187,Rondon Do Pará,PA,NORTE,jan.-19,1
+1506195,Rurópolis,PA,NORTE,jan.-19,1
+1506203,Salinópolis,PA,NORTE,jan.-19,6
+1506302,Salvaterra,PA,NORTE,jan.-19,2
+1506500,Santa Izabel Do Pará,PA,NORTE,jan.-19,5
+1506559,Santa Luzia Do Pará,PA,NORTE,jan.-19,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,jan.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,jan.-19,2
+1506807,Santarém,PA,NORTE,jan.-19,5
+1507003,Santo Antônio Do Tauá,PA,NORTE,jan.-19,1
+1507102,São Caetano De Odivelas,PA,NORTE,jan.-19,2
+1507151,São Domingos Do Araguaia,PA,NORTE,jan.-19,2
+1507300,São Félix Do Xingu,PA,NORTE,jan.-19,1
+1507474,São João De Pirabas,PA,NORTE,jan.-19,1
+1507607,São Miguel Do Guamá,PA,NORTE,jan.-19,2
+1507755,Sapucaia,PA,NORTE,jan.-19,1
+1507953,Tailândia,PA,NORTE,jan.-19,3
+1507979,Terra Santa,PA,NORTE,jan.-19,1
+1508001,Tomé-Açu,PA,NORTE,jan.-19,4
+1508100,Tucuruí,PA,NORTE,jan.-19,1
+1508357,Vitória Do Xingu,PA,NORTE,jan.-19,1
+1500107,Abaetetuba,PA,NORTE,fev.-19,3
+1500131,Abel Figueiredo,PA,NORTE,fev.-19,1
+1500347,Água Azul Do Norte,PA,NORTE,fev.-19,1
+1500503,Almeirim,PA,NORTE,fev.-19,2
+1500602,Altamira,PA,NORTE,fev.-19,9
+1500800,Ananindeua,PA,NORTE,fev.-19,21
+1500859,Anapu,PA,NORTE,fev.-19,1
+1500958,Aurora Do Pará,PA,NORTE,fev.-19,1
+1501204,Baião,PA,NORTE,fev.-19,1
+1501303,Barcarena,PA,NORTE,fev.-19,3
+1501402,Belém,PA,NORTE,fev.-19,39
+1501501,Benevides,PA,NORTE,fev.-19,2
+1501709,Bragança,PA,NORTE,fev.-19,4
+1501758,Brejo Grande Do Araguaia,PA,NORTE,fev.-19,1
+1501782,Breu Branco,PA,NORTE,fev.-19,2
+1501808,Breves,PA,NORTE,fev.-19,1
+1501907,Bujaru,PA,NORTE,fev.-19,3
+1502103,Cametá,PA,NORTE,fev.-19,1
+1502152,Canaã Dos Carajás,PA,NORTE,fev.-19,1
+1502202,Capanema,PA,NORTE,fev.-19,3
+1502301,Capitão Poço,PA,NORTE,fev.-19,2
+1502400,Castanhal,PA,NORTE,fev.-19,4
+1502608,Colares,PA,NORTE,fev.-19,1
+1502707,Conceição Do Araguaia,PA,NORTE,fev.-19,4
+1502756,Concórdia Do Pará,PA,NORTE,fev.-19,2
+1502905,Curuçá,PA,NORTE,fev.-19,1
+1502954,Eldorado Do Carajás,PA,NORTE,fev.-19,2
+1503002,Faro,PA,NORTE,fev.-19,1
+1503077,Garrafão Do Norte,PA,NORTE,fev.-19,1
+1503093,Goianésia Do Pará,PA,NORTE,fev.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,fev.-19,4
+1503606,Itaituba,PA,NORTE,fev.-19,3
+1503754,Jacareacanga,PA,NORTE,fev.-19,3
+1503804,Jacundá,PA,NORTE,fev.-19,1
+1504059,Mãe Do Rio,PA,NORTE,fev.-19,2
+1504208,Marabá,PA,NORTE,fev.-19,12
+1504406,Marapanim,PA,NORTE,fev.-19,1
+1504422,Marituba,PA,NORTE,fev.-19,7
+1504455,Medicilândia,PA,NORTE,fev.-19,1
+1504703,Moju,PA,NORTE,fev.-19,3
+1504901,Muaná,PA,NORTE,fev.-19,1
+1504976,Nova Ipixuna,PA,NORTE,fev.-19,1
+1505007,Nova Timboteua,PA,NORTE,fev.-19,1
+1505064,Novo Repartimento,PA,NORTE,fev.-19,4
+1505205,Oeiras Do Pará,PA,NORTE,fev.-19,1
+1505403,Ourém,PA,NORTE,fev.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,fev.-19,3
+1505486,Pacajá,PA,NORTE,fev.-19,1
+1505502,Paragominas,PA,NORTE,fev.-19,2
+1505536,Parauapebas,PA,NORTE,fev.-19,11
+1505700,Ponta De Pedras,PA,NORTE,fev.-19,1
+1505908,Porto De Moz,PA,NORTE,fev.-19,2
+1506138,Redenção,PA,NORTE,fev.-19,3
+1506161,Rio Maria,PA,NORTE,fev.-19,2
+1506187,Rondon Do Pará,PA,NORTE,fev.-19,2
+1506195,Rurópolis,PA,NORTE,fev.-19,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,fev.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,fev.-19,1
+1506559,Santa Luzia Do Pará,PA,NORTE,fev.-19,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,fev.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,fev.-19,1
+1506807,Santarém,PA,NORTE,fev.-19,5
+1507151,São Domingos Do Araguaia,PA,NORTE,fev.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,fev.-19,4
+1507466,São João Da Ponta,PA,NORTE,fev.-19,1
+1507474,São João De Pirabas,PA,NORTE,fev.-19,1
+1507607,São Miguel Do Guamá,PA,NORTE,fev.-19,2
+1507953,Tailândia,PA,NORTE,fev.-19,4
+1507961,Terra Alta,PA,NORTE,fev.-19,1
+1507979,Terra Santa,PA,NORTE,fev.-19,1
+1508001,Tomé-Açu,PA,NORTE,fev.-19,3
+1508084,Tucumã,PA,NORTE,fev.-19,2
+1508100,Tucuruí,PA,NORTE,fev.-19,1
+1508126,Ulianópolis,PA,NORTE,fev.-19,1
+1508308,Viseu,PA,NORTE,fev.-19,3
+1500107,Abaetetuba,PA,NORTE,mar.-19,6
+1500206,Acará,PA,NORTE,mar.-19,5
+1500602,Altamira,PA,NORTE,mar.-19,9
+1500800,Ananindeua,PA,NORTE,mar.-19,19
+1500859,Anapu,PA,NORTE,mar.-19,2
+1500909,Augusto Corrêa,PA,NORTE,mar.-19,1
+1500958,Aurora Do Pará,PA,NORTE,mar.-19,1
+1501105,Bagre,PA,NORTE,mar.-19,2
+1501204,Baião,PA,NORTE,mar.-19,6
+1501253,Bannach,PA,NORTE,mar.-19,1
+1501303,Barcarena,PA,NORTE,mar.-19,4
+1501402,Belém,PA,NORTE,mar.-19,39
+1501501,Benevides,PA,NORTE,mar.-19,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mar.-19,1
+1501709,Bragança,PA,NORTE,mar.-19,2
+1501725,Brasil Novo,PA,NORTE,mar.-19,2
+1501782,Breu Branco,PA,NORTE,mar.-19,4
+1501808,Breves,PA,NORTE,mar.-19,2
+1501907,Bujaru,PA,NORTE,mar.-19,3
+1501956,Cachoeira Do Piriá,PA,NORTE,mar.-19,2
+1502103,Cametá,PA,NORTE,mar.-19,1
+1502152,Canaã Dos Carajás,PA,NORTE,mar.-19,1
+1502202,Capanema,PA,NORTE,mar.-19,2
+1502301,Capitão Poço,PA,NORTE,mar.-19,4
+1502400,Castanhal,PA,NORTE,mar.-19,5
+1502756,Concórdia Do Pará,PA,NORTE,mar.-19,1
+1502764,Cumaru Do Norte,PA,NORTE,mar.-19,1
+1502772,Curionópolis,PA,NORTE,mar.-19,1
+1502905,Curuçá,PA,NORTE,mar.-19,1
+1502939,Dom Eliseu,PA,NORTE,mar.-19,1
+1502954,Eldorado Do Carajás,PA,NORTE,mar.-19,4
+1503044,Floresta Do Araguaia,PA,NORTE,mar.-19,2
+1503077,Garrafão Do Norte,PA,NORTE,mar.-19,3
+1503093,Goianésia Do Pará,PA,NORTE,mar.-19,1
+1503101,Gurupá,PA,NORTE,mar.-19,1
+1503309,Igarapé-Miri,PA,NORTE,mar.-19,5
+1503457,Ipixuna Do Pará,PA,NORTE,mar.-19,2
+1503606,Itaituba,PA,NORTE,mar.-19,5
+1503754,Jacareacanga,PA,NORTE,mar.-19,1
+1503903,Juruti,PA,NORTE,mar.-19,2
+1504208,Marabá,PA,NORTE,mar.-19,5
+1504307,Maracanã,PA,NORTE,mar.-19,1
+1504406,Marapanim,PA,NORTE,mar.-19,1
+1504422,Marituba,PA,NORTE,mar.-19,7
+1504703,Moju,PA,NORTE,mar.-19,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,mar.-19,1
+1504976,Nova Ipixuna,PA,NORTE,mar.-19,1
+1505031,Novo Progresso,PA,NORTE,mar.-19,3
+1505064,Novo Repartimento,PA,NORTE,mar.-19,5
+1505205,Oeiras Do Pará,PA,NORTE,mar.-19,1
+1505304,Oriximiná,PA,NORTE,mar.-19,2
+1505502,Paragominas,PA,NORTE,mar.-19,3
+1505536,Parauapebas,PA,NORTE,mar.-19,7
+1505601,Peixe-Boi,PA,NORTE,mar.-19,1
+1505635,Piçarra,PA,NORTE,mar.-19,1
+1506112,Quatipuru,PA,NORTE,mar.-19,1
+1506138,Redenção,PA,NORTE,mar.-19,2
+1506195,Rurópolis,PA,NORTE,mar.-19,4
+1506302,Salvaterra,PA,NORTE,mar.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,mar.-19,3
+1506559,Santa Luzia Do Pará,PA,NORTE,mar.-19,2
+1506609,Santa Maria Do Pará,PA,NORTE,mar.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,mar.-19,2
+1506807,Santarém,PA,NORTE,mar.-19,2
+1507151,São Domingos Do Araguaia,PA,NORTE,mar.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,mar.-19,3
+1507607,São Miguel Do Guamá,PA,NORTE,mar.-19,4
+1507706,São Sebastião Da Boa Vista,PA,NORTE,mar.-19,1
+1507805,Senador José Porfírio,PA,NORTE,mar.-19,3
+1507953,Tailândia,PA,NORTE,mar.-19,3
+1507961,Terra Alta,PA,NORTE,mar.-19,1
+1508001,Tomé-Açu,PA,NORTE,mar.-19,1
+1508050,Trairão,PA,NORTE,mar.-19,3
+1508084,Tucumã,PA,NORTE,mar.-19,1
+1508100,Tucuruí,PA,NORTE,mar.-19,4
+1508126,Ulianópolis,PA,NORTE,mar.-19,1
+1508159,Uruará,PA,NORTE,mar.-19,3
+1508209,Vigia,PA,NORTE,mar.-19,1
+1508308,Viseu,PA,NORTE,mar.-19,3
+1500107,Abaetetuba,PA,NORTE,abr.-19,1
+1500347,Água Azul Do Norte,PA,NORTE,abr.-19,1
+1500602,Altamira,PA,NORTE,abr.-19,7
+1500701,Anajás,PA,NORTE,abr.-19,1
+1500800,Ananindeua,PA,NORTE,abr.-19,12
+1500859,Anapu,PA,NORTE,abr.-19,3
+1501303,Barcarena,PA,NORTE,abr.-19,4
+1501402,Belém,PA,NORTE,abr.-19,41
+1501501,Benevides,PA,NORTE,abr.-19,2
+1501600,Bonito,PA,NORTE,abr.-19,2
+1501709,Bragança,PA,NORTE,abr.-19,3
+1501725,Brasil Novo,PA,NORTE,abr.-19,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,abr.-19,1
+1501782,Breu Branco,PA,NORTE,abr.-19,3
+1501956,Cachoeira Do Piriá,PA,NORTE,abr.-19,1
+1502103,Cametá,PA,NORTE,abr.-19,3
+1502152,Canaã Dos Carajás,PA,NORTE,abr.-19,2
+1502202,Capanema,PA,NORTE,abr.-19,2
+1502301,Capitão Poço,PA,NORTE,abr.-19,2
+1502400,Castanhal,PA,NORTE,abr.-19,15
+1502707,Conceição Do Araguaia,PA,NORTE,abr.-19,2
+1502756,Concórdia Do Pará,PA,NORTE,abr.-19,1
+1502764,Cumaru Do Norte,PA,NORTE,abr.-19,1
+1502939,Dom Eliseu,PA,NORTE,abr.-19,1
+1502954,Eldorado Do Carajás,PA,NORTE,abr.-19,2
+1503093,Goianésia Do Pará,PA,NORTE,abr.-19,1
+1503309,Igarapé-Miri,PA,NORTE,abr.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,abr.-19,4
+1503606,Itaituba,PA,NORTE,abr.-19,6
+1503705,Itupiranga,PA,NORTE,abr.-19,3
+1503754,Jacareacanga,PA,NORTE,abr.-19,2
+1503804,Jacundá,PA,NORTE,abr.-19,5
+1503903,Juruti,PA,NORTE,abr.-19,1
+1504059,Mãe Do Rio,PA,NORTE,abr.-19,2
+1504208,Marabá,PA,NORTE,abr.-19,14
+1504406,Marapanim,PA,NORTE,abr.-19,2
+1504422,Marituba,PA,NORTE,abr.-19,3
+1504455,Medicilândia,PA,NORTE,abr.-19,1
+1504703,Moju,PA,NORTE,abr.-19,7
+1504802,Monte Alegre,PA,NORTE,abr.-19,1
+1504976,Nova Ipixuna,PA,NORTE,abr.-19,1
+1505064,Novo Repartimento,PA,NORTE,abr.-19,3
+1505106,Óbidos,PA,NORTE,abr.-19,2
+1505486,Pacajá,PA,NORTE,abr.-19,3
+1505502,Paragominas,PA,NORTE,abr.-19,7
+1505536,Parauapebas,PA,NORTE,abr.-19,4
+1505551,Pau D'Arco,PA,NORTE,abr.-19,2
+1505635,Piçarra,PA,NORTE,abr.-19,1
+1505650,Placas,PA,NORTE,abr.-19,1
+1505809,Portel,PA,NORTE,abr.-19,1
+1506138,Redenção,PA,NORTE,abr.-19,6
+1506161,Rio Maria,PA,NORTE,abr.-19,1
+1506187,Rondon Do Pará,PA,NORTE,abr.-19,2
+1506195,Rurópolis,PA,NORTE,abr.-19,1
+1506203,Salinópolis,PA,NORTE,abr.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,abr.-19,7
+1506559,Santa Luzia Do Pará,PA,NORTE,abr.-19,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,abr.-19,1
+1506807,Santarém,PA,NORTE,abr.-19,7
+1507151,São Domingos Do Araguaia,PA,NORTE,abr.-19,1
+1507201,São Domingos Do Capim,PA,NORTE,abr.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,abr.-19,5
+1507466,São João Da Ponta,PA,NORTE,abr.-19,2
+1507508,São João Do Araguaia,PA,NORTE,abr.-19,2
+1507805,Senador José Porfírio,PA,NORTE,abr.-19,2
+1507953,Tailândia,PA,NORTE,abr.-19,2
+1508001,Tomé-Açu,PA,NORTE,abr.-19,3
+1508100,Tucuruí,PA,NORTE,abr.-19,3
+1508159,Uruará,PA,NORTE,abr.-19,2
+1508209,Vigia,PA,NORTE,abr.-19,5
+1508308,Viseu,PA,NORTE,abr.-19,1
+1508357,Vitória Do Xingu,PA,NORTE,abr.-19,1
+1500107,Abaetetuba,PA,NORTE,mai.-19,10
+1500206,Acará,PA,NORTE,mai.-19,1
+1500347,Água Azul Do Norte,PA,NORTE,mai.-19,1
+1500404,Alenquer,PA,NORTE,mai.-19,1
+1500602,Altamira,PA,NORTE,mai.-19,7
+1500701,Anajás,PA,NORTE,mai.-19,2
+1500800,Ananindeua,PA,NORTE,mai.-19,14
+1500859,Anapu,PA,NORTE,mai.-19,1
+1501105,Bagre,PA,NORTE,mai.-19,1
+1501402,Belém,PA,NORTE,mai.-19,56
+1501451,Belterra,PA,NORTE,mai.-19,3
+1501501,Benevides,PA,NORTE,mai.-19,5
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mai.-19,1
+1501709,Bragança,PA,NORTE,mai.-19,6
+1501782,Breu Branco,PA,NORTE,mai.-19,1
+1501808,Breves,PA,NORTE,mai.-19,5
+1501907,Bujaru,PA,NORTE,mai.-19,2
+1502103,Cametá,PA,NORTE,mai.-19,3
+1502152,Canaã Dos Carajás,PA,NORTE,mai.-19,3
+1502202,Capanema,PA,NORTE,mai.-19,4
+1502301,Capitão Poço,PA,NORTE,mai.-19,2
+1502400,Castanhal,PA,NORTE,mai.-19,8
+1502608,Colares,PA,NORTE,mai.-19,1
+1502764,Cumaru Do Norte,PA,NORTE,mai.-19,1
+1502772,Curionópolis,PA,NORTE,mai.-19,5
+1502954,Eldorado Do Carajás,PA,NORTE,mai.-19,1
+1503044,Floresta Do Araguaia,PA,NORTE,mai.-19,1
+1503077,Garrafão Do Norte,PA,NORTE,mai.-19,1
+1503093,Goianésia Do Pará,PA,NORTE,mai.-19,4
+1503101,Gurupá,PA,NORTE,mai.-19,1
+1503309,Igarapé-Miri,PA,NORTE,mai.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,mai.-19,1
+1503507,Irituia,PA,NORTE,mai.-19,1
+1503606,Itaituba,PA,NORTE,mai.-19,8
+1503705,Itupiranga,PA,NORTE,mai.-19,1
+1503754,Jacareacanga,PA,NORTE,mai.-19,1
+1503804,Jacundá,PA,NORTE,mai.-19,6
+1504059,Mãe Do Rio,PA,NORTE,mai.-19,1
+1504208,Marabá,PA,NORTE,mai.-19,13
+1504406,Marapanim,PA,NORTE,mai.-19,2
+1504422,Marituba,PA,NORTE,mai.-19,2
+1504604,Mocajuba,PA,NORTE,mai.-19,2
+1504703,Moju,PA,NORTE,mai.-19,4
+1504802,Monte Alegre,PA,NORTE,mai.-19,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mai.-19,1
+1505031,Novo Progresso,PA,NORTE,mai.-19,4
+1505064,Novo Repartimento,PA,NORTE,mai.-19,3
+1505304,Oriximiná,PA,NORTE,mai.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,mai.-19,2
+1505486,Pacajá,PA,NORTE,mai.-19,5
+1505502,Paragominas,PA,NORTE,mai.-19,2
+1505536,Parauapebas,PA,NORTE,mai.-19,2
+1505635,Piçarra,PA,NORTE,mai.-19,1
+1505650,Placas,PA,NORTE,mai.-19,1
+1505809,Portel,PA,NORTE,mai.-19,1
+1506138,Redenção,PA,NORTE,mai.-19,8
+1506187,Rondon Do Pará,PA,NORTE,mai.-19,2
+1506203,Salinópolis,PA,NORTE,mai.-19,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,mai.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,mai.-19,2
+1506559,Santa Luzia Do Pará,PA,NORTE,mai.-19,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,mai.-19,2
+1506708,Santana Do Araguaia,PA,NORTE,mai.-19,2
+1506807,Santarém,PA,NORTE,mai.-19,2
+1507003,Santo Antônio Do Tauá,PA,NORTE,mai.-19,1
+1507102,São Caetano De Odivelas,PA,NORTE,mai.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,mai.-19,2
+1507607,São Miguel Do Guamá,PA,NORTE,mai.-19,1
+1507755,Sapucaia,PA,NORTE,mai.-19,1
+1507805,Senador José Porfírio,PA,NORTE,mai.-19,1
+1507904,Soure,PA,NORTE,mai.-19,1
+1507953,Tailândia,PA,NORTE,mai.-19,3
+1508001,Tomé-Açu,PA,NORTE,mai.-19,1
+1508050,Trairão,PA,NORTE,mai.-19,2
+1508084,Tucumã,PA,NORTE,mai.-19,3
+1508100,Tucuruí,PA,NORTE,mai.-19,3
+1508159,Uruará,PA,NORTE,mai.-19,2
+1508209,Vigia,PA,NORTE,mai.-19,1
+1508357,Vitória Do Xingu,PA,NORTE,mai.-19,1
+1500107,Abaetetuba,PA,NORTE,jun.-19,3
+1500206,Acará,PA,NORTE,jun.-19,3
+1500503,Almeirim,PA,NORTE,jun.-19,1
+1500602,Altamira,PA,NORTE,jun.-19,8
+1500602,Altamira,PA,NORTE,jun.-19,1
+1500800,Ananindeua,PA,NORTE,jun.-19,16
+1500859,Anapu,PA,NORTE,jun.-19,1
+1500909,Augusto Corrêa,PA,NORTE,jun.-19,1
+1501204,Baião,PA,NORTE,jun.-19,1
+1501303,Barcarena,PA,NORTE,jun.-19,6
+1501402,Belém,PA,NORTE,jun.-19,25
+1501501,Benevides,PA,NORTE,jun.-19,3
+1501600,Bonito,PA,NORTE,jun.-19,1
+1501709,Bragança,PA,NORTE,jun.-19,5
+1501725,Brasil Novo,PA,NORTE,jun.-19,3
+1501782,Breu Branco,PA,NORTE,jun.-19,1
+1501907,Bujaru,PA,NORTE,jun.-19,2
+1501956,Cachoeira Do Piriá,PA,NORTE,jun.-19,1
+1502103,Cametá,PA,NORTE,jun.-19,1
+1502202,Capanema,PA,NORTE,jun.-19,4
+1502301,Capitão Poço,PA,NORTE,jun.-19,1
+1502400,Castanhal,PA,NORTE,jun.-19,6
+1502772,Curionópolis,PA,NORTE,jun.-19,1
+1502855,Curuá,PA,NORTE,jun.-19,1
+1502954,Eldorado Do Carajás,PA,NORTE,jun.-19,4
+1503044,Floresta Do Araguaia,PA,NORTE,jun.-19,1
+1503077,Garrafão Do Norte,PA,NORTE,jun.-19,2
+1503093,Goianésia Do Pará,PA,NORTE,jun.-19,2
+1503309,Igarapé-Miri,PA,NORTE,jun.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,jun.-19,2
+1503507,Irituia,PA,NORTE,jun.-19,1
+1503606,Itaituba,PA,NORTE,jun.-19,8
+1503705,Itupiranga,PA,NORTE,jun.-19,4
+1503754,Jacareacanga,PA,NORTE,jun.-19,1
+1503804,Jacundá,PA,NORTE,jun.-19,1
+1504208,Marabá,PA,NORTE,jun.-19,13
+1504422,Marituba,PA,NORTE,jun.-19,5
+1504604,Mocajuba,PA,NORTE,jun.-19,1
+1504703,Moju,PA,NORTE,jun.-19,2
+1504752,Mojuí Dos Campos,PA,NORTE,jun.-19,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jun.-19,2
+1505031,Novo Progresso,PA,NORTE,jun.-19,5
+1505064,Novo Repartimento,PA,NORTE,jun.-19,2
+1505106,Óbidos,PA,NORTE,jun.-19,1
+1505205,Oeiras Do Pará,PA,NORTE,jun.-19,2
+1505304,Oriximiná,PA,NORTE,jun.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,jun.-19,1
+1505486,Pacajá,PA,NORTE,jun.-19,4
+1505502,Paragominas,PA,NORTE,jun.-19,6
+1505536,Parauapebas,PA,NORTE,jun.-19,10
+1505650,Placas,PA,NORTE,jun.-19,1
+1505809,Portel,PA,NORTE,jun.-19,1
+1506138,Redenção,PA,NORTE,jun.-19,4
+1506161,Rio Maria,PA,NORTE,jun.-19,1
+1506187,Rondon Do Pará,PA,NORTE,jun.-19,1
+1506195,Rurópolis,PA,NORTE,jun.-19,1
+1506203,Salinópolis,PA,NORTE,jun.-19,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,jun.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jun.-19,3
+1506583,Santa Maria Das Barreiras,PA,NORTE,jun.-19,1
+1506609,Santa Maria Do Pará,PA,NORTE,jun.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,jun.-19,5
+1506807,Santarém,PA,NORTE,jun.-19,3
+1507201,São Domingos Do Capim,PA,NORTE,jun.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,jun.-19,5
+1507458,São Geraldo Do Araguaia,PA,NORTE,jun.-19,1
+1507474,São João De Pirabas,PA,NORTE,jun.-19,1
+1507755,Sapucaia,PA,NORTE,jun.-19,1
+1507805,Senador José Porfírio,PA,NORTE,jun.-19,1
+1507953,Tailândia,PA,NORTE,jun.-19,4
+1507961,Terra Alta,PA,NORTE,jun.-19,2
+1508001,Tomé-Açu,PA,NORTE,jun.-19,6
+1508050,Trairão,PA,NORTE,jun.-19,1
+1508100,Tucuruí,PA,NORTE,jun.-19,2
+1508126,Ulianópolis,PA,NORTE,jun.-19,3
+1508159,Uruará,PA,NORTE,jun.-19,1
+1508357,Vitória Do Xingu,PA,NORTE,jun.-19,1
+1508407,Xinguara,PA,NORTE,jun.-19,2
+1500107,Abaetetuba,PA,NORTE,jul.-19,1
+1500131,Abel Figueiredo,PA,NORTE,jul.-19,1
+1500404,Alenquer,PA,NORTE,jul.-19,1
+1500602,Altamira,PA,NORTE,jul.-19,62
+1500800,Ananindeua,PA,NORTE,jul.-19,11
+1500859,Anapu,PA,NORTE,jul.-19,5
+1501253,Bannach,PA,NORTE,jul.-19,1
+1501303,Barcarena,PA,NORTE,jul.-19,6
+1501402,Belém,PA,NORTE,jul.-19,23
+1501501,Benevides,PA,NORTE,jul.-19,2
+1501600,Bonito,PA,NORTE,jul.-19,1
+1501709,Bragança,PA,NORTE,jul.-19,4
+1501725,Brasil Novo,PA,NORTE,jul.-19,1
+1501782,Breu Branco,PA,NORTE,jul.-19,1
+1501808,Breves,PA,NORTE,jul.-19,1
+1501907,Bujaru,PA,NORTE,jul.-19,1
+1501956,Cachoeira Do Piriá,PA,NORTE,jul.-19,1
+1502103,Cametá,PA,NORTE,jul.-19,2
+1502202,Capanema,PA,NORTE,jul.-19,2
+1502400,Castanhal,PA,NORTE,jul.-19,7
+1502608,Colares,PA,NORTE,jul.-19,1
+1502764,Cumaru Do Norte,PA,NORTE,jul.-19,1
+1502905,Curuçá,PA,NORTE,jul.-19,1
+1503044,Floresta Do Araguaia,PA,NORTE,jul.-19,2
+1503077,Garrafão Do Norte,PA,NORTE,jul.-19,3
+1503606,Itaituba,PA,NORTE,jul.-19,7
+1503705,Itupiranga,PA,NORTE,jul.-19,3
+1503754,Jacareacanga,PA,NORTE,jul.-19,1
+1504208,Marabá,PA,NORTE,jul.-19,12
+1504422,Marituba,PA,NORTE,jul.-19,3
+1504455,Medicilândia,PA,NORTE,jul.-19,2
+1504505,Melgaço,PA,NORTE,jul.-19,1
+1504703,Moju,PA,NORTE,jul.-19,3
+1504802,Monte Alegre,PA,NORTE,jul.-19,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jul.-19,2
+1505031,Novo Progresso,PA,NORTE,jul.-19,2
+1505064,Novo Repartimento,PA,NORTE,jul.-19,3
+1505304,Oriximiná,PA,NORTE,jul.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,jul.-19,1
+1505486,Pacajá,PA,NORTE,jul.-19,4
+1505502,Paragominas,PA,NORTE,jul.-19,1
+1505536,Parauapebas,PA,NORTE,jul.-19,8
+1505601,Peixe-Boi,PA,NORTE,jul.-19,1
+1505650,Placas,PA,NORTE,jul.-19,1
+1505700,Ponta De Pedras,PA,NORTE,jul.-19,1
+1505809,Portel,PA,NORTE,jul.-19,1
+1505908,Porto De Moz,PA,NORTE,jul.-19,1
+1506104,Primavera,PA,NORTE,jul.-19,1
+1506112,Quatipuru,PA,NORTE,jul.-19,1
+1506138,Redenção,PA,NORTE,jul.-19,3
+1506187,Rondon Do Pará,PA,NORTE,jul.-19,3
+1506203,Salinópolis,PA,NORTE,jul.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jul.-19,2
+1506609,Santa Maria Do Pará,PA,NORTE,jul.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,jul.-19,4
+1507102,São Caetano De Odivelas,PA,NORTE,jul.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,jul.-19,5
+1507474,São João De Pirabas,PA,NORTE,jul.-19,1
+1507508,São João Do Araguaia,PA,NORTE,jul.-19,1
+1507607,São Miguel Do Guamá,PA,NORTE,jul.-19,1
+1507755,Sapucaia,PA,NORTE,jul.-19,1
+1507805,Senador José Porfírio,PA,NORTE,jul.-19,3
+1507953,Tailândia,PA,NORTE,jul.-19,4
+1507961,Terra Alta,PA,NORTE,jul.-19,1
+1508001,Tomé-Açu,PA,NORTE,jul.-19,2
+1508035,Tracuateua,PA,NORTE,jul.-19,1
+1508050,Trairão,PA,NORTE,jul.-19,1
+1508084,Tucumã,PA,NORTE,jul.-19,1
+1508126,Ulianópolis,PA,NORTE,jul.-19,1
+1508209,Vigia,PA,NORTE,jul.-19,2
+1508308,Viseu,PA,NORTE,jul.-19,1
+1508357,Vitória Do Xingu,PA,NORTE,jul.-19,1
+1500107,Abaetetuba,PA,NORTE,ago.-19,4
+1500206,Acará,PA,NORTE,ago.-19,5
+1500404,Alenquer,PA,NORTE,ago.-19,1
+1500602,Altamira,PA,NORTE,ago.-19,6
+1500800,Ananindeua,PA,NORTE,ago.-19,8
+1500859,Anapu,PA,NORTE,ago.-19,2
+1501006,Aveiro,PA,NORTE,ago.-19,1
+1501105,Bagre,PA,NORTE,ago.-19,1
+1501253,Bannach,PA,NORTE,ago.-19,1
+1501303,Barcarena,PA,NORTE,ago.-19,2
+1501402,Belém,PA,NORTE,ago.-19,37
+1501501,Benevides,PA,NORTE,ago.-19,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,ago.-19,1
+1501709,Bragança,PA,NORTE,ago.-19,3
+1501782,Breu Branco,PA,NORTE,ago.-19,2
+1501808,Breves,PA,NORTE,ago.-19,2
+1501907,Bujaru,PA,NORTE,ago.-19,5
+1502103,Cametá,PA,NORTE,ago.-19,1
+1502152,Canaã Dos Carajás,PA,NORTE,ago.-19,2
+1502202,Capanema,PA,NORTE,ago.-19,1
+1502301,Capitão Poço,PA,NORTE,ago.-19,3
+1502400,Castanhal,PA,NORTE,ago.-19,6
+1502772,Curionópolis,PA,NORTE,ago.-19,2
+1502806,Curralinho,PA,NORTE,ago.-19,1
+1502905,Curuçá,PA,NORTE,ago.-19,3
+1502954,Eldorado Do Carajás,PA,NORTE,ago.-19,2
+1503044,Floresta Do Araguaia,PA,NORTE,ago.-19,2
+1503077,Garrafão Do Norte,PA,NORTE,ago.-19,1
+1503093,Goianésia Do Pará,PA,NORTE,ago.-19,2
+1503408,Inhangapi,PA,NORTE,ago.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,ago.-19,1
+1503606,Itaituba,PA,NORTE,ago.-19,2
+1503804,Jacundá,PA,NORTE,ago.-19,3
+1504059,Mãe Do Rio,PA,NORTE,ago.-19,1
+1504208,Marabá,PA,NORTE,ago.-19,14
+1504307,Maracanã,PA,NORTE,ago.-19,1
+1504406,Marapanim,PA,NORTE,ago.-19,1
+1504422,Marituba,PA,NORTE,ago.-19,4
+1504505,Melgaço,PA,NORTE,ago.-19,1
+1504703,Moju,PA,NORTE,ago.-19,4
+1504950,Nova Esperança Do Piriá,PA,NORTE,ago.-19,2
+1505031,Novo Progresso,PA,NORTE,ago.-19,3
+1505064,Novo Repartimento,PA,NORTE,ago.-19,1
+1505403,Ourém,PA,NORTE,ago.-19,1
+1505486,Pacajá,PA,NORTE,ago.-19,7
+1505502,Paragominas,PA,NORTE,ago.-19,1
+1505536,Parauapebas,PA,NORTE,ago.-19,6
+1505650,Placas,PA,NORTE,ago.-19,1
+1506138,Redenção,PA,NORTE,ago.-19,1
+1506161,Rio Maria,PA,NORTE,ago.-19,2
+1506187,Rondon Do Pará,PA,NORTE,ago.-19,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,ago.-19,1
+1506559,Santa Luzia Do Pará,PA,NORTE,ago.-19,1
+1506609,Santa Maria Do Pará,PA,NORTE,ago.-19,1
+1506807,Santarém,PA,NORTE,ago.-19,2
+1507201,São Domingos Do Capim,PA,NORTE,ago.-19,3
+1507300,São Félix Do Xingu,PA,NORTE,ago.-19,2
+1507458,São Geraldo Do Araguaia,PA,NORTE,ago.-19,1
+1507508,São João Do Araguaia,PA,NORTE,ago.-19,2
+1507706,São Sebastião Da Boa Vista,PA,NORTE,ago.-19,1
+1507805,Senador José Porfírio,PA,NORTE,ago.-19,2
+1507904,Soure,PA,NORTE,ago.-19,2
+1507953,Tailândia,PA,NORTE,ago.-19,3
+1508001,Tomé-Açu,PA,NORTE,ago.-19,5
+1508050,Trairão,PA,NORTE,ago.-19,1
+1508100,Tucuruí,PA,NORTE,ago.-19,2
+1508126,Ulianópolis,PA,NORTE,ago.-19,3
+1508159,Uruará,PA,NORTE,ago.-19,3
+1508209,Vigia,PA,NORTE,ago.-19,2
+1508308,Viseu,PA,NORTE,ago.-19,2
+1508357,Vitória Do Xingu,PA,NORTE,ago.-19,1
+1500107,Abaetetuba,PA,NORTE,set.-19,4
+1500206,Acará,PA,NORTE,set.-19,2
+1500503,Almeirim,PA,NORTE,set.-19,1
+1500602,Altamira,PA,NORTE,set.-19,11
+1500701,Anajás,PA,NORTE,set.-19,1
+1500800,Ananindeua,PA,NORTE,set.-19,7
+1500859,Anapu,PA,NORTE,set.-19,4
+1500909,Augusto Corrêa,PA,NORTE,set.-19,1
+1501204,Baião,PA,NORTE,set.-19,1
+1501303,Barcarena,PA,NORTE,set.-19,3
+1501402,Belém,PA,NORTE,set.-19,32
+1501576,Bom Jesus Do Tocantins,PA,NORTE,set.-19,1
+1501600,Bonito,PA,NORTE,set.-19,1
+1501709,Bragança,PA,NORTE,set.-19,4
+1501782,Breu Branco,PA,NORTE,set.-19,2
+1501808,Breves,PA,NORTE,set.-19,2
+1501907,Bujaru,PA,NORTE,set.-19,1
+1502103,Cametá,PA,NORTE,set.-19,4
+1502152,Canaã Dos Carajás,PA,NORTE,set.-19,1
+1502202,Capanema,PA,NORTE,set.-19,3
+1502301,Capitão Poço,PA,NORTE,set.-19,2
+1502400,Castanhal,PA,NORTE,set.-19,5
+1502707,Conceição Do Araguaia,PA,NORTE,set.-19,2
+1502756,Concórdia Do Pará,PA,NORTE,set.-19,1
+1502939,Dom Eliseu,PA,NORTE,set.-19,2
+1502954,Eldorado Do Carajás,PA,NORTE,set.-19,2
+1503044,Floresta Do Araguaia,PA,NORTE,set.-19,2
+1503077,Garrafão Do Norte,PA,NORTE,set.-19,2
+1503309,Igarapé-Miri,PA,NORTE,set.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,set.-19,1
+1503606,Itaituba,PA,NORTE,set.-19,6
+1503705,Itupiranga,PA,NORTE,set.-19,1
+1503754,Jacareacanga,PA,NORTE,set.-19,3
+1503804,Jacundá,PA,NORTE,set.-19,1
+1504059,Mãe Do Rio,PA,NORTE,set.-19,1
+1504208,Marabá,PA,NORTE,set.-19,6
+1504422,Marituba,PA,NORTE,set.-19,1
+1504505,Melgaço,PA,NORTE,set.-19,1
+1504604,Mocajuba,PA,NORTE,set.-19,1
+1504703,Moju,PA,NORTE,set.-19,6
+1504802,Monte Alegre,PA,NORTE,set.-19,1
+1504901,Muaná,PA,NORTE,set.-19,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,set.-19,1
+1504976,Nova Ipixuna,PA,NORTE,set.-19,2
+1505031,Novo Progresso,PA,NORTE,set.-19,1
+1505064,Novo Repartimento,PA,NORTE,set.-19,1
+1505106,Óbidos,PA,NORTE,set.-19,2
+1505304,Oriximiná,PA,NORTE,set.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,set.-19,1
+1505486,Pacajá,PA,NORTE,set.-19,2
+1505502,Paragominas,PA,NORTE,set.-19,6
+1505536,Parauapebas,PA,NORTE,set.-19,8
+1505650,Placas,PA,NORTE,set.-19,1
+1505809,Portel,PA,NORTE,set.-19,5
+1505908,Porto De Moz,PA,NORTE,set.-19,1
+1506104,Primavera,PA,NORTE,set.-19,1
+1506112,Quatipuru,PA,NORTE,set.-19,1
+1506161,Rio Maria,PA,NORTE,set.-19,1
+1506187,Rondon Do Pará,PA,NORTE,set.-19,2
+1506500,Santa Izabel Do Pará,PA,NORTE,set.-19,1
+1506609,Santa Maria Do Pará,PA,NORTE,set.-19,1
+1506807,Santarém,PA,NORTE,set.-19,4
+1507003,Santo Antônio Do Tauá,PA,NORTE,set.-19,1
+1507151,São Domingos Do Araguaia,PA,NORTE,set.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,set.-19,4
+1507508,São João Do Araguaia,PA,NORTE,set.-19,1
+1507607,São Miguel Do Guamá,PA,NORTE,set.-19,2
+1507904,Soure,PA,NORTE,set.-19,1
+1507953,Tailândia,PA,NORTE,set.-19,3
+1507979,Terra Santa,PA,NORTE,set.-19,1
+1508001,Tomé-Açu,PA,NORTE,set.-19,3
+1508050,Trairão,PA,NORTE,set.-19,1
+1508100,Tucuruí,PA,NORTE,set.-19,3
+1508159,Uruará,PA,NORTE,set.-19,3
+1508308,Viseu,PA,NORTE,set.-19,3
+1508407,Xinguara,PA,NORTE,set.-19,2
+1500107,Abaetetuba,PA,NORTE,out.-19,1
+1500503,Almeirim,PA,NORTE,out.-19,3
+1500602,Altamira,PA,NORTE,out.-19,5
+1500800,Ananindeua,PA,NORTE,out.-19,8
+1500859,Anapu,PA,NORTE,out.-19,4
+1500909,Augusto Corrêa,PA,NORTE,out.-19,1
+1501204,Baião,PA,NORTE,out.-19,3
+1501303,Barcarena,PA,NORTE,out.-19,2
+1501402,Belém,PA,NORTE,out.-19,24
+1501600,Bonito,PA,NORTE,out.-19,1
+1501709,Bragança,PA,NORTE,out.-19,2
+1501725,Brasil Novo,PA,NORTE,out.-19,1
+1501782,Breu Branco,PA,NORTE,out.-19,5
+1501907,Bujaru,PA,NORTE,out.-19,4
+1501956,Cachoeira Do Piriá,PA,NORTE,out.-19,1
+1502103,Cametá,PA,NORTE,out.-19,3
+1502152,Canaã Dos Carajás,PA,NORTE,out.-19,2
+1502202,Capanema,PA,NORTE,out.-19,1
+1502301,Capitão Poço,PA,NORTE,out.-19,3
+1502400,Castanhal,PA,NORTE,out.-19,4
+1502707,Conceição Do Araguaia,PA,NORTE,out.-19,2
+1502764,Cumaru Do Norte,PA,NORTE,out.-19,1
+1502772,Curionópolis,PA,NORTE,out.-19,1
+1502905,Curuçá,PA,NORTE,out.-19,1
+1502939,Dom Eliseu,PA,NORTE,out.-19,1
+1503002,Faro,PA,NORTE,out.-19,1
+1503044,Floresta Do Araguaia,PA,NORTE,out.-19,5
+1503093,Goianésia Do Pará,PA,NORTE,out.-19,3
+1503457,Ipixuna Do Pará,PA,NORTE,out.-19,2
+1503606,Itaituba,PA,NORTE,out.-19,2
+1503705,Itupiranga,PA,NORTE,out.-19,3
+1503804,Jacundá,PA,NORTE,out.-19,2
+1504059,Mãe Do Rio,PA,NORTE,out.-19,1
+1504208,Marabá,PA,NORTE,out.-19,17
+1504307,Maracanã,PA,NORTE,out.-19,1
+1504422,Marituba,PA,NORTE,out.-19,3
+1504455,Medicilândia,PA,NORTE,out.-19,2
+1504703,Moju,PA,NORTE,out.-19,4
+1504802,Monte Alegre,PA,NORTE,out.-19,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,out.-19,3
+1505031,Novo Progresso,PA,NORTE,out.-19,3
+1505106,Óbidos,PA,NORTE,out.-19,1
+1505205,Oeiras Do Pará,PA,NORTE,out.-19,1
+1505304,Oriximiná,PA,NORTE,out.-19,2
+1505403,Ourém,PA,NORTE,out.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,out.-19,3
+1505486,Pacajá,PA,NORTE,out.-19,2
+1505502,Paragominas,PA,NORTE,out.-19,2
+1505536,Parauapebas,PA,NORTE,out.-19,4
+1505650,Placas,PA,NORTE,out.-19,2
+1505809,Portel,PA,NORTE,out.-19,1
+1505908,Porto De Moz,PA,NORTE,out.-19,1
+1506005,Prainha,PA,NORTE,out.-19,1
+1506104,Primavera,PA,NORTE,out.-19,1
+1506138,Redenção,PA,NORTE,out.-19,6
+1506187,Rondon Do Pará,PA,NORTE,out.-19,5
+1506203,Salinópolis,PA,NORTE,out.-19,2
+1506351,Santa Bárbara Do Pará,PA,NORTE,out.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,out.-19,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,out.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,out.-19,1
+1506807,Santarém,PA,NORTE,out.-19,2
+1507003,Santo Antônio Do Tauá,PA,NORTE,out.-19,1
+1507151,São Domingos Do Araguaia,PA,NORTE,out.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,out.-19,3
+1507409,São Francisco Do Pará,PA,NORTE,out.-19,1
+1507508,São João Do Araguaia,PA,NORTE,out.-19,2
+1507706,São Sebastião Da Boa Vista,PA,NORTE,out.-19,1
+1507805,Senador José Porfírio,PA,NORTE,out.-19,2
+1507904,Soure,PA,NORTE,out.-19,1
+1508001,Tomé-Açu,PA,NORTE,out.-19,1
+1508050,Trairão,PA,NORTE,out.-19,1
+1508084,Tucumã,PA,NORTE,out.-19,1
+1508100,Tucuruí,PA,NORTE,out.-19,1
+1508126,Ulianópolis,PA,NORTE,out.-19,1
+1508159,Uruará,PA,NORTE,out.-19,1
+1508209,Vigia,PA,NORTE,out.-19,1
+1508357,Vitória Do Xingu,PA,NORTE,out.-19,1
+1508407,Xinguara,PA,NORTE,out.-19,1
+1500206,Acará,PA,NORTE,nov.-19,4
+1500404,Alenquer,PA,NORTE,nov.-19,1
+1500503,Almeirim,PA,NORTE,nov.-19,1
+1500602,Altamira,PA,NORTE,nov.-19,2
+1500701,Anajás,PA,NORTE,nov.-19,1
+1500800,Ananindeua,PA,NORTE,nov.-19,11
+1500859,Anapu,PA,NORTE,nov.-19,1
+1501105,Bagre,PA,NORTE,nov.-19,1
+1501204,Baião,PA,NORTE,nov.-19,2
+1501303,Barcarena,PA,NORTE,nov.-19,5
+1501402,Belém,PA,NORTE,nov.-19,25
+1501501,Benevides,PA,NORTE,nov.-19,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,nov.-19,2
+1501709,Bragança,PA,NORTE,nov.-19,2
+1501725,Brasil Novo,PA,NORTE,nov.-19,1
+1501782,Breu Branco,PA,NORTE,nov.-19,2
+1501808,Breves,PA,NORTE,nov.-19,3
+1501907,Bujaru,PA,NORTE,nov.-19,2
+1501956,Cachoeira Do Piriá,PA,NORTE,nov.-19,1
+1502103,Cametá,PA,NORTE,nov.-19,2
+1502152,Canaã Dos Carajás,PA,NORTE,nov.-19,3
+1502202,Capanema,PA,NORTE,nov.-19,3
+1502301,Capitão Poço,PA,NORTE,nov.-19,3
+1502400,Castanhal,PA,NORTE,nov.-19,5
+1502608,Colares,PA,NORTE,nov.-19,1
+1502707,Conceição Do Araguaia,PA,NORTE,nov.-19,1
+1502772,Curionópolis,PA,NORTE,nov.-19,1
+1502905,Curuçá,PA,NORTE,nov.-19,1
+1502954,Eldorado Do Carajás,PA,NORTE,nov.-19,1
+1503044,Floresta Do Araguaia,PA,NORTE,nov.-19,2
+1503077,Garrafão Do Norte,PA,NORTE,nov.-19,1
+1503093,Goianésia Do Pará,PA,NORTE,nov.-19,4
+1503507,Irituia,PA,NORTE,nov.-19,1
+1503606,Itaituba,PA,NORTE,nov.-19,6
+1503705,Itupiranga,PA,NORTE,nov.-19,3
+1503754,Jacareacanga,PA,NORTE,nov.-19,1
+1503804,Jacundá,PA,NORTE,nov.-19,3
+1504059,Mãe Do Rio,PA,NORTE,nov.-19,1
+1504208,Marabá,PA,NORTE,nov.-19,5
+1504422,Marituba,PA,NORTE,nov.-19,3
+1504455,Medicilândia,PA,NORTE,nov.-19,3
+1504604,Mocajuba,PA,NORTE,nov.-19,2
+1504703,Moju,PA,NORTE,nov.-19,3
+1504752,Mojuí Dos Campos,PA,NORTE,nov.-19,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,nov.-19,1
+1504976,Nova Ipixuna,PA,NORTE,nov.-19,1
+1505031,Novo Progresso,PA,NORTE,nov.-19,1
+1505064,Novo Repartimento,PA,NORTE,nov.-19,1
+1505106,Óbidos,PA,NORTE,nov.-19,1
+1505304,Oriximiná,PA,NORTE,nov.-19,2
+1505437,Ourilândia Do Norte,PA,NORTE,nov.-19,2
+1505486,Pacajá,PA,NORTE,nov.-19,1
+1505502,Paragominas,PA,NORTE,nov.-19,4
+1505536,Parauapebas,PA,NORTE,nov.-19,8
+1505635,Piçarra,PA,NORTE,nov.-19,1
+1505908,Porto De Moz,PA,NORTE,nov.-19,1
+1506138,Redenção,PA,NORTE,nov.-19,8
+1506187,Rondon Do Pará,PA,NORTE,nov.-19,2
+1506203,Salinópolis,PA,NORTE,nov.-19,1
+1506500,Santa Izabel Do Pará,PA,NORTE,nov.-19,3
+1506708,Santana Do Araguaia,PA,NORTE,nov.-19,2
+1506807,Santarém,PA,NORTE,nov.-19,4
+1507003,Santo Antônio Do Tauá,PA,NORTE,nov.-19,3
+1507102,São Caetano De Odivelas,PA,NORTE,nov.-19,1
+1507201,São Domingos Do Capim,PA,NORTE,nov.-19,1
+1507300,São Félix Do Xingu,PA,NORTE,nov.-19,2
+1507409,São Francisco Do Pará,PA,NORTE,nov.-19,2
+1507474,São João De Pirabas,PA,NORTE,nov.-19,2
+1507508,São João Do Araguaia,PA,NORTE,nov.-19,1
+1507607,São Miguel Do Guamá,PA,NORTE,nov.-19,2
+1507805,Senador José Porfírio,PA,NORTE,nov.-19,2
+1507953,Tailândia,PA,NORTE,nov.-19,1
+1508001,Tomé-Açu,PA,NORTE,nov.-19,3
+1508035,Tracuateua,PA,NORTE,nov.-19,2
+1508050,Trairão,PA,NORTE,nov.-19,1
+1508084,Tucumã,PA,NORTE,nov.-19,4
+1508126,Ulianópolis,PA,NORTE,nov.-19,1
+1508159,Uruará,PA,NORTE,nov.-19,2
+1508308,Viseu,PA,NORTE,nov.-19,2
+1508407,Xinguara,PA,NORTE,nov.-19,2
+1500107,Abaetetuba,PA,NORTE,dez.-19,2
+1500206,Acará,PA,NORTE,dez.-19,2
+1500404,Alenquer,PA,NORTE,dez.-19,1
+1500602,Altamira,PA,NORTE,dez.-19,7
+1500701,Anajás,PA,NORTE,dez.-19,1
+1500800,Ananindeua,PA,NORTE,dez.-19,12
+1500859,Anapu,PA,NORTE,dez.-19,1
+1500958,Aurora Do Pará,PA,NORTE,dez.-19,1
+1501204,Baião,PA,NORTE,dez.-19,1
+1501303,Barcarena,PA,NORTE,dez.-19,1
+1501402,Belém,PA,NORTE,dez.-19,31
+1501501,Benevides,PA,NORTE,dez.-19,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,dez.-19,1
+1501709,Bragança,PA,NORTE,dez.-19,1
+1501956,Cachoeira Do Piriá,PA,NORTE,dez.-19,1
+1502103,Cametá,PA,NORTE,dez.-19,2
+1502202,Capanema,PA,NORTE,dez.-19,3
+1502301,Capitão Poço,PA,NORTE,dez.-19,2
+1502400,Castanhal,PA,NORTE,dez.-19,5
+1502707,Conceição Do Araguaia,PA,NORTE,dez.-19,1
+1502756,Concórdia Do Pará,PA,NORTE,dez.-19,1
+1502764,Cumaru Do Norte,PA,NORTE,dez.-19,3
+1502905,Curuçá,PA,NORTE,dez.-19,1
+1502939,Dom Eliseu,PA,NORTE,dez.-19,1
+1502954,Eldorado Do Carajás,PA,NORTE,dez.-19,1
+1503309,Igarapé-Miri,PA,NORTE,dez.-19,1
+1503457,Ipixuna Do Pará,PA,NORTE,dez.-19,3
+1503507,Irituia,PA,NORTE,dez.-19,1
+1503606,Itaituba,PA,NORTE,dez.-19,7
+1503705,Itupiranga,PA,NORTE,dez.-19,3
+1503754,Jacareacanga,PA,NORTE,dez.-19,1
+1503804,Jacundá,PA,NORTE,dez.-19,2
+1503903,Juruti,PA,NORTE,dez.-19,2
+1504208,Marabá,PA,NORTE,dez.-19,16
+1504307,Maracanã,PA,NORTE,dez.-19,1
+1504406,Marapanim,PA,NORTE,dez.-19,1
+1504422,Marituba,PA,NORTE,dez.-19,2
+1504455,Medicilândia,PA,NORTE,dez.-19,1
+1504604,Mocajuba,PA,NORTE,dez.-19,1
+1504703,Moju,PA,NORTE,dez.-19,2
+1504802,Monte Alegre,PA,NORTE,dez.-19,1
+1505031,Novo Progresso,PA,NORTE,dez.-19,2
+1505064,Novo Repartimento,PA,NORTE,dez.-19,1
+1505106,Óbidos,PA,NORTE,dez.-19,2
+1505403,Ourém,PA,NORTE,dez.-19,1
+1505437,Ourilândia Do Norte,PA,NORTE,dez.-19,2
+1505486,Pacajá,PA,NORTE,dez.-19,3
+1505502,Paragominas,PA,NORTE,dez.-19,5
+1505536,Parauapebas,PA,NORTE,dez.-19,9
+1506005,Prainha,PA,NORTE,dez.-19,1
+1506138,Redenção,PA,NORTE,dez.-19,3
+1506161,Rio Maria,PA,NORTE,dez.-19,3
+1506187,Rondon Do Pará,PA,NORTE,dez.-19,2
+1506351,Santa Bárbara Do Pará,PA,NORTE,dez.-19,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,dez.-19,1
+1506708,Santana Do Araguaia,PA,NORTE,dez.-19,1
+1506807,Santarém,PA,NORTE,dez.-19,7
+1507003,Santo Antônio Do Tauá,PA,NORTE,dez.-19,1
+1507201,São Domingos Do Capim,PA,NORTE,dez.-19,3
+1507300,São Félix Do Xingu,PA,NORTE,dez.-19,3
+1507458,São Geraldo Do Araguaia,PA,NORTE,dez.-19,1
+1507466,São João Da Ponta,PA,NORTE,dez.-19,1
+1507508,São João Do Araguaia,PA,NORTE,dez.-19,3
+1507706,São Sebastião Da Boa Vista,PA,NORTE,dez.-19,1
+1507805,Senador José Porfírio,PA,NORTE,dez.-19,2
+1507953,Tailândia,PA,NORTE,dez.-19,1
+1507961,Terra Alta,PA,NORTE,dez.-19,1
+1508001,Tomé-Açu,PA,NORTE,dez.-19,2
+1508084,Tucumã,PA,NORTE,dez.-19,2
+1508100,Tucuruí,PA,NORTE,dez.-19,2
+1508126,Ulianópolis,PA,NORTE,dez.-19,3
+1508308,Viseu,PA,NORTE,dez.-19,2
+1508407,Xinguara,PA,NORTE,dez.-19,2
+1500107,Abaetetuba,PA,NORTE,jan.-20,4
+1500206,Acará,PA,NORTE,jan.-20,1
+1500347,Água Azul Do Norte,PA,NORTE,jan.-20,2
+1500404,Alenquer,PA,NORTE,jan.-20,1
+1500503,Almeirim,PA,NORTE,jan.-20,2
+1500602,Altamira,PA,NORTE,jan.-20,4
+1500800,Ananindeua,PA,NORTE,jan.-20,8
+1500909,Augusto Corrêa,PA,NORTE,jan.-20,1
+1500958,Aurora Do Pará,PA,NORTE,jan.-20,3
+1501006,Aveiro,PA,NORTE,jan.-20,1
+1501204,Baião,PA,NORTE,jan.-20,2
+1501303,Barcarena,PA,NORTE,jan.-20,2
+1501402,Belém,PA,NORTE,jan.-20,25
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jan.-20,1
+1501709,Bragança,PA,NORTE,jan.-20,1
+1501782,Breu Branco,PA,NORTE,jan.-20,1
+1501808,Breves,PA,NORTE,jan.-20,3
+1501907,Bujaru,PA,NORTE,jan.-20,1
+1502103,Cametá,PA,NORTE,jan.-20,2
+1502152,Canaã Dos Carajás,PA,NORTE,jan.-20,4
+1502202,Capanema,PA,NORTE,jan.-20,2
+1502400,Castanhal,PA,NORTE,jan.-20,4
+1502756,Concórdia Do Pará,PA,NORTE,jan.-20,1
+1502764,Cumaru Do Norte,PA,NORTE,jan.-20,1
+1502772,Curionópolis,PA,NORTE,jan.-20,1
+1502806,Curralinho,PA,NORTE,jan.-20,1
+1502905,Curuçá,PA,NORTE,jan.-20,1
+1502954,Eldorado Do Carajás,PA,NORTE,jan.-20,4
+1503044,Floresta Do Araguaia,PA,NORTE,jan.-20,4
+1503093,Goianésia Do Pará,PA,NORTE,jan.-20,1
+1503457,Ipixuna Do Pará,PA,NORTE,jan.-20,1
+1503606,Itaituba,PA,NORTE,jan.-20,5
+1503705,Itupiranga,PA,NORTE,jan.-20,1
+1503754,Jacareacanga,PA,NORTE,jan.-20,3
+1504059,Mãe Do Rio,PA,NORTE,jan.-20,1
+1504208,Marabá,PA,NORTE,jan.-20,6
+1504406,Marapanim,PA,NORTE,jan.-20,1
+1504422,Marituba,PA,NORTE,jan.-20,3
+1504455,Medicilândia,PA,NORTE,jan.-20,1
+1504604,Mocajuba,PA,NORTE,jan.-20,1
+1504703,Moju,PA,NORTE,jan.-20,3
+1504802,Monte Alegre,PA,NORTE,jan.-20,1
+1504901,Muaná,PA,NORTE,jan.-20,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jan.-20,1
+1505031,Novo Progresso,PA,NORTE,jan.-20,1
+1505106,Óbidos,PA,NORTE,jan.-20,2
+1505304,Oriximiná,PA,NORTE,jan.-20,1
+1505403,Ourém,PA,NORTE,jan.-20,1
+1505437,Ourilândia Do Norte,PA,NORTE,jan.-20,2
+1505486,Pacajá,PA,NORTE,jan.-20,3
+1505502,Paragominas,PA,NORTE,jan.-20,2
+1505536,Parauapebas,PA,NORTE,jan.-20,9
+1505635,Piçarra,PA,NORTE,jan.-20,1
+1505809,Portel,PA,NORTE,jan.-20,2
+1506112,Quatipuru,PA,NORTE,jan.-20,2
+1506138,Redenção,PA,NORTE,jan.-20,4
+1506187,Rondon Do Pará,PA,NORTE,jan.-20,3
+1506203,Salinópolis,PA,NORTE,jan.-20,1
+1506302,Salvaterra,PA,NORTE,jan.-20,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jan.-20,1
+1506807,Santarém,PA,NORTE,jan.-20,6
+1507151,São Domingos Do Araguaia,PA,NORTE,jan.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,jan.-20,3
+1507458,São Geraldo Do Araguaia,PA,NORTE,jan.-20,1
+1507474,São João De Pirabas,PA,NORTE,jan.-20,1
+1507805,Senador José Porfírio,PA,NORTE,jan.-20,1
+1507953,Tailândia,PA,NORTE,jan.-20,4
+1508084,Tucumã,PA,NORTE,jan.-20,3
+1508100,Tucuruí,PA,NORTE,jan.-20,2
+1508159,Uruará,PA,NORTE,jan.-20,2
+1508209,Vigia,PA,NORTE,jan.-20,3
+1508308,Viseu,PA,NORTE,jan.-20,3
+1508357,Vitória Do Xingu,PA,NORTE,jan.-20,1
+1508407,Xinguara,PA,NORTE,jan.-20,1
+1500107,Abaetetuba,PA,NORTE,fev.-20,2
+1500206,Acará,PA,NORTE,fev.-20,4
+1500347,Água Azul Do Norte,PA,NORTE,fev.-20,2
+1500503,Almeirim,PA,NORTE,fev.-20,1
+1500602,Altamira,PA,NORTE,fev.-20,4
+1500800,Ananindeua,PA,NORTE,fev.-20,5
+1500909,Augusto Corrêa,PA,NORTE,fev.-20,1
+1500958,Aurora Do Pará,PA,NORTE,fev.-20,1
+1501204,Baião,PA,NORTE,fev.-20,1
+1501303,Barcarena,PA,NORTE,fev.-20,4
+1501402,Belém,PA,NORTE,fev.-20,27
+1501576,Bom Jesus Do Tocantins,PA,NORTE,fev.-20,1
+1501709,Bragança,PA,NORTE,fev.-20,4
+1501725,Brasil Novo,PA,NORTE,fev.-20,1
+1501782,Breu Branco,PA,NORTE,fev.-20,7
+1501907,Bujaru,PA,NORTE,fev.-20,2
+1501956,Cachoeira Do Piriá,PA,NORTE,fev.-20,1
+1502152,Canaã Dos Carajás,PA,NORTE,fev.-20,1
+1502301,Capitão Poço,PA,NORTE,fev.-20,3
+1502400,Castanhal,PA,NORTE,fev.-20,3
+1502756,Concórdia Do Pará,PA,NORTE,fev.-20,3
+1502764,Cumaru Do Norte,PA,NORTE,fev.-20,1
+1502772,Curionópolis,PA,NORTE,fev.-20,1
+1502905,Curuçá,PA,NORTE,fev.-20,3
+1502939,Dom Eliseu,PA,NORTE,fev.-20,1
+1503044,Floresta Do Araguaia,PA,NORTE,fev.-20,4
+1503200,Igarapé-Açu,PA,NORTE,fev.-20,1
+1503309,Igarapé-Miri,PA,NORTE,fev.-20,2
+1503606,Itaituba,PA,NORTE,fev.-20,3
+1503705,Itupiranga,PA,NORTE,fev.-20,2
+1503903,Juruti,PA,NORTE,fev.-20,1
+1504109,Magalhães Barata,PA,NORTE,fev.-20,1
+1504208,Marabá,PA,NORTE,fev.-20,8
+1504307,Maracanã,PA,NORTE,fev.-20,1
+1504406,Marapanim,PA,NORTE,fev.-20,1
+1504422,Marituba,PA,NORTE,fev.-20,1
+1504604,Mocajuba,PA,NORTE,fev.-20,3
+1504703,Moju,PA,NORTE,fev.-20,1
+1504802,Monte Alegre,PA,NORTE,fev.-20,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,fev.-20,2
+1505031,Novo Progresso,PA,NORTE,fev.-20,1
+1505064,Novo Repartimento,PA,NORTE,fev.-20,3
+1505304,Oriximiná,PA,NORTE,fev.-20,2
+1505437,Ourilândia Do Norte,PA,NORTE,fev.-20,6
+1505486,Pacajá,PA,NORTE,fev.-20,1
+1505502,Paragominas,PA,NORTE,fev.-20,4
+1505536,Parauapebas,PA,NORTE,fev.-20,7
+1505635,Piçarra,PA,NORTE,fev.-20,1
+1505809,Portel,PA,NORTE,fev.-20,1
+1506138,Redenção,PA,NORTE,fev.-20,7
+1506187,Rondon Do Pará,PA,NORTE,fev.-20,1
+1506500,Santa Izabel Do Pará,PA,NORTE,fev.-20,3
+1506559,Santa Luzia Do Pará,PA,NORTE,fev.-20,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,fev.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,fev.-20,2
+1506807,Santarém,PA,NORTE,fev.-20,4
+1507003,Santo Antônio Do Tauá,PA,NORTE,fev.-20,1
+1507201,São Domingos Do Capim,PA,NORTE,fev.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,fev.-20,1
+1507409,São Francisco Do Pará,PA,NORTE,fev.-20,1
+1507474,São João De Pirabas,PA,NORTE,fev.-20,2
+1507805,Senador José Porfírio,PA,NORTE,fev.-20,2
+1507953,Tailândia,PA,NORTE,fev.-20,5
+1507961,Terra Alta,PA,NORTE,fev.-20,1
+1508001,Tomé-Açu,PA,NORTE,fev.-20,1
+1508100,Tucuruí,PA,NORTE,fev.-20,4
+1508126,Ulianópolis,PA,NORTE,fev.-20,3
+1508159,Uruará,PA,NORTE,fev.-20,3
+1500107,Abaetetuba,PA,NORTE,mar.-20,1
+1500305,Afuá,PA,NORTE,mar.-20,1
+1500404,Alenquer,PA,NORTE,mar.-20,1
+1500503,Almeirim,PA,NORTE,mar.-20,3
+1500602,Altamira,PA,NORTE,mar.-20,2
+1500800,Ananindeua,PA,NORTE,mar.-20,5
+1500859,Anapu,PA,NORTE,mar.-20,2
+1500909,Augusto Corrêa,PA,NORTE,mar.-20,1
+1501006,Aveiro,PA,NORTE,mar.-20,1
+1501204,Baião,PA,NORTE,mar.-20,1
+1501253,Bannach,PA,NORTE,mar.-20,1
+1501303,Barcarena,PA,NORTE,mar.-20,3
+1501402,Belém,PA,NORTE,mar.-20,28
+1501451,Belterra,PA,NORTE,mar.-20,1
+1501501,Benevides,PA,NORTE,mar.-20,3
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mar.-20,1
+1501709,Bragança,PA,NORTE,mar.-20,5
+1501782,Breu Branco,PA,NORTE,mar.-20,1
+1501907,Bujaru,PA,NORTE,mar.-20,1
+1502152,Canaã Dos Carajás,PA,NORTE,mar.-20,1
+1502202,Capanema,PA,NORTE,mar.-20,2
+1502301,Capitão Poço,PA,NORTE,mar.-20,1
+1502400,Castanhal,PA,NORTE,mar.-20,6
+1502509,Chaves,PA,NORTE,mar.-20,1
+1502707,Conceição Do Araguaia,PA,NORTE,mar.-20,1
+1502756,Concórdia Do Pará,PA,NORTE,mar.-20,1
+1502764,Cumaru Do Norte,PA,NORTE,mar.-20,1
+1502772,Curionópolis,PA,NORTE,mar.-20,1
+1502905,Curuçá,PA,NORTE,mar.-20,2
+1502954,Eldorado Do Carajás,PA,NORTE,mar.-20,2
+1503044,Floresta Do Araguaia,PA,NORTE,mar.-20,4
+1503309,Igarapé-Miri,PA,NORTE,mar.-20,1
+1503606,Itaituba,PA,NORTE,mar.-20,2
+1503705,Itupiranga,PA,NORTE,mar.-20,2
+1503754,Jacareacanga,PA,NORTE,mar.-20,1
+1503804,Jacundá,PA,NORTE,mar.-20,3
+1504059,Mãe Do Rio,PA,NORTE,mar.-20,2
+1504208,Marabá,PA,NORTE,mar.-20,11
+1504422,Marituba,PA,NORTE,mar.-20,4
+1504703,Moju,PA,NORTE,mar.-20,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mar.-20,1
+1505031,Novo Progresso,PA,NORTE,mar.-20,1
+1505064,Novo Repartimento,PA,NORTE,mar.-20,2
+1505403,Ourém,PA,NORTE,mar.-20,1
+1505437,Ourilândia Do Norte,PA,NORTE,mar.-20,2
+1505486,Pacajá,PA,NORTE,mar.-20,8
+1505502,Paragominas,PA,NORTE,mar.-20,6
+1505536,Parauapebas,PA,NORTE,mar.-20,8
+1505700,Ponta De Pedras,PA,NORTE,mar.-20,1
+1506138,Redenção,PA,NORTE,mar.-20,2
+1506161,Rio Maria,PA,NORTE,mar.-20,1
+1506187,Rondon Do Pará,PA,NORTE,mar.-20,3
+1506203,Salinópolis,PA,NORTE,mar.-20,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,mar.-20,3
+1506559,Santa Luzia Do Pará,PA,NORTE,mar.-20,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,mar.-20,1
+1506609,Santa Maria Do Pará,PA,NORTE,mar.-20,1
+1506807,Santarém,PA,NORTE,mar.-20,5
+1506906,Santarém Novo,PA,NORTE,mar.-20,1
+1507151,São Domingos Do Araguaia,PA,NORTE,mar.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,mar.-20,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,mar.-20,2
+1507474,São João De Pirabas,PA,NORTE,mar.-20,1
+1507904,Soure,PA,NORTE,mar.-20,2
+1507953,Tailândia,PA,NORTE,mar.-20,2
+1508001,Tomé-Açu,PA,NORTE,mar.-20,1
+1508084,Tucumã,PA,NORTE,mar.-20,1
+1508100,Tucuruí,PA,NORTE,mar.-20,3
+1508159,Uruará,PA,NORTE,mar.-20,5
+1508209,Vigia,PA,NORTE,mar.-20,1
+1508407,Xinguara,PA,NORTE,mar.-20,1
+1500107,Abaetetuba,PA,NORTE,abr.-20,2
+1500131,Abel Figueiredo,PA,NORTE,abr.-20,1
+1500602,Altamira,PA,NORTE,abr.-20,4
+1500800,Ananindeua,PA,NORTE,abr.-20,14
+1500859,Anapu,PA,NORTE,abr.-20,1
+1500909,Augusto Corrêa,PA,NORTE,abr.-20,1
+1500958,Aurora Do Pará,PA,NORTE,abr.-20,5
+1501402,Belém,PA,NORTE,abr.-20,21
+1501501,Benevides,PA,NORTE,abr.-20,2
+1501600,Bonito,PA,NORTE,abr.-20,1
+1501709,Bragança,PA,NORTE,abr.-20,2
+1501725,Brasil Novo,PA,NORTE,abr.-20,1
+1501782,Breu Branco,PA,NORTE,abr.-20,1
+1502103,Cametá,PA,NORTE,abr.-20,1
+1502152,Canaã Dos Carajás,PA,NORTE,abr.-20,3
+1502301,Capitão Poço,PA,NORTE,abr.-20,4
+1502400,Castanhal,PA,NORTE,abr.-20,5
+1502707,Conceição Do Araguaia,PA,NORTE,abr.-20,2
+1502756,Concórdia Do Pará,PA,NORTE,abr.-20,1
+1502764,Cumaru Do Norte,PA,NORTE,abr.-20,2
+1502905,Curuçá,PA,NORTE,abr.-20,2
+1502939,Dom Eliseu,PA,NORTE,abr.-20,2
+1503044,Floresta Do Araguaia,PA,NORTE,abr.-20,1
+1503093,Goianésia Do Pará,PA,NORTE,abr.-20,2
+1503101,Gurupá,PA,NORTE,abr.-20,1
+1503457,Ipixuna Do Pará,PA,NORTE,abr.-20,1
+1503606,Itaituba,PA,NORTE,abr.-20,5
+1503705,Itupiranga,PA,NORTE,abr.-20,5
+1503804,Jacundá,PA,NORTE,abr.-20,3
+1504059,Mãe Do Rio,PA,NORTE,abr.-20,2
+1504208,Marabá,PA,NORTE,abr.-20,6
+1504422,Marituba,PA,NORTE,abr.-20,2
+1504455,Medicilândia,PA,NORTE,abr.-20,2
+1504703,Moju,PA,NORTE,abr.-20,5
+1504752,Mojuí Dos Campos,PA,NORTE,abr.-20,1
+1504802,Monte Alegre,PA,NORTE,abr.-20,1
+1505031,Novo Progresso,PA,NORTE,abr.-20,2
+1505064,Novo Repartimento,PA,NORTE,abr.-20,3
+1505205,Oeiras Do Pará,PA,NORTE,abr.-20,1
+1505304,Oriximiná,PA,NORTE,abr.-20,2
+1505403,Ourém,PA,NORTE,abr.-20,2
+1505437,Ourilândia Do Norte,PA,NORTE,abr.-20,1
+1505486,Pacajá,PA,NORTE,abr.-20,1
+1505502,Paragominas,PA,NORTE,abr.-20,5
+1505536,Parauapebas,PA,NORTE,abr.-20,7
+1505551,Pau D'Arco,PA,NORTE,abr.-20,1
+1505809,Portel,PA,NORTE,abr.-20,1
+1506138,Redenção,PA,NORTE,abr.-20,5
+1506203,Salinópolis,PA,NORTE,abr.-20,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,abr.-20,1
+1506500,Santa Izabel Do Pará,PA,NORTE,abr.-20,5
+1506559,Santa Luzia Do Pará,PA,NORTE,abr.-20,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,abr.-20,1
+1506609,Santa Maria Do Pará,PA,NORTE,abr.-20,1
+1506807,Santarém,PA,NORTE,abr.-20,3
+1507151,São Domingos Do Araguaia,PA,NORTE,abr.-20,3
+1507201,São Domingos Do Capim,PA,NORTE,abr.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,abr.-20,1
+1507805,Senador José Porfírio,PA,NORTE,abr.-20,1
+1507953,Tailândia,PA,NORTE,abr.-20,2
+1507961,Terra Alta,PA,NORTE,abr.-20,2
+1508001,Tomé-Açu,PA,NORTE,abr.-20,2
+1508084,Tucumã,PA,NORTE,abr.-20,1
+1508100,Tucuruí,PA,NORTE,abr.-20,2
+1508159,Uruará,PA,NORTE,abr.-20,2
+1508407,Xinguara,PA,NORTE,abr.-20,1
+1500131,Abel Figueiredo,PA,NORTE,mai.-20,1
+1500206,Acará,PA,NORTE,mai.-20,2
+1500347,Água Azul Do Norte,PA,NORTE,mai.-20,1
+1500404,Alenquer,PA,NORTE,mai.-20,2
+1500602,Altamira,PA,NORTE,mai.-20,5
+1500800,Ananindeua,PA,NORTE,mai.-20,10
+1500859,Anapu,PA,NORTE,mai.-20,2
+1501105,Bagre,PA,NORTE,mai.-20,1
+1501253,Bannach,PA,NORTE,mai.-20,2
+1501303,Barcarena,PA,NORTE,mai.-20,4
+1501402,Belém,PA,NORTE,mai.-20,26
+1501451,Belterra,PA,NORTE,mai.-20,1
+1501501,Benevides,PA,NORTE,mai.-20,2
+1501709,Bragança,PA,NORTE,mai.-20,3
+1501725,Brasil Novo,PA,NORTE,mai.-20,1
+1501782,Breu Branco,PA,NORTE,mai.-20,3
+1501808,Breves,PA,NORTE,mai.-20,1
+1501907,Bujaru,PA,NORTE,mai.-20,4
+1502004,Cachoeira Do Arari,PA,NORTE,mai.-20,2
+1502152,Canaã Dos Carajás,PA,NORTE,mai.-20,2
+1502202,Capanema,PA,NORTE,mai.-20,4
+1502301,Capitão Poço,PA,NORTE,mai.-20,2
+1502400,Castanhal,PA,NORTE,mai.-20,6
+1502608,Colares,PA,NORTE,mai.-20,1
+1502707,Conceição Do Araguaia,PA,NORTE,mai.-20,1
+1502756,Concórdia Do Pará,PA,NORTE,mai.-20,1
+1502764,Cumaru Do Norte,PA,NORTE,mai.-20,4
+1502939,Dom Eliseu,PA,NORTE,mai.-20,1
+1502954,Eldorado Do Carajás,PA,NORTE,mai.-20,4
+1503044,Floresta Do Araguaia,PA,NORTE,mai.-20,5
+1503093,Goianésia Do Pará,PA,NORTE,mai.-20,1
+1503200,Igarapé-Açu,PA,NORTE,mai.-20,1
+1503309,Igarapé-Miri,PA,NORTE,mai.-20,1
+1503606,Itaituba,PA,NORTE,mai.-20,4
+1503705,Itupiranga,PA,NORTE,mai.-20,4
+1503754,Jacareacanga,PA,NORTE,mai.-20,3
+1503903,Juruti,PA,NORTE,mai.-20,1
+1504059,Mãe Do Rio,PA,NORTE,mai.-20,1
+1504208,Marabá,PA,NORTE,mai.-20,9
+1504422,Marituba,PA,NORTE,mai.-20,2
+1504455,Medicilândia,PA,NORTE,mai.-20,1
+1504604,Mocajuba,PA,NORTE,mai.-20,3
+1504901,Muaná,PA,NORTE,mai.-20,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mai.-20,1
+1505064,Novo Repartimento,PA,NORTE,mai.-20,4
+1505106,Óbidos,PA,NORTE,mai.-20,1
+1505205,Oeiras Do Pará,PA,NORTE,mai.-20,1
+1505486,Pacajá,PA,NORTE,mai.-20,3
+1505494,Palestina Do Pará,PA,NORTE,mai.-20,2
+1505502,Paragominas,PA,NORTE,mai.-20,2
+1505536,Parauapebas,PA,NORTE,mai.-20,9
+1506138,Redenção,PA,NORTE,mai.-20,6
+1506187,Rondon Do Pará,PA,NORTE,mai.-20,2
+1506203,Salinópolis,PA,NORTE,mai.-20,2
+1506609,Santa Maria Do Pará,PA,NORTE,mai.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,mai.-20,1
+1506807,Santarém,PA,NORTE,mai.-20,5
+1507003,Santo Antônio Do Tauá,PA,NORTE,mai.-20,1
+1507201,São Domingos Do Capim,PA,NORTE,mai.-20,4
+1507300,São Félix Do Xingu,PA,NORTE,mai.-20,5
+1507409,São Francisco Do Pará,PA,NORTE,mai.-20,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,mai.-20,1
+1507607,São Miguel Do Guamá,PA,NORTE,mai.-20,2
+1507805,Senador José Porfírio,PA,NORTE,mai.-20,1
+1507961,Terra Alta,PA,NORTE,mai.-20,1
+1508001,Tomé-Açu,PA,NORTE,mai.-20,2
+1508035,Tracuateua,PA,NORTE,mai.-20,1
+1508100,Tucuruí,PA,NORTE,mai.-20,3
+1508126,Ulianópolis,PA,NORTE,mai.-20,2
+1508209,Vigia,PA,NORTE,mai.-20,5
+1508407,Xinguara,PA,NORTE,mai.-20,1
+1500206,Acará,PA,NORTE,jun.-20,3
+1500602,Altamira,PA,NORTE,jun.-20,1
+1500800,Ananindeua,PA,NORTE,jun.-20,5
+1500859,Anapu,PA,NORTE,jun.-20,3
+1500958,Aurora Do Pará,PA,NORTE,jun.-20,1
+1501006,Aveiro,PA,NORTE,jun.-20,1
+1501204,Baião,PA,NORTE,jun.-20,1
+1501253,Bannach,PA,NORTE,jun.-20,1
+1501303,Barcarena,PA,NORTE,jun.-20,2
+1501402,Belém,PA,NORTE,jun.-20,26
+1501501,Benevides,PA,NORTE,jun.-20,2
+1501725,Brasil Novo,PA,NORTE,jun.-20,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,jun.-20,1
+1501782,Breu Branco,PA,NORTE,jun.-20,1
+1501907,Bujaru,PA,NORTE,jun.-20,2
+1502103,Cametá,PA,NORTE,jun.-20,5
+1502152,Canaã Dos Carajás,PA,NORTE,jun.-20,5
+1502202,Capanema,PA,NORTE,jun.-20,3
+1502301,Capitão Poço,PA,NORTE,jun.-20,4
+1502400,Castanhal,PA,NORTE,jun.-20,1
+1502707,Conceição Do Araguaia,PA,NORTE,jun.-20,1
+1502772,Curionópolis,PA,NORTE,jun.-20,1
+1502905,Curuçá,PA,NORTE,jun.-20,3
+1502939,Dom Eliseu,PA,NORTE,jun.-20,1
+1502954,Eldorado Do Carajás,PA,NORTE,jun.-20,3
+1503044,Floresta Do Araguaia,PA,NORTE,jun.-20,2
+1503457,Ipixuna Do Pará,PA,NORTE,jun.-20,2
+1503606,Itaituba,PA,NORTE,jun.-20,4
+1503754,Jacareacanga,PA,NORTE,jun.-20,4
+1503804,Jacundá,PA,NORTE,jun.-20,2
+1504059,Mãe Do Rio,PA,NORTE,jun.-20,1
+1504208,Marabá,PA,NORTE,jun.-20,4
+1504406,Marapanim,PA,NORTE,jun.-20,1
+1504422,Marituba,PA,NORTE,jun.-20,6
+1504604,Mocajuba,PA,NORTE,jun.-20,2
+1504703,Moju,PA,NORTE,jun.-20,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,jun.-20,1
+1505031,Novo Progresso,PA,NORTE,jun.-20,2
+1505064,Novo Repartimento,PA,NORTE,jun.-20,3
+1505437,Ourilândia Do Norte,PA,NORTE,jun.-20,1
+1505486,Pacajá,PA,NORTE,jun.-20,1
+1505502,Paragominas,PA,NORTE,jun.-20,4
+1505536,Parauapebas,PA,NORTE,jun.-20,3
+1505650,Placas,PA,NORTE,jun.-20,1
+1506104,Primavera,PA,NORTE,jun.-20,1
+1506138,Redenção,PA,NORTE,jun.-20,9
+1506351,Santa Bárbara Do Pará,PA,NORTE,jun.-20,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,jun.-20,1
+1506609,Santa Maria Do Pará,PA,NORTE,jun.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,jun.-20,2
+1506807,Santarém,PA,NORTE,jun.-20,4
+1507003,Santo Antônio Do Tauá,PA,NORTE,jun.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,jun.-20,5
+1507607,São Miguel Do Guamá,PA,NORTE,jun.-20,3
+1507805,Senador José Porfírio,PA,NORTE,jun.-20,1
+1507953,Tailândia,PA,NORTE,jun.-20,3
+1507961,Terra Alta,PA,NORTE,jun.-20,1
+1508001,Tomé-Açu,PA,NORTE,jun.-20,5
+1508035,Tracuateua,PA,NORTE,jun.-20,1
+1508084,Tucumã,PA,NORTE,jun.-20,1
+1508100,Tucuruí,PA,NORTE,jun.-20,1
+1508159,Uruará,PA,NORTE,jun.-20,1
+1508209,Vigia,PA,NORTE,jun.-20,2
+1508308,Viseu,PA,NORTE,jun.-20,1
+1508407,Xinguara,PA,NORTE,jun.-20,1
+1500107,Abaetetuba,PA,NORTE,jul.-20,1
+1500206,Acará,PA,NORTE,jul.-20,3
+1500602,Altamira,PA,NORTE,jul.-20,4
+1500800,Ananindeua,PA,NORTE,jul.-20,4
+1500859,Anapu,PA,NORTE,jul.-20,1
+1501204,Baião,PA,NORTE,jul.-20,2
+1501253,Bannach,PA,NORTE,jul.-20,1
+1501303,Barcarena,PA,NORTE,jul.-20,7
+1501402,Belém,PA,NORTE,jul.-20,24
+1501501,Benevides,PA,NORTE,jul.-20,1
+1501709,Bragança,PA,NORTE,jul.-20,1
+1501725,Brasil Novo,PA,NORTE,jul.-20,1
+1501808,Breves,PA,NORTE,jul.-20,1
+1502103,Cametá,PA,NORTE,jul.-20,2
+1502202,Capanema,PA,NORTE,jul.-20,2
+1502400,Castanhal,PA,NORTE,jul.-20,4
+1502509,Chaves,PA,NORTE,jul.-20,1
+1502608,Colares,PA,NORTE,jul.-20,1
+1502707,Conceição Do Araguaia,PA,NORTE,jul.-20,1
+1502905,Curuçá,PA,NORTE,jul.-20,2
+1502939,Dom Eliseu,PA,NORTE,jul.-20,1
+1502954,Eldorado Do Carajás,PA,NORTE,jul.-20,2
+1503044,Floresta Do Araguaia,PA,NORTE,jul.-20,2
+1503093,Goianésia Do Pará,PA,NORTE,jul.-20,3
+1503200,Igarapé-Açu,PA,NORTE,jul.-20,2
+1503309,Igarapé-Miri,PA,NORTE,jul.-20,2
+1503457,Ipixuna Do Pará,PA,NORTE,jul.-20,3
+1503606,Itaituba,PA,NORTE,jul.-20,7
+1503754,Jacareacanga,PA,NORTE,jul.-20,1
+1503804,Jacundá,PA,NORTE,jul.-20,1
+1504059,Mãe Do Rio,PA,NORTE,jul.-20,1
+1504208,Marabá,PA,NORTE,jul.-20,4
+1504307,Maracanã,PA,NORTE,jul.-20,1
+1504455,Medicilândia,PA,NORTE,jul.-20,1
+1504604,Mocajuba,PA,NORTE,jul.-20,1
+1504703,Moju,PA,NORTE,jul.-20,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,jul.-20,3
+1505031,Novo Progresso,PA,NORTE,jul.-20,2
+1505064,Novo Repartimento,PA,NORTE,jul.-20,3
+1505304,Oriximiná,PA,NORTE,jul.-20,2
+1505486,Pacajá,PA,NORTE,jul.-20,2
+1505502,Paragominas,PA,NORTE,jul.-20,4
+1505536,Parauapebas,PA,NORTE,jul.-20,8
+1505601,Peixe-Boi,PA,NORTE,jul.-20,1
+1506138,Redenção,PA,NORTE,jul.-20,3
+1506161,Rio Maria,PA,NORTE,jul.-20,2
+1506195,Rurópolis,PA,NORTE,jul.-20,1
+1506203,Salinópolis,PA,NORTE,jul.-20,2
+1506559,Santa Luzia Do Pará,PA,NORTE,jul.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,jul.-20,2
+1506807,Santarém,PA,NORTE,jul.-20,1
+1507201,São Domingos Do Capim,PA,NORTE,jul.-20,2
+1507300,São Félix Do Xingu,PA,NORTE,jul.-20,3
+1507458,São Geraldo Do Araguaia,PA,NORTE,jul.-20,1
+1507508,São João Do Araguaia,PA,NORTE,jul.-20,1
+1507607,São Miguel Do Guamá,PA,NORTE,jul.-20,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,jul.-20,1
+1507953,Tailândia,PA,NORTE,jul.-20,3
+1508001,Tomé-Açu,PA,NORTE,jul.-20,2
+1508035,Tracuateua,PA,NORTE,jul.-20,4
+1508050,Trairão,PA,NORTE,jul.-20,1
+1508084,Tucumã,PA,NORTE,jul.-20,1
+1508100,Tucuruí,PA,NORTE,jul.-20,1
+1508126,Ulianópolis,PA,NORTE,jul.-20,1
+1508159,Uruará,PA,NORTE,jul.-20,3
+1508407,Xinguara,PA,NORTE,jul.-20,1
+1500107,Abaetetuba,PA,NORTE,ago.-20,2
+1500206,Acará,PA,NORTE,ago.-20,1
+1500305,Afuá,PA,NORTE,ago.-20,1
+1500347,Água Azul Do Norte,PA,NORTE,ago.-20,1
+1500404,Alenquer,PA,NORTE,ago.-20,1
+1500503,Almeirim,PA,NORTE,ago.-20,3
+1500701,Anajás,PA,NORTE,ago.-20,1
+1500800,Ananindeua,PA,NORTE,ago.-20,6
+1500859,Anapu,PA,NORTE,ago.-20,2
+1501204,Baião,PA,NORTE,ago.-20,1
+1501303,Barcarena,PA,NORTE,ago.-20,1
+1501402,Belém,PA,NORTE,ago.-20,27
+1501501,Benevides,PA,NORTE,ago.-20,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,ago.-20,1
+1501709,Bragança,PA,NORTE,ago.-20,1
+1501725,Brasil Novo,PA,NORTE,ago.-20,2
+1501782,Breu Branco,PA,NORTE,ago.-20,2
+1501808,Breves,PA,NORTE,ago.-20,2
+1501956,Cachoeira Do Piriá,PA,NORTE,ago.-20,1
+1502103,Cametá,PA,NORTE,ago.-20,1
+1502152,Canaã Dos Carajás,PA,NORTE,ago.-20,2
+1502202,Capanema,PA,NORTE,ago.-20,2
+1502301,Capitão Poço,PA,NORTE,ago.-20,2
+1502400,Castanhal,PA,NORTE,ago.-20,8
+1502764,Cumaru Do Norte,PA,NORTE,ago.-20,1
+1502772,Curionópolis,PA,NORTE,ago.-20,2
+1502806,Curralinho,PA,NORTE,ago.-20,1
+1502905,Curuçá,PA,NORTE,ago.-20,2
+1502954,Eldorado Do Carajás,PA,NORTE,ago.-20,1
+1503044,Floresta Do Araguaia,PA,NORTE,ago.-20,1
+1503093,Goianésia Do Pará,PA,NORTE,ago.-20,1
+1503200,Igarapé-Açu,PA,NORTE,ago.-20,1
+1503309,Igarapé-Miri,PA,NORTE,ago.-20,2
+1503457,Ipixuna Do Pará,PA,NORTE,ago.-20,1
+1503606,Itaituba,PA,NORTE,ago.-20,3
+1503754,Jacareacanga,PA,NORTE,ago.-20,2
+1503804,Jacundá,PA,NORTE,ago.-20,3
+1504059,Mãe Do Rio,PA,NORTE,ago.-20,3
+1504208,Marabá,PA,NORTE,ago.-20,6
+1504406,Marapanim,PA,NORTE,ago.-20,2
+1504422,Marituba,PA,NORTE,ago.-20,2
+1504604,Mocajuba,PA,NORTE,ago.-20,1
+1504703,Moju,PA,NORTE,ago.-20,3
+1504802,Monte Alegre,PA,NORTE,ago.-20,2
+1504976,Nova Ipixuna,PA,NORTE,ago.-20,2
+1505031,Novo Progresso,PA,NORTE,ago.-20,2
+1505064,Novo Repartimento,PA,NORTE,ago.-20,3
+1505437,Ourilândia Do Norte,PA,NORTE,ago.-20,1
+1505486,Pacajá,PA,NORTE,ago.-20,2
+1505502,Paragominas,PA,NORTE,ago.-20,4
+1505536,Parauapebas,PA,NORTE,ago.-20,5
+1505650,Placas,PA,NORTE,ago.-20,1
+1505809,Portel,PA,NORTE,ago.-20,4
+1506138,Redenção,PA,NORTE,ago.-20,5
+1506187,Rondon Do Pará,PA,NORTE,ago.-20,1
+1506195,Rurópolis,PA,NORTE,ago.-20,1
+1506401,Santa Cruz Do Arari,PA,NORTE,ago.-20,1
+1506500,Santa Izabel Do Pará,PA,NORTE,ago.-20,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,ago.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,ago.-20,1
+1506906,Santarém Novo,PA,NORTE,ago.-20,1
+1507003,Santo Antônio Do Tauá,PA,NORTE,ago.-20,1
+1507201,São Domingos Do Capim,PA,NORTE,ago.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,ago.-20,3
+1507409,São Francisco Do Pará,PA,NORTE,ago.-20,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,ago.-20,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,ago.-20,1
+1507904,Soure,PA,NORTE,ago.-20,1
+1507953,Tailândia,PA,NORTE,ago.-20,2
+1507979,Terra Santa,PA,NORTE,ago.-20,1
+1508001,Tomé-Açu,PA,NORTE,ago.-20,3
+1508050,Trairão,PA,NORTE,ago.-20,3
+1508084,Tucumã,PA,NORTE,ago.-20,1
+1508100,Tucuruí,PA,NORTE,ago.-20,4
+1508209,Vigia,PA,NORTE,ago.-20,2
+1508308,Viseu,PA,NORTE,ago.-20,2
+1508407,Xinguara,PA,NORTE,ago.-20,2
+1500107,Abaetetuba,PA,NORTE,set.-20,2
+1500206,Acará,PA,NORTE,set.-20,1
+1500305,Afuá,PA,NORTE,set.-20,2
+1500602,Altamira,PA,NORTE,set.-20,5
+1500800,Ananindeua,PA,NORTE,set.-20,12
+1500859,Anapu,PA,NORTE,set.-20,1
+1501105,Bagre,PA,NORTE,set.-20,2
+1501204,Baião,PA,NORTE,set.-20,1
+1501303,Barcarena,PA,NORTE,set.-20,4
+1501402,Belém,PA,NORTE,set.-20,15
+1501501,Benevides,PA,NORTE,set.-20,2
+1501600,Bonito,PA,NORTE,set.-20,2
+1501709,Bragança,PA,NORTE,set.-20,2
+1501782,Breu Branco,PA,NORTE,set.-20,1
+1501808,Breves,PA,NORTE,set.-20,1
+1501907,Bujaru,PA,NORTE,set.-20,3
+1501956,Cachoeira Do Piriá,PA,NORTE,set.-20,1
+1502152,Canaã Dos Carajás,PA,NORTE,set.-20,1
+1502202,Capanema,PA,NORTE,set.-20,2
+1502301,Capitão Poço,PA,NORTE,set.-20,1
+1502400,Castanhal,PA,NORTE,set.-20,1
+1502707,Conceição Do Araguaia,PA,NORTE,set.-20,2
+1502772,Curionópolis,PA,NORTE,set.-20,1
+1502939,Dom Eliseu,PA,NORTE,set.-20,2
+1502954,Eldorado Do Carajás,PA,NORTE,set.-20,1
+1503044,Floresta Do Araguaia,PA,NORTE,set.-20,6
+1503093,Goianésia Do Pará,PA,NORTE,set.-20,2
+1503309,Igarapé-Miri,PA,NORTE,set.-20,1
+1503457,Ipixuna Do Pará,PA,NORTE,set.-20,3
+1503606,Itaituba,PA,NORTE,set.-20,6
+1503705,Itupiranga,PA,NORTE,set.-20,1
+1504059,Mãe Do Rio,PA,NORTE,set.-20,1
+1504208,Marabá,PA,NORTE,set.-20,10
+1504406,Marapanim,PA,NORTE,set.-20,1
+1504422,Marituba,PA,NORTE,set.-20,1
+1504505,Melgaço,PA,NORTE,set.-20,1
+1504604,Mocajuba,PA,NORTE,set.-20,4
+1504703,Moju,PA,NORTE,set.-20,1
+1504752,Mojuí Dos Campos,PA,NORTE,set.-20,1
+1505031,Novo Progresso,PA,NORTE,set.-20,2
+1505064,Novo Repartimento,PA,NORTE,set.-20,5
+1505106,Óbidos,PA,NORTE,set.-20,1
+1505304,Oriximiná,PA,NORTE,set.-20,3
+1505437,Ourilândia Do Norte,PA,NORTE,set.-20,2
+1505486,Pacajá,PA,NORTE,set.-20,3
+1505494,Palestina Do Pará,PA,NORTE,set.-20,1
+1505502,Paragominas,PA,NORTE,set.-20,4
+1505536,Parauapebas,PA,NORTE,set.-20,2
+1505650,Placas,PA,NORTE,set.-20,1
+1505809,Portel,PA,NORTE,set.-20,1
+1506104,Primavera,PA,NORTE,set.-20,1
+1506138,Redenção,PA,NORTE,set.-20,4
+1506187,Rondon Do Pará,PA,NORTE,set.-20,3
+1506203,Salinópolis,PA,NORTE,set.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,set.-20,1
+1506807,Santarém,PA,NORTE,set.-20,3
+1507300,São Félix Do Xingu,PA,NORTE,set.-20,2
+1507458,São Geraldo Do Araguaia,PA,NORTE,set.-20,1
+1507508,São João Do Araguaia,PA,NORTE,set.-20,1
+1507607,São Miguel Do Guamá,PA,NORTE,set.-20,2
+1507953,Tailândia,PA,NORTE,set.-20,2
+1508001,Tomé-Açu,PA,NORTE,set.-20,5
+1508050,Trairão,PA,NORTE,set.-20,1
+1508084,Tucumã,PA,NORTE,set.-20,1
+1508100,Tucuruí,PA,NORTE,set.-20,2
+1508159,Uruará,PA,NORTE,set.-20,2
+1508308,Viseu,PA,NORTE,set.-20,1
+1500107,Abaetetuba,PA,NORTE,out.-20,5
+1500206,Acará,PA,NORTE,out.-20,1
+1500305,Afuá,PA,NORTE,out.-20,1
+1500404,Alenquer,PA,NORTE,out.-20,1
+1500503,Almeirim,PA,NORTE,out.-20,3
+1500602,Altamira,PA,NORTE,out.-20,6
+1500800,Ananindeua,PA,NORTE,out.-20,6
+1500859,Anapu,PA,NORTE,out.-20,1
+1500909,Augusto Corrêa,PA,NORTE,out.-20,1
+1500958,Aurora Do Pará,PA,NORTE,out.-20,2
+1501105,Bagre,PA,NORTE,out.-20,1
+1501303,Barcarena,PA,NORTE,out.-20,3
+1501402,Belém,PA,NORTE,out.-20,21
+1501451,Belterra,PA,NORTE,out.-20,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,out.-20,1
+1501709,Bragança,PA,NORTE,out.-20,1
+1501907,Bujaru,PA,NORTE,out.-20,2
+1502004,Cachoeira Do Arari,PA,NORTE,out.-20,1
+1501956,Cachoeira Do Piriá,PA,NORTE,out.-20,1
+1502103,Cametá,PA,NORTE,out.-20,4
+1502202,Capanema,PA,NORTE,out.-20,1
+1502301,Capitão Poço,PA,NORTE,out.-20,5
+1502400,Castanhal,PA,NORTE,out.-20,4
+1502707,Conceição Do Araguaia,PA,NORTE,out.-20,1
+1502764,Cumaru Do Norte,PA,NORTE,out.-20,1
+1502772,Curionópolis,PA,NORTE,out.-20,1
+1502905,Curuçá,PA,NORTE,out.-20,1
+1502939,Dom Eliseu,PA,NORTE,out.-20,5
+1502954,Eldorado Do Carajás,PA,NORTE,out.-20,1
+1503044,Floresta Do Araguaia,PA,NORTE,out.-20,1
+1503093,Goianésia Do Pará,PA,NORTE,out.-20,1
+1503200,Igarapé-Açu,PA,NORTE,out.-20,1
+1503309,Igarapé-Miri,PA,NORTE,out.-20,1
+1503457,Ipixuna Do Pará,PA,NORTE,out.-20,2
+1503606,Itaituba,PA,NORTE,out.-20,3
+1503705,Itupiranga,PA,NORTE,out.-20,2
+1503804,Jacundá,PA,NORTE,out.-20,2
+1504059,Mãe Do Rio,PA,NORTE,out.-20,3
+1504208,Marabá,PA,NORTE,out.-20,5
+1504406,Marapanim,PA,NORTE,out.-20,1
+1504422,Marituba,PA,NORTE,out.-20,6
+1504455,Medicilândia,PA,NORTE,out.-20,2
+1504505,Melgaço,PA,NORTE,out.-20,1
+1504604,Mocajuba,PA,NORTE,out.-20,2
+1504703,Moju,PA,NORTE,out.-20,6
+1504950,Nova Esperança Do Piriá,PA,NORTE,out.-20,1
+1505007,Nova Timboteua,PA,NORTE,out.-20,1
+1505031,Novo Progresso,PA,NORTE,out.-20,3
+1505064,Novo Repartimento,PA,NORTE,out.-20,4
+1505106,Óbidos,PA,NORTE,out.-20,1
+1505205,Oeiras Do Pará,PA,NORTE,out.-20,1
+1505304,Oriximiná,PA,NORTE,out.-20,2
+1505437,Ourilândia Do Norte,PA,NORTE,out.-20,4
+1505486,Pacajá,PA,NORTE,out.-20,4
+1505502,Paragominas,PA,NORTE,out.-20,3
+1505536,Parauapebas,PA,NORTE,out.-20,12
+1505809,Portel,PA,NORTE,out.-20,2
+1505908,Porto De Moz,PA,NORTE,out.-20,3
+1506138,Redenção,PA,NORTE,out.-20,1
+1506161,Rio Maria,PA,NORTE,out.-20,1
+1506187,Rondon Do Pará,PA,NORTE,out.-20,3
+1506302,Salvaterra,PA,NORTE,out.-20,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,out.-20,1
+1506500,Santa Izabel Do Pará,PA,NORTE,out.-20,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,out.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,out.-20,1
+1506807,Santarém,PA,NORTE,out.-20,5
+1507201,São Domingos Do Capim,PA,NORTE,out.-20,1
+1507300,São Félix Do Xingu,PA,NORTE,out.-20,6
+1507409,São Francisco Do Pará,PA,NORTE,out.-20,1
+1507466,São João Da Ponta,PA,NORTE,out.-20,1
+1507508,São João Do Araguaia,PA,NORTE,out.-20,1
+1507904,Soure,PA,NORTE,out.-20,1
+1507953,Tailândia,PA,NORTE,out.-20,4
+1508001,Tomé-Açu,PA,NORTE,out.-20,4
+1508035,Tracuateua,PA,NORTE,out.-20,1
+1508084,Tucumã,PA,NORTE,out.-20,2
+1508100,Tucuruí,PA,NORTE,out.-20,2
+1508126,Ulianópolis,PA,NORTE,out.-20,1
+1508308,Viseu,PA,NORTE,out.-20,1
+1508357,Vitória Do Xingu,PA,NORTE,out.-20,1
+1508407,Xinguara,PA,NORTE,out.-20,3
+1500107,Abaetetuba,PA,NORTE,nov.-20,3
+1500131,Abel Figueiredo,PA,NORTE,nov.-20,1
+1500503,Almeirim,PA,NORTE,nov.-20,1
+1500602,Altamira,PA,NORTE,nov.-20,8
+1500701,Anajás,PA,NORTE,nov.-20,1
+1500800,Ananindeua,PA,NORTE,nov.-20,7
+1500859,Anapu,PA,NORTE,nov.-20,3
+1501105,Bagre,PA,NORTE,nov.-20,1
+1501204,Baião,PA,NORTE,nov.-20,1
+1501303,Barcarena,PA,NORTE,nov.-20,2
+1501402,Belém,PA,NORTE,nov.-20,27
+1501501,Benevides,PA,NORTE,nov.-20,1
+1501709,Bragança,PA,NORTE,nov.-20,1
+1501782,Breu Branco,PA,NORTE,nov.-20,2
+1501808,Breves,PA,NORTE,nov.-20,2
+1502103,Cametá,PA,NORTE,nov.-20,1
+1502152,Canaã Dos Carajás,PA,NORTE,nov.-20,1
+1502301,Capitão Poço,PA,NORTE,nov.-20,1
+1502400,Castanhal,PA,NORTE,nov.-20,2
+1502707,Conceição Do Araguaia,PA,NORTE,nov.-20,1
+1502756,Concórdia Do Pará,PA,NORTE,nov.-20,1
+1502772,Curionópolis,PA,NORTE,nov.-20,1
+1503077,Garrafão Do Norte,PA,NORTE,nov.-20,1
+1503309,Igarapé-Miri,PA,NORTE,nov.-20,1
+1503457,Ipixuna Do Pará,PA,NORTE,nov.-20,3
+1503606,Itaituba,PA,NORTE,nov.-20,2
+1503804,Jacundá,PA,NORTE,nov.-20,1
+1503903,Juruti,PA,NORTE,nov.-20,1
+1504059,Mãe Do Rio,PA,NORTE,nov.-20,2
+1504208,Marabá,PA,NORTE,nov.-20,12
+1504406,Marapanim,PA,NORTE,nov.-20,1
+1504422,Marituba,PA,NORTE,nov.-20,2
+1504455,Medicilândia,PA,NORTE,nov.-20,1
+1504703,Moju,PA,NORTE,nov.-20,1
+1504901,Muaná,PA,NORTE,nov.-20,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,nov.-20,5
+1505031,Novo Progresso,PA,NORTE,nov.-20,2
+1505064,Novo Repartimento,PA,NORTE,nov.-20,1
+1505205,Oeiras Do Pará,PA,NORTE,nov.-20,1
+1505304,Oriximiná,PA,NORTE,nov.-20,1
+1505403,Ourém,PA,NORTE,nov.-20,1
+1505437,Ourilândia Do Norte,PA,NORTE,nov.-20,1
+1505486,Pacajá,PA,NORTE,nov.-20,6
+1505502,Paragominas,PA,NORTE,nov.-20,6
+1505536,Parauapebas,PA,NORTE,nov.-20,5
+1505809,Portel,PA,NORTE,nov.-20,1
+1506138,Redenção,PA,NORTE,nov.-20,3
+1506187,Rondon Do Pará,PA,NORTE,nov.-20,2
+1506401,Santa Cruz Do Arari,PA,NORTE,nov.-20,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,nov.-20,3
+1506708,Santana Do Araguaia,PA,NORTE,nov.-20,1
+1506807,Santarém,PA,NORTE,nov.-20,3
+1507300,São Félix Do Xingu,PA,NORTE,nov.-20,3
+1507474,São João De Pirabas,PA,NORTE,nov.-20,2
+1507508,São João Do Araguaia,PA,NORTE,nov.-20,1
+1507607,São Miguel Do Guamá,PA,NORTE,nov.-20,3
+1507755,Sapucaia,PA,NORTE,nov.-20,1
+1507805,Senador José Porfírio,PA,NORTE,nov.-20,2
+1507953,Tailândia,PA,NORTE,nov.-20,3
+1508001,Tomé-Açu,PA,NORTE,nov.-20,2
+1508100,Tucuruí,PA,NORTE,nov.-20,2
+1508126,Ulianópolis,PA,NORTE,nov.-20,2
+1508159,Uruará,PA,NORTE,nov.-20,1
+1508209,Vigia,PA,NORTE,nov.-20,2
+1508407,Xinguara,PA,NORTE,nov.-20,5
+1500107,Abaetetuba,PA,NORTE,dez.-20,6
+1500131,Abel Figueiredo,PA,NORTE,dez.-20,1
+1500206,Acará,PA,NORTE,dez.-20,4
+1500347,Água Azul Do Norte,PA,NORTE,dez.-20,1
+1500503,Almeirim,PA,NORTE,dez.-20,1
+1500602,Altamira,PA,NORTE,dez.-20,8
+1500800,Ananindeua,PA,NORTE,dez.-20,2
+1500859,Anapu,PA,NORTE,dez.-20,5
+1501006,Aveiro,PA,NORTE,dez.-20,1
+1501105,Bagre,PA,NORTE,dez.-20,1
+1501204,Baião,PA,NORTE,dez.-20,1
+1501303,Barcarena,PA,NORTE,dez.-20,3
+1501402,Belém,PA,NORTE,dez.-20,25
+1501600,Bonito,PA,NORTE,dez.-20,1
+1501709,Bragança,PA,NORTE,dez.-20,2
+1501808,Breves,PA,NORTE,dez.-20,4
+1502103,Cametá,PA,NORTE,dez.-20,1
+1502202,Capanema,PA,NORTE,dez.-20,1
+1502301,Capitão Poço,PA,NORTE,dez.-20,3
+1502400,Castanhal,PA,NORTE,dez.-20,1
+1502608,Colares,PA,NORTE,dez.-20,1
+1502707,Conceição Do Araguaia,PA,NORTE,dez.-20,2
+1502756,Concórdia Do Pará,PA,NORTE,dez.-20,1
+1502772,Curionópolis,PA,NORTE,dez.-20,1
+1502905,Curuçá,PA,NORTE,dez.-20,1
+1502939,Dom Eliseu,PA,NORTE,dez.-20,1
+1502954,Eldorado Do Carajás,PA,NORTE,dez.-20,4
+1503044,Floresta Do Araguaia,PA,NORTE,dez.-20,1
+1503077,Garrafão Do Norte,PA,NORTE,dez.-20,1
+1503093,Goianésia Do Pará,PA,NORTE,dez.-20,3
+1503200,Igarapé-Açu,PA,NORTE,dez.-20,2
+1503309,Igarapé-Miri,PA,NORTE,dez.-20,1
+1503408,Inhangapi,PA,NORTE,dez.-20,1
+1503457,Ipixuna Do Pará,PA,NORTE,dez.-20,3
+1503606,Itaituba,PA,NORTE,dez.-20,5
+1503705,Itupiranga,PA,NORTE,dez.-20,3
+1503804,Jacundá,PA,NORTE,dez.-20,2
+1504000,Limoeiro Do Ajuru,PA,NORTE,dez.-20,1
+1504059,Mãe Do Rio,PA,NORTE,dez.-20,4
+1504208,Marabá,PA,NORTE,dez.-20,10
+1504422,Marituba,PA,NORTE,dez.-20,5
+1504455,Medicilândia,PA,NORTE,dez.-20,1
+1504703,Moju,PA,NORTE,dez.-20,2
+1504802,Monte Alegre,PA,NORTE,dez.-20,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,dez.-20,1
+1505007,Nova Timboteua,PA,NORTE,dez.-20,1
+1505031,Novo Progresso,PA,NORTE,dez.-20,1
+1505064,Novo Repartimento,PA,NORTE,dez.-20,3
+1505106,Óbidos,PA,NORTE,dez.-20,1
+1505304,Oriximiná,PA,NORTE,dez.-20,1
+1505403,Ourém,PA,NORTE,dez.-20,1
+1505437,Ourilândia Do Norte,PA,NORTE,dez.-20,2
+1505486,Pacajá,PA,NORTE,dez.-20,3
+1505502,Paragominas,PA,NORTE,dez.-20,4
+1505536,Parauapebas,PA,NORTE,dez.-20,4
+1505601,Peixe-Boi,PA,NORTE,dez.-20,1
+1505650,Placas,PA,NORTE,dez.-20,1
+1505809,Portel,PA,NORTE,dez.-20,1
+1506104,Primavera,PA,NORTE,dez.-20,1
+1506138,Redenção,PA,NORTE,dez.-20,2
+1506187,Rondon Do Pará,PA,NORTE,dez.-20,2
+1506203,Salinópolis,PA,NORTE,dez.-20,2
+1506500,Santa Izabel Do Pará,PA,NORTE,dez.-20,4
+1506583,Santa Maria Das Barreiras,PA,NORTE,dez.-20,1
+1506708,Santana Do Araguaia,PA,NORTE,dez.-20,2
+1506807,Santarém,PA,NORTE,dez.-20,6
+1507300,São Félix Do Xingu,PA,NORTE,dez.-20,9
+1507474,São João De Pirabas,PA,NORTE,dez.-20,1
+1507805,Senador José Porfírio,PA,NORTE,dez.-20,2
+1507904,Soure,PA,NORTE,dez.-20,1
+1507953,Tailândia,PA,NORTE,dez.-20,5
+1508001,Tomé-Açu,PA,NORTE,dez.-20,3
+1508050,Trairão,PA,NORTE,dez.-20,2
+1508084,Tucumã,PA,NORTE,dez.-20,1
+1508100,Tucuruí,PA,NORTE,dez.-20,3
+1508126,Ulianópolis,PA,NORTE,dez.-20,1
+1508159,Uruará,PA,NORTE,dez.-20,2
+1508407,Xinguara,PA,NORTE,dez.-20,3
+1500107,Abaetetuba,PA,NORTE,jan.-21,5
+1500206,Acará,PA,NORTE,jan.-21,1
+1500305,Afuá,PA,NORTE,jan.-21,1
+1500404,Alenquer,PA,NORTE,jan.-21,1
+1500602,Altamira,PA,NORTE,jan.-21,3
+1500800,Ananindeua,PA,NORTE,jan.-21,14
+1500859,Anapu,PA,NORTE,jan.-21,4
+1500909,Augusto Corrêa,PA,NORTE,jan.-21,1
+1500958,Aurora Do Pará,PA,NORTE,jan.-21,3
+1501006,Aveiro,PA,NORTE,jan.-21,1
+1501204,Baião,PA,NORTE,jan.-21,3
+1501303,Barcarena,PA,NORTE,jan.-21,4
+1501402,Belém,PA,NORTE,jan.-21,30
+1501501,Benevides,PA,NORTE,jan.-21,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jan.-21,1
+1501600,Bonito,PA,NORTE,jan.-21,1
+1501709,Bragança,PA,NORTE,jan.-21,3
+1501725,Brasil Novo,PA,NORTE,jan.-21,1
+1501782,Breu Branco,PA,NORTE,jan.-21,3
+1501808,Breves,PA,NORTE,jan.-21,1
+1501907,Bujaru,PA,NORTE,jan.-21,1
+1502103,Cametá,PA,NORTE,jan.-21,1
+1502152,Canaã Dos Carajás,PA,NORTE,jan.-21,1
+1502301,Capitão Poço,PA,NORTE,jan.-21,6
+1502400,Castanhal,PA,NORTE,jan.-21,3
+1502707,Conceição Do Araguaia,PA,NORTE,jan.-21,5
+1502756,Concórdia Do Pará,PA,NORTE,jan.-21,1
+1502764,Cumaru Do Norte,PA,NORTE,jan.-21,1
+1502772,Curionópolis,PA,NORTE,jan.-21,2
+1502905,Curuçá,PA,NORTE,jan.-21,1
+1502939,Dom Eliseu,PA,NORTE,jan.-21,2
+1502954,Eldorado Do Carajás,PA,NORTE,jan.-21,4
+1503002,Faro,PA,NORTE,jan.-21,1
+1503044,Floresta Do Araguaia,PA,NORTE,jan.-21,2
+1503093,Goianésia Do Pará,PA,NORTE,jan.-21,3
+1503200,Igarapé-Açu,PA,NORTE,jan.-21,1
+1503457,Ipixuna Do Pará,PA,NORTE,jan.-21,2
+1503507,Irituia,PA,NORTE,jan.-21,1
+1503606,Itaituba,PA,NORTE,jan.-21,3
+1503754,Jacareacanga,PA,NORTE,jan.-21,1
+1504059,Mãe Do Rio,PA,NORTE,jan.-21,2
+1504208,Marabá,PA,NORTE,jan.-21,10
+1504406,Marapanim,PA,NORTE,jan.-21,1
+1504422,Marituba,PA,NORTE,jan.-21,1
+1504455,Medicilândia,PA,NORTE,jan.-21,2
+1504505,Melgaço,PA,NORTE,jan.-21,2
+1504604,Mocajuba,PA,NORTE,jan.-21,4
+1504703,Moju,PA,NORTE,jan.-21,1
+1504802,Monte Alegre,PA,NORTE,jan.-21,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jan.-21,1
+1505031,Novo Progresso,PA,NORTE,jan.-21,1
+1505064,Novo Repartimento,PA,NORTE,jan.-21,1
+1505403,Ourém,PA,NORTE,jan.-21,3
+1505437,Ourilândia Do Norte,PA,NORTE,jan.-21,7
+1505486,Pacajá,PA,NORTE,jan.-21,2
+1505502,Paragominas,PA,NORTE,jan.-21,7
+1505536,Parauapebas,PA,NORTE,jan.-21,6
+1505551,Pau D'Arco,PA,NORTE,jan.-21,1
+1505650,Placas,PA,NORTE,jan.-21,1
+1505700,Ponta De Pedras,PA,NORTE,jan.-21,2
+1505809,Portel,PA,NORTE,jan.-21,2
+1506138,Redenção,PA,NORTE,jan.-21,2
+1506187,Rondon Do Pará,PA,NORTE,jan.-21,2
+1506500,Santa Izabel Do Pará,PA,NORTE,jan.-21,2
+1506559,Santa Luzia Do Pará,PA,NORTE,jan.-21,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,jan.-21,1
+1506609,Santa Maria Do Pará,PA,NORTE,jan.-21,2
+1506708,Santana Do Araguaia,PA,NORTE,jan.-21,2
+1506807,Santarém,PA,NORTE,jan.-21,5
+1506906,Santarém Novo,PA,NORTE,jan.-21,1
+1507201,São Domingos Do Capim,PA,NORTE,jan.-21,2
+1507300,São Félix Do Xingu,PA,NORTE,jan.-21,3
+1507409,São Francisco Do Pará,PA,NORTE,jan.-21,1
+1507607,São Miguel Do Guamá,PA,NORTE,jan.-21,1
+1507979,Terra Santa,PA,NORTE,jan.-21,1
+1508084,Tucumã,PA,NORTE,jan.-21,3
+1508100,Tucuruí,PA,NORTE,jan.-21,2
+1508159,Uruará,PA,NORTE,jan.-21,4
+1508209,Vigia,PA,NORTE,jan.-21,1
+1500107,Abaetetuba,PA,NORTE,fev.-21,4
+1500206,Acará,PA,NORTE,fev.-21,1
+1500305,Afuá,PA,NORTE,fev.-21,2
+1500800,Ananindeua,PA,NORTE,fev.-21,9
+1500859,Anapu,PA,NORTE,fev.-21,1
+1500958,Aurora Do Pará,PA,NORTE,fev.-21,1
+1501303,Barcarena,PA,NORTE,fev.-21,2
+1501402,Belém,PA,NORTE,fev.-21,18
+1501501,Benevides,PA,NORTE,fev.-21,3
+1501576,Bom Jesus Do Tocantins,PA,NORTE,fev.-21,1
+1501709,Bragança,PA,NORTE,fev.-21,2
+1501782,Breu Branco,PA,NORTE,fev.-21,1
+1501808,Breves,PA,NORTE,fev.-21,1
+1501907,Bujaru,PA,NORTE,fev.-21,2
+1502152,Canaã Dos Carajás,PA,NORTE,fev.-21,1
+1502202,Capanema,PA,NORTE,fev.-21,1
+1502400,Castanhal,PA,NORTE,fev.-21,3
+1502756,Concórdia Do Pará,PA,NORTE,fev.-21,2
+1502764,Cumaru Do Norte,PA,NORTE,fev.-21,4
+1502772,Curionópolis,PA,NORTE,fev.-21,2
+1502855,Curuá,PA,NORTE,fev.-21,1
+1502939,Dom Eliseu,PA,NORTE,fev.-21,2
+1502954,Eldorado Do Carajás,PA,NORTE,fev.-21,1
+1503044,Floresta Do Araguaia,PA,NORTE,fev.-21,1
+1503093,Goianésia Do Pará,PA,NORTE,fev.-21,4
+1503200,Igarapé-Açu,PA,NORTE,fev.-21,2
+1503309,Igarapé-Miri,PA,NORTE,fev.-21,6
+1503606,Itaituba,PA,NORTE,fev.-21,3
+1503705,Itupiranga,PA,NORTE,fev.-21,2
+1503754,Jacareacanga,PA,NORTE,fev.-21,2
+1503804,Jacundá,PA,NORTE,fev.-21,2
+1504059,Mãe Do Rio,PA,NORTE,fev.-21,8
+1504208,Marabá,PA,NORTE,fev.-21,9
+1504406,Marapanim,PA,NORTE,fev.-21,2
+1504422,Marituba,PA,NORTE,fev.-21,1
+1504604,Mocajuba,PA,NORTE,fev.-21,1
+1505031,Novo Progresso,PA,NORTE,fev.-21,1
+1505064,Novo Repartimento,PA,NORTE,fev.-21,4
+1505106,Óbidos,PA,NORTE,fev.-21,2
+1505304,Oriximiná,PA,NORTE,fev.-21,2
+1505502,Paragominas,PA,NORTE,fev.-21,4
+1505536,Parauapebas,PA,NORTE,fev.-21,4
+1505650,Placas,PA,NORTE,fev.-21,2
+1505700,Ponta De Pedras,PA,NORTE,fev.-21,1
+1505809,Portel,PA,NORTE,fev.-21,3
+1505908,Porto De Moz,PA,NORTE,fev.-21,1
+1506112,Quatipuru,PA,NORTE,fev.-21,1
+1506138,Redenção,PA,NORTE,fev.-21,4
+1506161,Rio Maria,PA,NORTE,fev.-21,1
+1506187,Rondon Do Pará,PA,NORTE,fev.-21,3
+1506302,Salvaterra,PA,NORTE,fev.-21,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,fev.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,fev.-21,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,fev.-21,1
+1506609,Santa Maria Do Pará,PA,NORTE,fev.-21,2
+1506807,Santarém,PA,NORTE,fev.-21,6
+1507102,São Caetano De Odivelas,PA,NORTE,fev.-21,1
+1507151,São Domingos Do Araguaia,PA,NORTE,fev.-21,1
+1507300,São Félix Do Xingu,PA,NORTE,fev.-21,2
+1507409,São Francisco Do Pará,PA,NORTE,fev.-21,1
+1507474,São João De Pirabas,PA,NORTE,fev.-21,1
+1507953,Tailândia,PA,NORTE,fev.-21,4
+1508035,Tracuateua,PA,NORTE,fev.-21,1
+1508050,Trairão,PA,NORTE,fev.-21,1
+1508084,Tucumã,PA,NORTE,fev.-21,1
+1508100,Tucuruí,PA,NORTE,fev.-21,1
+1508159,Uruará,PA,NORTE,fev.-21,1
+1508407,Xinguara,PA,NORTE,fev.-21,1
+1500107,Abaetetuba,PA,NORTE,mar.-21,3
+1500206,Acará,PA,NORTE,mar.-21,2
+1500305,Afuá,PA,NORTE,mar.-21,2
+1500404,Alenquer,PA,NORTE,mar.-21,1
+1500503,Almeirim,PA,NORTE,mar.-21,1
+1500602,Altamira,PA,NORTE,mar.-21,5
+1500800,Ananindeua,PA,NORTE,mar.-21,10
+1500859,Anapu,PA,NORTE,mar.-21,5
+1501105,Bagre,PA,NORTE,mar.-21,2
+1501204,Baião,PA,NORTE,mar.-21,1
+1501402,Belém,PA,NORTE,mar.-21,27
+1501501,Benevides,PA,NORTE,mar.-21,3
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mar.-21,1
+1501782,Breu Branco,PA,NORTE,mar.-21,1
+1501808,Breves,PA,NORTE,mar.-21,1
+1502103,Cametá,PA,NORTE,mar.-21,1
+1502152,Canaã Dos Carajás,PA,NORTE,mar.-21,4
+1502202,Capanema,PA,NORTE,mar.-21,2
+1502301,Capitão Poço,PA,NORTE,mar.-21,2
+1502400,Castanhal,PA,NORTE,mar.-21,6
+1502707,Conceição Do Araguaia,PA,NORTE,mar.-21,3
+1502756,Concórdia Do Pará,PA,NORTE,mar.-21,2
+1502764,Cumaru Do Norte,PA,NORTE,mar.-21,1
+1502772,Curionópolis,PA,NORTE,mar.-21,5
+1502806,Curralinho,PA,NORTE,mar.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,mar.-21,3
+1503044,Floresta Do Araguaia,PA,NORTE,mar.-21,1
+1503200,Igarapé-Açu,PA,NORTE,mar.-21,1
+1503309,Igarapé-Miri,PA,NORTE,mar.-21,2
+1503606,Itaituba,PA,NORTE,mar.-21,1
+1503754,Jacareacanga,PA,NORTE,mar.-21,3
+1503804,Jacundá,PA,NORTE,mar.-21,3
+1503903,Juruti,PA,NORTE,mar.-21,3
+1504059,Mãe Do Rio,PA,NORTE,mar.-21,1
+1504208,Marabá,PA,NORTE,mar.-21,6
+1504307,Maracanã,PA,NORTE,mar.-21,2
+1504422,Marituba,PA,NORTE,mar.-21,1
+1504455,Medicilândia,PA,NORTE,mar.-21,1
+1504604,Mocajuba,PA,NORTE,mar.-21,1
+1504703,Moju,PA,NORTE,mar.-21,5
+1504976,Nova Ipixuna,PA,NORTE,mar.-21,1
+1505031,Novo Progresso,PA,NORTE,mar.-21,2
+1505304,Oriximiná,PA,NORTE,mar.-21,2
+1505403,Ourém,PA,NORTE,mar.-21,3
+1505486,Pacajá,PA,NORTE,mar.-21,1
+1505494,Palestina Do Pará,PA,NORTE,mar.-21,2
+1505502,Paragominas,PA,NORTE,mar.-21,3
+1505536,Parauapebas,PA,NORTE,mar.-21,3
+1505650,Placas,PA,NORTE,mar.-21,1
+1505809,Portel,PA,NORTE,mar.-21,1
+1506161,Rio Maria,PA,NORTE,mar.-21,1
+1506187,Rondon Do Pará,PA,NORTE,mar.-21,2
+1506559,Santa Luzia Do Pará,PA,NORTE,mar.-21,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,mar.-21,3
+1506609,Santa Maria Do Pará,PA,NORTE,mar.-21,2
+1506807,Santarém,PA,NORTE,mar.-21,2
+1506906,Santarém Novo,PA,NORTE,mar.-21,1
+1507151,São Domingos Do Araguaia,PA,NORTE,mar.-21,2
+1507300,São Félix Do Xingu,PA,NORTE,mar.-21,5
+1507508,São João Do Araguaia,PA,NORTE,mar.-21,2
+1507607,São Miguel Do Guamá,PA,NORTE,mar.-21,1
+1507805,Senador José Porfírio,PA,NORTE,mar.-21,1
+1508035,Tracuateua,PA,NORTE,mar.-21,1
+1508084,Tucumã,PA,NORTE,mar.-21,1
+1508100,Tucuruí,PA,NORTE,mar.-21,4
+1508159,Uruará,PA,NORTE,mar.-21,1
+1508308,Viseu,PA,NORTE,mar.-21,1
+1508357,Vitória Do Xingu,PA,NORTE,mar.-21,2
+1500131,Abel Figueiredo,PA,NORTE,abr.-21,3
+1500206,Acará,PA,NORTE,abr.-21,3
+1500305,Afuá,PA,NORTE,abr.-21,1
+1500347,Água Azul Do Norte,PA,NORTE,abr.-21,2
+1500602,Altamira,PA,NORTE,abr.-21,1
+1500800,Ananindeua,PA,NORTE,abr.-21,2
+1500859,Anapu,PA,NORTE,abr.-21,2
+1500909,Augusto Corrêa,PA,NORTE,abr.-21,1
+1501303,Barcarena,PA,NORTE,abr.-21,1
+1501402,Belém,PA,NORTE,abr.-21,16
+1501501,Benevides,PA,NORTE,abr.-21,1
+1501709,Bragança,PA,NORTE,abr.-21,1
+1501956,Cachoeira Do Piriá,PA,NORTE,abr.-21,2
+1502152,Canaã Dos Carajás,PA,NORTE,abr.-21,1
+1502301,Capitão Poço,PA,NORTE,abr.-21,1
+1502400,Castanhal,PA,NORTE,abr.-21,6
+1502509,Chaves,PA,NORTE,abr.-21,1
+1502707,Conceição Do Araguaia,PA,NORTE,abr.-21,2
+1502764,Cumaru Do Norte,PA,NORTE,abr.-21,2
+1502772,Curionópolis,PA,NORTE,abr.-21,1
+1502939,Dom Eliseu,PA,NORTE,abr.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,abr.-21,4
+1503044,Floresta Do Araguaia,PA,NORTE,abr.-21,3
+1503077,Garrafão Do Norte,PA,NORTE,abr.-21,1
+1503309,Igarapé-Miri,PA,NORTE,abr.-21,2
+1503408,Inhangapi,PA,NORTE,abr.-21,1
+1503457,Ipixuna Do Pará,PA,NORTE,abr.-21,2
+1503507,Irituia,PA,NORTE,abr.-21,1
+1503606,Itaituba,PA,NORTE,abr.-21,4
+1503705,Itupiranga,PA,NORTE,abr.-21,2
+1504059,Mãe Do Rio,PA,NORTE,abr.-21,1
+1504208,Marabá,PA,NORTE,abr.-21,12
+1504422,Marituba,PA,NORTE,abr.-21,2
+1504455,Medicilândia,PA,NORTE,abr.-21,3
+1504604,Mocajuba,PA,NORTE,abr.-21,3
+1504802,Monte Alegre,PA,NORTE,abr.-21,1
+1504976,Nova Ipixuna,PA,NORTE,abr.-21,2
+1505031,Novo Progresso,PA,NORTE,abr.-21,1
+1505064,Novo Repartimento,PA,NORTE,abr.-21,2
+1505106,Óbidos,PA,NORTE,abr.-21,1
+1505437,Ourilândia Do Norte,PA,NORTE,abr.-21,1
+1505486,Pacajá,PA,NORTE,abr.-21,3
+1505502,Paragominas,PA,NORTE,abr.-21,3
+1505536,Parauapebas,PA,NORTE,abr.-21,11
+1505809,Portel,PA,NORTE,abr.-21,2
+1506005,Prainha,PA,NORTE,abr.-21,1
+1506138,Redenção,PA,NORTE,abr.-21,1
+1506161,Rio Maria,PA,NORTE,abr.-21,2
+1506187,Rondon Do Pará,PA,NORTE,abr.-21,2
+1506351,Santa Bárbara Do Pará,PA,NORTE,abr.-21,2
+1506500,Santa Izabel Do Pará,PA,NORTE,abr.-21,3
+1506583,Santa Maria Das Barreiras,PA,NORTE,abr.-21,2
+1506609,Santa Maria Do Pará,PA,NORTE,abr.-21,1
+1506708,Santana Do Araguaia,PA,NORTE,abr.-21,1
+1506807,Santarém,PA,NORTE,abr.-21,2
+1507201,São Domingos Do Capim,PA,NORTE,abr.-21,1
+1507300,São Félix Do Xingu,PA,NORTE,abr.-21,3
+1507409,São Francisco Do Pará,PA,NORTE,abr.-21,1
+1507508,São João Do Araguaia,PA,NORTE,abr.-21,2
+1507953,Tailândia,PA,NORTE,abr.-21,3
+1508001,Tomé-Açu,PA,NORTE,abr.-21,3
+1508084,Tucumã,PA,NORTE,abr.-21,1
+1508100,Tucuruí,PA,NORTE,abr.-21,1
+1508126,Ulianópolis,PA,NORTE,abr.-21,2
+1508159,Uruará,PA,NORTE,abr.-21,3
+1508407,Xinguara,PA,NORTE,abr.-21,4
+1500107,Abaetetuba,PA,NORTE,mai.-21,3
+1500131,Abel Figueiredo,PA,NORTE,mai.-21,1
+1500206,Acará,PA,NORTE,mai.-21,2
+1500305,Afuá,PA,NORTE,mai.-21,1
+1500404,Alenquer,PA,NORTE,mai.-21,2
+1500503,Almeirim,PA,NORTE,mai.-21,2
+1500602,Altamira,PA,NORTE,mai.-21,5
+1500701,Anajás,PA,NORTE,mai.-21,2
+1500800,Ananindeua,PA,NORTE,mai.-21,8
+1500859,Anapu,PA,NORTE,mai.-21,2
+1500909,Augusto Corrêa,PA,NORTE,mai.-21,1
+1501204,Baião,PA,NORTE,mai.-21,1
+1501303,Barcarena,PA,NORTE,mai.-21,2
+1501402,Belém,PA,NORTE,mai.-21,21
+1501451,Belterra,PA,NORTE,mai.-21,1
+1501501,Benevides,PA,NORTE,mai.-21,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mai.-21,1
+1501600,Bonito,PA,NORTE,mai.-21,1
+1501725,Brasil Novo,PA,NORTE,mai.-21,2
+1501758,Brejo Grande Do Araguaia,PA,NORTE,mai.-21,1
+1501782,Breu Branco,PA,NORTE,mai.-21,1
+1501808,Breves,PA,NORTE,mai.-21,1
+1502004,Cachoeira Do Arari,PA,NORTE,mai.-21,1
+1501956,Cachoeira Do Piriá,PA,NORTE,mai.-21,1
+1502103,Cametá,PA,NORTE,mai.-21,3
+1502152,Canaã Dos Carajás,PA,NORTE,mai.-21,1
+1502202,Capanema,PA,NORTE,mai.-21,1
+1502301,Capitão Poço,PA,NORTE,mai.-21,2
+1502400,Castanhal,PA,NORTE,mai.-21,4
+1502764,Cumaru Do Norte,PA,NORTE,mai.-21,2
+1502905,Curuçá,PA,NORTE,mai.-21,2
+1502939,Dom Eliseu,PA,NORTE,mai.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,mai.-21,3
+1503044,Floresta Do Araguaia,PA,NORTE,mai.-21,2
+1503093,Goianésia Do Pará,PA,NORTE,mai.-21,2
+1503457,Ipixuna Do Pará,PA,NORTE,mai.-21,3
+1503507,Irituia,PA,NORTE,mai.-21,2
+1503606,Itaituba,PA,NORTE,mai.-21,4
+1503705,Itupiranga,PA,NORTE,mai.-21,3
+1503754,Jacareacanga,PA,NORTE,mai.-21,1
+1503804,Jacundá,PA,NORTE,mai.-21,2
+1504000,Limoeiro Do Ajuru,PA,NORTE,mai.-21,1
+1504059,Mãe Do Rio,PA,NORTE,mai.-21,1
+1504208,Marabá,PA,NORTE,mai.-21,14
+1504307,Maracanã,PA,NORTE,mai.-21,1
+1504422,Marituba,PA,NORTE,mai.-21,2
+1504455,Medicilândia,PA,NORTE,mai.-21,2
+1504604,Mocajuba,PA,NORTE,mai.-21,3
+1504703,Moju,PA,NORTE,mai.-21,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mai.-21,4
+1505031,Novo Progresso,PA,NORTE,mai.-21,3
+1505064,Novo Repartimento,PA,NORTE,mai.-21,5
+1505403,Ourém,PA,NORTE,mai.-21,2
+1505437,Ourilândia Do Norte,PA,NORTE,mai.-21,3
+1505486,Pacajá,PA,NORTE,mai.-21,2
+1505502,Paragominas,PA,NORTE,mai.-21,5
+1505536,Parauapebas,PA,NORTE,mai.-21,12
+1505650,Placas,PA,NORTE,mai.-21,1
+1505809,Portel,PA,NORTE,mai.-21,1
+1505908,Porto De Moz,PA,NORTE,mai.-21,1
+1506138,Redenção,PA,NORTE,mai.-21,1
+1506187,Rondon Do Pará,PA,NORTE,mai.-21,2
+1506203,Salinópolis,PA,NORTE,mai.-21,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,mai.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,mai.-21,2
+1506559,Santa Luzia Do Pará,PA,NORTE,mai.-21,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,mai.-21,1
+1506708,Santana Do Araguaia,PA,NORTE,mai.-21,2
+1506807,Santarém,PA,NORTE,mai.-21,4
+1507151,São Domingos Do Araguaia,PA,NORTE,mai.-21,1
+1507201,São Domingos Do Capim,PA,NORTE,mai.-21,5
+1507300,São Félix Do Xingu,PA,NORTE,mai.-21,3
+1507508,São João Do Araguaia,PA,NORTE,mai.-21,1
+1507607,São Miguel Do Guamá,PA,NORTE,mai.-21,1
+1507953,Tailândia,PA,NORTE,mai.-21,5
+1507961,Terra Alta,PA,NORTE,mai.-21,1
+1508001,Tomé-Açu,PA,NORTE,mai.-21,3
+1508100,Tucuruí,PA,NORTE,mai.-21,3
+1508159,Uruará,PA,NORTE,mai.-21,2
+1500107,Abaetetuba,PA,NORTE,jun.-21,1
+1500131,Abel Figueiredo,PA,NORTE,jun.-21,1
+1500206,Acará,PA,NORTE,jun.-21,2
+1500404,Alenquer,PA,NORTE,jun.-21,1
+1500503,Almeirim,PA,NORTE,jun.-21,1
+1500602,Altamira,PA,NORTE,jun.-21,3
+1500800,Ananindeua,PA,NORTE,jun.-21,10
+1501204,Baião,PA,NORTE,jun.-21,1
+1501303,Barcarena,PA,NORTE,jun.-21,2
+1501402,Belém,PA,NORTE,jun.-21,22
+1501501,Benevides,PA,NORTE,jun.-21,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jun.-21,1
+1501725,Brasil Novo,PA,NORTE,jun.-21,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,jun.-21,1
+1501808,Breves,PA,NORTE,jun.-21,1
+1501907,Bujaru,PA,NORTE,jun.-21,1
+1502004,Cachoeira Do Arari,PA,NORTE,jun.-21,1
+1502103,Cametá,PA,NORTE,jun.-21,4
+1502202,Capanema,PA,NORTE,jun.-21,3
+1502301,Capitão Poço,PA,NORTE,jun.-21,2
+1502400,Castanhal,PA,NORTE,jun.-21,9
+1502707,Conceição Do Araguaia,PA,NORTE,jun.-21,1
+1502756,Concórdia Do Pará,PA,NORTE,jun.-21,1
+1502764,Cumaru Do Norte,PA,NORTE,jun.-21,2
+1502939,Dom Eliseu,PA,NORTE,jun.-21,2
+1502954,Eldorado Do Carajás,PA,NORTE,jun.-21,2
+1503044,Floresta Do Araguaia,PA,NORTE,jun.-21,7
+1503077,Garrafão Do Norte,PA,NORTE,jun.-21,1
+1503101,Gurupá,PA,NORTE,jun.-21,1
+1503309,Igarapé-Miri,PA,NORTE,jun.-21,3
+1503457,Ipixuna Do Pará,PA,NORTE,jun.-21,1
+1503606,Itaituba,PA,NORTE,jun.-21,3
+1503705,Itupiranga,PA,NORTE,jun.-21,2
+1503804,Jacundá,PA,NORTE,jun.-21,1
+1503903,Juruti,PA,NORTE,jun.-21,1
+1504059,Mãe Do Rio,PA,NORTE,jun.-21,2
+1504208,Marabá,PA,NORTE,jun.-21,10
+1504307,Maracanã,PA,NORTE,jun.-21,1
+1504406,Marapanim,PA,NORTE,jun.-21,1
+1504422,Marituba,PA,NORTE,jun.-21,3
+1504455,Medicilândia,PA,NORTE,jun.-21,2
+1504604,Mocajuba,PA,NORTE,jun.-21,2
+1504901,Muaná,PA,NORTE,jun.-21,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jun.-21,1
+1505007,Nova Timboteua,PA,NORTE,jun.-21,1
+1505031,Novo Progresso,PA,NORTE,jun.-21,3
+1505064,Novo Repartimento,PA,NORTE,jun.-21,3
+1505106,Óbidos,PA,NORTE,jun.-21,1
+1505403,Ourém,PA,NORTE,jun.-21,1
+1505486,Pacajá,PA,NORTE,jun.-21,3
+1505502,Paragominas,PA,NORTE,jun.-21,3
+1505536,Parauapebas,PA,NORTE,jun.-21,6
+1505551,Pau D'Arco,PA,NORTE,jun.-21,1
+1505601,Peixe-Boi,PA,NORTE,jun.-21,1
+1505809,Portel,PA,NORTE,jun.-21,3
+1506138,Redenção,PA,NORTE,jun.-21,2
+1506161,Rio Maria,PA,NORTE,jun.-21,1
+1506187,Rondon Do Pará,PA,NORTE,jun.-21,2
+1506203,Salinópolis,PA,NORTE,jun.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jun.-21,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,jun.-21,1
+1506708,Santana Do Araguaia,PA,NORTE,jun.-21,1
+1506807,Santarém,PA,NORTE,jun.-21,6
+1507201,São Domingos Do Capim,PA,NORTE,jun.-21,1
+1507300,São Félix Do Xingu,PA,NORTE,jun.-21,3
+1507474,São João De Pirabas,PA,NORTE,jun.-21,1
+1507607,São Miguel Do Guamá,PA,NORTE,jun.-21,3
+1507953,Tailândia,PA,NORTE,jun.-21,5
+1508001,Tomé-Açu,PA,NORTE,jun.-21,2
+1508035,Tracuateua,PA,NORTE,jun.-21,1
+1508100,Tucuruí,PA,NORTE,jun.-21,1
+1508159,Uruará,PA,NORTE,jun.-21,2
+1500107,Abaetetuba,PA,NORTE,jul.-21,4
+1500131,Abel Figueiredo,PA,NORTE,jul.-21,1
+1500206,Acará,PA,NORTE,jul.-21,6
+1500503,Almeirim,PA,NORTE,jul.-21,1
+1500800,Ananindeua,PA,NORTE,jul.-21,9
+1500859,Anapu,PA,NORTE,jul.-21,4
+1501204,Baião,PA,NORTE,jul.-21,1
+1501402,Belém,PA,NORTE,jul.-21,16
+1501501,Benevides,PA,NORTE,jul.-21,2
+1501600,Bonito,PA,NORTE,jul.-21,1
+1501709,Bragança,PA,NORTE,jul.-21,2
+1501782,Breu Branco,PA,NORTE,jul.-21,2
+1501907,Bujaru,PA,NORTE,jul.-21,1
+1501956,Cachoeira Do Piriá,PA,NORTE,jul.-21,2
+1502103,Cametá,PA,NORTE,jul.-21,2
+1502152,Canaã Dos Carajás,PA,NORTE,jul.-21,2
+1502202,Capanema,PA,NORTE,jul.-21,1
+1502301,Capitão Poço,PA,NORTE,jul.-21,1
+1502400,Castanhal,PA,NORTE,jul.-21,5
+1502608,Colares,PA,NORTE,jul.-21,1
+1502707,Conceição Do Araguaia,PA,NORTE,jul.-21,1
+1502806,Curralinho,PA,NORTE,jul.-21,1
+1502939,Dom Eliseu,PA,NORTE,jul.-21,1
+1503077,Garrafão Do Norte,PA,NORTE,jul.-21,1
+1503093,Goianésia Do Pará,PA,NORTE,jul.-21,1
+1503309,Igarapé-Miri,PA,NORTE,jul.-21,1
+1503606,Itaituba,PA,NORTE,jul.-21,4
+1503705,Itupiranga,PA,NORTE,jul.-21,1
+1504000,Limoeiro Do Ajuru,PA,NORTE,jul.-21,2
+1504059,Mãe Do Rio,PA,NORTE,jul.-21,2
+1504208,Marabá,PA,NORTE,jul.-21,6
+1504422,Marituba,PA,NORTE,jul.-21,8
+1504455,Medicilândia,PA,NORTE,jul.-21,5
+1504604,Mocajuba,PA,NORTE,jul.-21,1
+1504703,Moju,PA,NORTE,jul.-21,1
+1505064,Novo Repartimento,PA,NORTE,jul.-21,4
+1505106,Óbidos,PA,NORTE,jul.-21,2
+1505205,Oeiras Do Pará,PA,NORTE,jul.-21,1
+1505304,Oriximiná,PA,NORTE,jul.-21,1
+1505437,Ourilândia Do Norte,PA,NORTE,jul.-21,2
+1505486,Pacajá,PA,NORTE,jul.-21,1
+1505502,Paragominas,PA,NORTE,jul.-21,1
+1505536,Parauapebas,PA,NORTE,jul.-21,5
+1505908,Porto De Moz,PA,NORTE,jul.-21,1
+1506138,Redenção,PA,NORTE,jul.-21,1
+1506161,Rio Maria,PA,NORTE,jul.-21,2
+1506187,Rondon Do Pará,PA,NORTE,jul.-21,3
+1506351,Santa Bárbara Do Pará,PA,NORTE,jul.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jul.-21,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,jul.-21,1
+1506708,Santana Do Araguaia,PA,NORTE,jul.-21,1
+1506807,Santarém,PA,NORTE,jul.-21,1
+1507102,São Caetano De Odivelas,PA,NORTE,jul.-21,1
+1507201,São Domingos Do Capim,PA,NORTE,jul.-21,2
+1507409,São Francisco Do Pará,PA,NORTE,jul.-21,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,jul.-21,1
+1507508,São João Do Araguaia,PA,NORTE,jul.-21,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,jul.-21,1
+1507953,Tailândia,PA,NORTE,jul.-21,1
+1507961,Terra Alta,PA,NORTE,jul.-21,1
+1508001,Tomé-Açu,PA,NORTE,jul.-21,3
+1508050,Trairão,PA,NORTE,jul.-21,2
+1508100,Tucuruí,PA,NORTE,jul.-21,1
+1508126,Ulianópolis,PA,NORTE,jul.-21,1
+1508209,Vigia,PA,NORTE,jul.-21,1
+1508308,Viseu,PA,NORTE,jul.-21,1
+1508407,Xinguara,PA,NORTE,jul.-21,3
+1500107,Abaetetuba,PA,NORTE,ago.-21,6
+1500131,Abel Figueiredo,PA,NORTE,ago.-21,1
+1500206,Acará,PA,NORTE,ago.-21,3
+1500503,Almeirim,PA,NORTE,ago.-21,2
+1500602,Altamira,PA,NORTE,ago.-21,8
+1500701,Anajás,PA,NORTE,ago.-21,1
+1500800,Ananindeua,PA,NORTE,ago.-21,10
+1500859,Anapu,PA,NORTE,ago.-21,4
+1500909,Augusto Corrêa,PA,NORTE,ago.-21,1
+1501204,Baião,PA,NORTE,ago.-21,1
+1501253,Bannach,PA,NORTE,ago.-21,1
+1501303,Barcarena,PA,NORTE,ago.-21,2
+1501402,Belém,PA,NORTE,ago.-21,26
+1501451,Belterra,PA,NORTE,ago.-21,1
+1501501,Benevides,PA,NORTE,ago.-21,2
+1501709,Bragança,PA,NORTE,ago.-21,4
+1501782,Breu Branco,PA,NORTE,ago.-21,3
+1501808,Breves,PA,NORTE,ago.-21,1
+1502152,Canaã Dos Carajás,PA,NORTE,ago.-21,1
+1502301,Capitão Poço,PA,NORTE,ago.-21,1
+1502400,Castanhal,PA,NORTE,ago.-21,6
+1502509,Chaves,PA,NORTE,ago.-21,2
+1502608,Colares,PA,NORTE,ago.-21,1
+1502707,Conceição Do Araguaia,PA,NORTE,ago.-21,3
+1502756,Concórdia Do Pará,PA,NORTE,ago.-21,2
+1502764,Cumaru Do Norte,PA,NORTE,ago.-21,1
+1502855,Curuá,PA,NORTE,ago.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,ago.-21,1
+1503044,Floresta Do Araguaia,PA,NORTE,ago.-21,6
+1503200,Igarapé-Açu,PA,NORTE,ago.-21,1
+1503309,Igarapé-Miri,PA,NORTE,ago.-21,1
+1503408,Inhangapi,PA,NORTE,ago.-21,1
+1503457,Ipixuna Do Pará,PA,NORTE,ago.-21,2
+1503606,Itaituba,PA,NORTE,ago.-21,3
+1503705,Itupiranga,PA,NORTE,ago.-21,2
+1503754,Jacareacanga,PA,NORTE,ago.-21,2
+1503804,Jacundá,PA,NORTE,ago.-21,2
+1504059,Mãe Do Rio,PA,NORTE,ago.-21,1
+1504208,Marabá,PA,NORTE,ago.-21,3
+1504307,Maracanã,PA,NORTE,ago.-21,2
+1504422,Marituba,PA,NORTE,ago.-21,3
+1504455,Medicilândia,PA,NORTE,ago.-21,1
+1504604,Mocajuba,PA,NORTE,ago.-21,7
+1504703,Moju,PA,NORTE,ago.-21,5
+1504752,Mojuí Dos Campos,PA,NORTE,ago.-21,1
+1504802,Monte Alegre,PA,NORTE,ago.-21,1
+1504901,Muaná,PA,NORTE,ago.-21,1
+1505031,Novo Progresso,PA,NORTE,ago.-21,4
+1505106,Óbidos,PA,NORTE,ago.-21,1
+1505304,Oriximiná,PA,NORTE,ago.-21,1
+1505437,Ourilândia Do Norte,PA,NORTE,ago.-21,3
+1505486,Pacajá,PA,NORTE,ago.-21,2
+1505502,Paragominas,PA,NORTE,ago.-21,4
+1505536,Parauapebas,PA,NORTE,ago.-21,3
+1505908,Porto De Moz,PA,NORTE,ago.-21,3
+1506005,Prainha,PA,NORTE,ago.-21,1
+1506112,Quatipuru,PA,NORTE,ago.-21,1
+1506138,Redenção,PA,NORTE,ago.-21,1
+1506161,Rio Maria,PA,NORTE,ago.-21,4
+1506187,Rondon Do Pará,PA,NORTE,ago.-21,4
+1506195,Rurópolis,PA,NORTE,ago.-21,1
+1506203,Salinópolis,PA,NORTE,ago.-21,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,ago.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,ago.-21,7
+1506807,Santarém,PA,NORTE,ago.-21,1
+1506906,Santarém Novo,PA,NORTE,ago.-21,1
+1507003,Santo Antônio Do Tauá,PA,NORTE,ago.-21,1
+1507151,São Domingos Do Araguaia,PA,NORTE,ago.-21,1
+1507201,São Domingos Do Capim,PA,NORTE,ago.-21,1
+1507300,São Félix Do Xingu,PA,NORTE,ago.-21,3
+1507409,São Francisco Do Pará,PA,NORTE,ago.-21,1
+1507474,São João De Pirabas,PA,NORTE,ago.-21,1
+1507508,São João Do Araguaia,PA,NORTE,ago.-21,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,ago.-21,1
+1507953,Tailândia,PA,NORTE,ago.-21,3
+1508001,Tomé-Açu,PA,NORTE,ago.-21,3
+1508035,Tracuateua,PA,NORTE,ago.-21,1
+1508050,Trairão,PA,NORTE,ago.-21,1
+1508084,Tucumã,PA,NORTE,ago.-21,3
+1508100,Tucuruí,PA,NORTE,ago.-21,2
+1508126,Ulianópolis,PA,NORTE,ago.-21,3
+1508159,Uruará,PA,NORTE,ago.-21,6
+1508308,Viseu,PA,NORTE,ago.-21,2
+1508407,Xinguara,PA,NORTE,ago.-21,2
+1500107,Abaetetuba,PA,NORTE,set.-21,2
+1500206,Acará,PA,NORTE,set.-21,1
+1500404,Alenquer,PA,NORTE,set.-21,1
+1500503,Almeirim,PA,NORTE,set.-21,1
+1500602,Altamira,PA,NORTE,set.-21,8
+1500800,Ananindeua,PA,NORTE,set.-21,5
+1500859,Anapu,PA,NORTE,set.-21,2
+1500909,Augusto Corrêa,PA,NORTE,set.-21,1
+1501303,Barcarena,PA,NORTE,set.-21,1
+1501402,Belém,PA,NORTE,set.-21,16
+1501501,Benevides,PA,NORTE,set.-21,1
+1501709,Bragança,PA,NORTE,set.-21,4
+1501808,Breves,PA,NORTE,set.-21,1
+1501907,Bujaru,PA,NORTE,set.-21,2
+1501956,Cachoeira Do Piriá,PA,NORTE,set.-21,2
+1502152,Canaã Dos Carajás,PA,NORTE,set.-21,1
+1502301,Capitão Poço,PA,NORTE,set.-21,2
+1502400,Castanhal,PA,NORTE,set.-21,2
+1502756,Concórdia Do Pará,PA,NORTE,set.-21,2
+1502764,Cumaru Do Norte,PA,NORTE,set.-21,1
+1502806,Curralinho,PA,NORTE,set.-21,1
+1502939,Dom Eliseu,PA,NORTE,set.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,set.-21,2
+1503044,Floresta Do Araguaia,PA,NORTE,set.-21,3
+1503093,Goianésia Do Pará,PA,NORTE,set.-21,1
+1503200,Igarapé-Açu,PA,NORTE,set.-21,1
+1503309,Igarapé-Miri,PA,NORTE,set.-21,1
+1503457,Ipixuna Do Pará,PA,NORTE,set.-21,2
+1503507,Irituia,PA,NORTE,set.-21,1
+1503606,Itaituba,PA,NORTE,set.-21,8
+1503705,Itupiranga,PA,NORTE,set.-21,3
+1503754,Jacareacanga,PA,NORTE,set.-21,1
+1504109,Magalhães Barata,PA,NORTE,set.-21,1
+1504208,Marabá,PA,NORTE,set.-21,14
+1504422,Marituba,PA,NORTE,set.-21,4
+1504505,Melgaço,PA,NORTE,set.-21,2
+1504703,Moju,PA,NORTE,set.-21,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,set.-21,1
+1505031,Novo Progresso,PA,NORTE,set.-21,2
+1505064,Novo Repartimento,PA,NORTE,set.-21,4
+1505304,Oriximiná,PA,NORTE,set.-21,1
+1505437,Ourilândia Do Norte,PA,NORTE,set.-21,2
+1505486,Pacajá,PA,NORTE,set.-21,4
+1505502,Paragominas,PA,NORTE,set.-21,3
+1505536,Parauapebas,PA,NORTE,set.-21,12
+1505650,Placas,PA,NORTE,set.-21,1
+1505809,Portel,PA,NORTE,set.-21,1
+1505908,Porto De Moz,PA,NORTE,set.-21,2
+1506138,Redenção,PA,NORTE,set.-21,4
+1506187,Rondon Do Pará,PA,NORTE,set.-21,1
+1506302,Salvaterra,PA,NORTE,set.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,set.-21,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,set.-21,1
+1506807,Santarém,PA,NORTE,set.-21,5
+1507003,Santo Antônio Do Tauá,PA,NORTE,set.-21,2
+1507300,São Félix Do Xingu,PA,NORTE,set.-21,4
+1507409,São Francisco Do Pará,PA,NORTE,set.-21,1
+1507474,São João De Pirabas,PA,NORTE,set.-21,1
+1507607,São Miguel Do Guamá,PA,NORTE,set.-21,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,set.-21,1
+1507805,Senador José Porfírio,PA,NORTE,set.-21,1
+1507904,Soure,PA,NORTE,set.-21,1
+1507953,Tailândia,PA,NORTE,set.-21,3
+1508001,Tomé-Açu,PA,NORTE,set.-21,1
+1508084,Tucumã,PA,NORTE,set.-21,1
+1508126,Ulianópolis,PA,NORTE,set.-21,1
+1508159,Uruará,PA,NORTE,set.-21,1
+1508308,Viseu,PA,NORTE,set.-21,1
+1500107,Abaetetuba,PA,NORTE,out.-21,8
+1500131,Abel Figueiredo,PA,NORTE,out.-21,1
+1500206,Acará,PA,NORTE,out.-21,4
+1500347,Água Azul Do Norte,PA,NORTE,out.-21,2
+1500503,Almeirim,PA,NORTE,out.-21,1
+1500602,Altamira,PA,NORTE,out.-21,7
+1500800,Ananindeua,PA,NORTE,out.-21,5
+1500859,Anapu,PA,NORTE,out.-21,4
+1501006,Aveiro,PA,NORTE,out.-21,1
+1501303,Barcarena,PA,NORTE,out.-21,5
+1501402,Belém,PA,NORTE,out.-21,16
+1501501,Benevides,PA,NORTE,out.-21,1
+1501600,Bonito,PA,NORTE,out.-21,1
+1501725,Brasil Novo,PA,NORTE,out.-21,1
+1501782,Breu Branco,PA,NORTE,out.-21,2
+1501808,Breves,PA,NORTE,out.-21,2
+1501907,Bujaru,PA,NORTE,out.-21,2
+1501956,Cachoeira Do Piriá,PA,NORTE,out.-21,1
+1502103,Cametá,PA,NORTE,out.-21,1
+1502152,Canaã Dos Carajás,PA,NORTE,out.-21,1
+1502202,Capanema,PA,NORTE,out.-21,1
+1502301,Capitão Poço,PA,NORTE,out.-21,2
+1502400,Castanhal,PA,NORTE,out.-21,3
+1502707,Conceição Do Araguaia,PA,NORTE,out.-21,1
+1502764,Cumaru Do Norte,PA,NORTE,out.-21,1
+1502772,Curionópolis,PA,NORTE,out.-21,2
+1502939,Dom Eliseu,PA,NORTE,out.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,out.-21,1
+1503044,Floresta Do Araguaia,PA,NORTE,out.-21,1
+1503077,Garrafão Do Norte,PA,NORTE,out.-21,2
+1503093,Goianésia Do Pará,PA,NORTE,out.-21,1
+1503101,Gurupá,PA,NORTE,out.-21,1
+1503200,Igarapé-Açu,PA,NORTE,out.-21,2
+1503309,Igarapé-Miri,PA,NORTE,out.-21,1
+1503457,Ipixuna Do Pará,PA,NORTE,out.-21,3
+1503606,Itaituba,PA,NORTE,out.-21,4
+1503754,Jacareacanga,PA,NORTE,out.-21,1
+1503804,Jacundá,PA,NORTE,out.-21,3
+1504208,Marabá,PA,NORTE,out.-21,6
+1504455,Medicilândia,PA,NORTE,out.-21,3
+1504604,Mocajuba,PA,NORTE,out.-21,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,out.-21,3
+1504976,Nova Ipixuna,PA,NORTE,out.-21,1
+1505031,Novo Progresso,PA,NORTE,out.-21,2
+1505064,Novo Repartimento,PA,NORTE,out.-21,2
+1505403,Ourém,PA,NORTE,out.-21,1
+1505437,Ourilândia Do Norte,PA,NORTE,out.-21,7
+1505486,Pacajá,PA,NORTE,out.-21,1
+1505502,Paragominas,PA,NORTE,out.-21,2
+1505536,Parauapebas,PA,NORTE,out.-21,5
+1505551,Pau D'Arco,PA,NORTE,out.-21,2
+1505601,Peixe-Boi,PA,NORTE,out.-21,1
+1505635,Piçarra,PA,NORTE,out.-21,1
+1505809,Portel,PA,NORTE,out.-21,1
+1506138,Redenção,PA,NORTE,out.-21,5
+1506187,Rondon Do Pará,PA,NORTE,out.-21,2
+1506401,Santa Cruz Do Arari,PA,NORTE,out.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,out.-21,4
+1506559,Santa Luzia Do Pará,PA,NORTE,out.-21,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,out.-21,1
+1506609,Santa Maria Do Pará,PA,NORTE,out.-21,1
+1506708,Santana Do Araguaia,PA,NORTE,out.-21,3
+1506807,Santarém,PA,NORTE,out.-21,2
+1507151,São Domingos Do Araguaia,PA,NORTE,out.-21,1
+1507201,São Domingos Do Capim,PA,NORTE,out.-21,1
+1507300,São Félix Do Xingu,PA,NORTE,out.-21,3
+1507409,São Francisco Do Pará,PA,NORTE,out.-21,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,out.-21,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,out.-21,1
+1507805,Senador José Porfírio,PA,NORTE,out.-21,4
+1507953,Tailândia,PA,NORTE,out.-21,5
+1508050,Trairão,PA,NORTE,out.-21,3
+1508084,Tucumã,PA,NORTE,out.-21,2
+1508100,Tucuruí,PA,NORTE,out.-21,5
+1508126,Ulianópolis,PA,NORTE,out.-21,1
+1508308,Viseu,PA,NORTE,out.-21,2
+1508407,Xinguara,PA,NORTE,out.-21,3
+1500107,Abaetetuba,PA,NORTE,nov.-21,2
+1500131,Abel Figueiredo,PA,NORTE,nov.-21,2
+1500206,Acará,PA,NORTE,nov.-21,0
+1500305,Afuá,PA,NORTE,nov.-21,0
+1500347,Água Azul Do Norte,PA,NORTE,nov.-21,2
+1500404,Alenquer,PA,NORTE,nov.-21,1
+1500503,Almeirim,PA,NORTE,nov.-21,3
+1500602,Altamira,PA,NORTE,nov.-21,5
+1500701,Anajás,PA,NORTE,nov.-21,0
+1500800,Ananindeua,PA,NORTE,nov.-21,4
+1500859,Anapu,PA,NORTE,nov.-21,3
+1500909,Augusto Corrêa,PA,NORTE,nov.-21,0
+1500958,Aurora Do Pará,PA,NORTE,nov.-21,0
+1501006,Aveiro,PA,NORTE,nov.-21,0
+1501105,Bagre,PA,NORTE,nov.-21,0
+1501204,Baião,PA,NORTE,nov.-21,1
+1501253,Bannach,PA,NORTE,nov.-21,0
+1501303,Barcarena,PA,NORTE,nov.-21,1
+1501402,Belém,PA,NORTE,nov.-21,19
+1501451,Belterra,PA,NORTE,nov.-21,0
+1501501,Benevides,PA,NORTE,nov.-21,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,nov.-21,1
+1501600,Bonito,PA,NORTE,nov.-21,0
+1501709,Bragança,PA,NORTE,nov.-21,0
+1501725,Brasil Novo,PA,NORTE,nov.-21,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,nov.-21,0
+1501782,Breu Branco,PA,NORTE,nov.-21,1
+1501808,Breves,PA,NORTE,nov.-21,1
+1501907,Bujaru,PA,NORTE,nov.-21,0
+1502004,Cachoeira Do Arari,PA,NORTE,nov.-21,0
+1501956,Cachoeira Do Piriá,PA,NORTE,nov.-21,0
+1502103,Cametá,PA,NORTE,nov.-21,0
+1502152,Canaã Dos Carajás,PA,NORTE,nov.-21,2
+1502202,Capanema,PA,NORTE,nov.-21,2
+1502301,Capitão Poço,PA,NORTE,nov.-21,1
+1502400,Castanhal,PA,NORTE,nov.-21,4
+1502509,Chaves,PA,NORTE,nov.-21,0
+1502608,Colares,PA,NORTE,nov.-21,0
+1502707,Conceição Do Araguaia,PA,NORTE,nov.-21,2
+1502756,Concórdia Do Pará,PA,NORTE,nov.-21,4
+1502764,Cumaru Do Norte,PA,NORTE,nov.-21,4
+1502772,Curionópolis,PA,NORTE,nov.-21,1
+1502806,Curralinho,PA,NORTE,nov.-21,0
+1502855,Curuá,PA,NORTE,nov.-21,0
+1502905,Curuçá,PA,NORTE,nov.-21,1
+1502939,Dom Eliseu,PA,NORTE,nov.-21,1
+1502954,Eldorado Do Carajás,PA,NORTE,nov.-21,1
+1503002,Faro,PA,NORTE,nov.-21,0
+1503044,Floresta Do Araguaia,PA,NORTE,nov.-21,1
+1503077,Garrafão Do Norte,PA,NORTE,nov.-21,0
+1503093,Goianésia Do Pará,PA,NORTE,nov.-21,1
+1503101,Gurupá,PA,NORTE,nov.-21,0
+1503200,Igarapé-Açu,PA,NORTE,nov.-21,0
+1503309,Igarapé-Miri,PA,NORTE,nov.-21,1
+1503408,Inhangapi,PA,NORTE,nov.-21,0
+1503457,Ipixuna Do Pará,PA,NORTE,nov.-21,1
+1503507,Irituia,PA,NORTE,nov.-21,0
+1503606,Itaituba,PA,NORTE,nov.-21,4
+1503705,Itupiranga,PA,NORTE,nov.-21,0
+1503754,Jacareacanga,PA,NORTE,nov.-21,0
+1503804,Jacundá,PA,NORTE,nov.-21,0
+1503903,Juruti,PA,NORTE,nov.-21,0
+1504000,Limoeiro Do Ajuru,PA,NORTE,nov.-21,2
+1504059,Mãe Do Rio,PA,NORTE,nov.-21,0
+1504109,Magalhães Barata,PA,NORTE,nov.-21,0
+1504208,Marabá,PA,NORTE,nov.-21,7
+1504307,Maracanã,PA,NORTE,nov.-21,0
+1504406,Marapanim,PA,NORTE,nov.-21,0
+1504422,Marituba,PA,NORTE,nov.-21,3
+1504455,Medicilândia,PA,NORTE,nov.-21,2
+1504505,Melgaço,PA,NORTE,nov.-21,0
+1504604,Mocajuba,PA,NORTE,nov.-21,3
+1504703,Moju,PA,NORTE,nov.-21,0
+1504752,Mojuí Dos Campos,PA,NORTE,nov.-21,0
+1504802,Monte Alegre,PA,NORTE,nov.-21,1
+1504901,Muaná,PA,NORTE,nov.-21,0
+1504950,Nova Esperança Do Piriá,PA,NORTE,nov.-21,0
+1504976,Nova Ipixuna,PA,NORTE,nov.-21,3
+1505007,Nova Timboteua,PA,NORTE,nov.-21,0
+1505031,Novo Progresso,PA,NORTE,nov.-21,2
+1505064,Novo Repartimento,PA,NORTE,nov.-21,3
+1505106,Óbidos,PA,NORTE,nov.-21,0
+1505205,Oeiras Do Pará,PA,NORTE,nov.-21,0
+1505304,Oriximiná,PA,NORTE,nov.-21,1
+1505403,Ourém,PA,NORTE,nov.-21,0
+1505437,Ourilândia Do Norte,PA,NORTE,nov.-21,1
+1505486,Pacajá,PA,NORTE,nov.-21,4
+1505494,Palestina Do Pará,PA,NORTE,nov.-21,0
+1505502,Paragominas,PA,NORTE,nov.-21,5
+1505536,Parauapebas,PA,NORTE,nov.-21,7
+1505551,Pau D'Arco,PA,NORTE,nov.-21,0
+1505601,Peixe-Boi,PA,NORTE,nov.-21,0
+1505635,Piçarra,PA,NORTE,nov.-21,0
+1505650,Placas,PA,NORTE,nov.-21,0
+1505700,Ponta De Pedras,PA,NORTE,nov.-21,0
+1505809,Portel,PA,NORTE,nov.-21,1
+1505908,Porto De Moz,PA,NORTE,nov.-21,3
+1506005,Prainha,PA,NORTE,nov.-21,0
+1506104,Primavera,PA,NORTE,nov.-21,2
+1506112,Quatipuru,PA,NORTE,nov.-21,0
+1506138,Redenção,PA,NORTE,nov.-21,8
+1506161,Rio Maria,PA,NORTE,nov.-21,2
+1506187,Rondon Do Pará,PA,NORTE,nov.-21,2
+1506195,Rurópolis,PA,NORTE,nov.-21,1
+1506203,Salinópolis,PA,NORTE,nov.-21,0
+1506302,Salvaterra,PA,NORTE,nov.-21,0
+1506351,Santa Bárbara Do Pará,PA,NORTE,nov.-21,0
+1506401,Santa Cruz Do Arari,PA,NORTE,nov.-21,0
+1506500,Santa Izabel Do Pará,PA,NORTE,nov.-21,2
+1506559,Santa Luzia Do Pará,PA,NORTE,nov.-21,0
+1506583,Santa Maria Das Barreiras,PA,NORTE,nov.-21,1
+1506609,Santa Maria Do Pará,PA,NORTE,nov.-21,1
+1506708,Santana Do Araguaia,PA,NORTE,nov.-21,3
+1506807,Santarém,PA,NORTE,nov.-21,3
+1506906,Santarém Novo,PA,NORTE,nov.-21,0
+1507003,Santo Antônio Do Tauá,PA,NORTE,nov.-21,1
+1507102,São Caetano De Odivelas,PA,NORTE,nov.-21,0
+1507151,São Domingos Do Araguaia,PA,NORTE,nov.-21,0
+1507201,São Domingos Do Capim,PA,NORTE,nov.-21,2
+1507300,São Félix Do Xingu,PA,NORTE,nov.-21,2
+1507409,São Francisco Do Pará,PA,NORTE,nov.-21,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,nov.-21,1
+1507466,São João Da Ponta,PA,NORTE,nov.-21,0
+1507474,São João De Pirabas,PA,NORTE,nov.-21,0
+1507508,São João Do Araguaia,PA,NORTE,nov.-21,2
+1507607,São Miguel Do Guamá,PA,NORTE,nov.-21,0
+1507706,São Sebastião Da Boa Vista,PA,NORTE,nov.-21,0
+1507755,Sapucaia,PA,NORTE,nov.-21,0
+1507805,Senador José Porfírio,PA,NORTE,nov.-21,0
+1507904,Soure,PA,NORTE,nov.-21,0
+1507953,Tailândia,PA,NORTE,nov.-21,2
+1507961,Terra Alta,PA,NORTE,nov.-21,0
+1507979,Terra Santa,PA,NORTE,nov.-21,0
+1508001,Tomé-Açu,PA,NORTE,nov.-21,3
+1508035,Tracuateua,PA,NORTE,nov.-21,0
+1508050,Trairão,PA,NORTE,nov.-21,1
+1508084,Tucumã,PA,NORTE,nov.-21,2
+1508100,Tucuruí,PA,NORTE,nov.-21,2
+1508126,Ulianópolis,PA,NORTE,nov.-21,0
+1508159,Uruará,PA,NORTE,nov.-21,0
+1508209,Vigia,PA,NORTE,nov.-21,1
+1508308,Viseu,PA,NORTE,nov.-21,0
+1508357,Vitória Do Xingu,PA,NORTE,nov.-21,0
+1508407,Xinguara,PA,NORTE,nov.-21,0
+1500107,Abaetetuba,PA,NORTE,dez.-21,3
+1500131,Abel Figueiredo,PA,NORTE,dez.-21,3
+1500206,Acará,PA,NORTE,dez.-21,1
+1500305,Afuá,PA,NORTE,dez.-21,2
+1500503,Almeirim,PA,NORTE,dez.-21,3
+1500602,Altamira,PA,NORTE,dez.-21,5
+1500800,Ananindeua,PA,NORTE,dez.-21,6
+1500859,Anapu,PA,NORTE,dez.-21,2
+1500958,Aurora Do Pará,PA,NORTE,dez.-21,1
+1501402,Belém,PA,NORTE,dez.-21,17
+1501501,Benevides,PA,NORTE,dez.-21,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,dez.-21,1
+1501709,Bragança,PA,NORTE,dez.-21,1
+1501782,Breu Branco,PA,NORTE,dez.-21,1
+1501808,Breves,PA,NORTE,dez.-21,2
+1501907,Bujaru,PA,NORTE,dez.-21,1
+1502004,Cachoeira Do Arari,PA,NORTE,dez.-21,1
+1502103,Cametá,PA,NORTE,dez.-21,2
+1502152,Canaã Dos Carajás,PA,NORTE,dez.-21,2
+1502301,Capitão Poço,PA,NORTE,dez.-21,2
+1502400,Castanhal,PA,NORTE,dez.-21,3
+1502756,Concórdia Do Pará,PA,NORTE,dez.-21,1
+1502764,Cumaru Do Norte,PA,NORTE,dez.-21,4
+1502772,Curionópolis,PA,NORTE,dez.-21,1
+1503044,Floresta Do Araguaia,PA,NORTE,dez.-21,3
+1503077,Garrafão Do Norte,PA,NORTE,dez.-21,1
+1503093,Goianésia Do Pará,PA,NORTE,dez.-21,4
+1503309,Igarapé-Miri,PA,NORTE,dez.-21,2
+1503408,Inhangapi,PA,NORTE,dez.-21,1
+1503457,Ipixuna Do Pará,PA,NORTE,dez.-21,5
+1503606,Itaituba,PA,NORTE,dez.-21,5
+1503705,Itupiranga,PA,NORTE,dez.-21,1
+1503754,Jacareacanga,PA,NORTE,dez.-21,4
+1503804,Jacundá,PA,NORTE,dez.-21,1
+1504059,Mãe Do Rio,PA,NORTE,dez.-21,1
+1504208,Marabá,PA,NORTE,dez.-21,9
+1504422,Marituba,PA,NORTE,dez.-21,3
+1504802,Monte Alegre,PA,NORTE,dez.-21,1
+1505031,Novo Progresso,PA,NORTE,dez.-21,2
+1505064,Novo Repartimento,PA,NORTE,dez.-21,7
+1505205,Oeiras Do Pará,PA,NORTE,dez.-21,1
+1505304,Oriximiná,PA,NORTE,dez.-21,1
+1505437,Ourilândia Do Norte,PA,NORTE,dez.-21,2
+1505486,Pacajá,PA,NORTE,dez.-21,1
+1505502,Paragominas,PA,NORTE,dez.-21,4
+1505536,Parauapebas,PA,NORTE,dez.-21,4
+1505601,Peixe-Boi,PA,NORTE,dez.-21,1
+1505650,Placas,PA,NORTE,dez.-21,1
+1506112,Quatipuru,PA,NORTE,dez.-21,1
+1506138,Redenção,PA,NORTE,dez.-21,3
+1506187,Rondon Do Pará,PA,NORTE,dez.-21,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,dez.-21,1
+1506500,Santa Izabel Do Pará,PA,NORTE,dez.-21,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,dez.-21,2
+1507151,São Domingos Do Araguaia,PA,NORTE,dez.-21,1
+1507300,São Félix Do Xingu,PA,NORTE,dez.-21,6
+1507458,São Geraldo Do Araguaia,PA,NORTE,dez.-21,2
+1507508,São João Do Araguaia,PA,NORTE,dez.-21,1
+1507607,São Miguel Do Guamá,PA,NORTE,dez.-21,2
+1507755,Sapucaia,PA,NORTE,dez.-21,2
+1507904,Soure,PA,NORTE,dez.-21,1
+1507953,Tailândia,PA,NORTE,dez.-21,3
+1507961,Terra Alta,PA,NORTE,dez.-21,1
+1508001,Tomé-Açu,PA,NORTE,dez.-21,1
+1508050,Trairão,PA,NORTE,dez.-21,2
+1508084,Tucumã,PA,NORTE,dez.-21,2
+1508126,Ulianópolis,PA,NORTE,dez.-21,1
+1508159,Uruará,PA,NORTE,dez.-21,6
+1508209,Vigia,PA,NORTE,dez.-21,2
+1508308,Viseu,PA,NORTE,dez.-21,1
+1500107,Abaetetuba,PA,NORTE,jan.-22,1
+1500206,Acará,PA,NORTE,jan.-22,2
+1500347,Água Azul Do Norte,PA,NORTE,jan.-22,1
+1500404,Alenquer,PA,NORTE,jan.-22,1
+1500602,Altamira,PA,NORTE,jan.-22,8
+1500800,Ananindeua,PA,NORTE,jan.-22,5
+1500859,Anapu,PA,NORTE,jan.-22,2
+1500909,Augusto Corrêa,PA,NORTE,jan.-22,1
+1501105,Bagre,PA,NORTE,jan.-22,1
+1501204,Baião,PA,NORTE,jan.-22,1
+1501303,Barcarena,PA,NORTE,jan.-22,4
+1501402,Belém,PA,NORTE,jan.-22,18
+1501451,Belterra,PA,NORTE,jan.-22,1
+1501501,Benevides,PA,NORTE,jan.-22,2
+1501709,Bragança,PA,NORTE,jan.-22,4
+1501782,Breu Branco,PA,NORTE,jan.-22,2
+1501808,Breves,PA,NORTE,jan.-22,1
+1502103,Cametá,PA,NORTE,jan.-22,3
+1502152,Canaã Dos Carajás,PA,NORTE,jan.-22,1
+1502202,Capanema,PA,NORTE,jan.-22,1
+1502301,Capitão Poço,PA,NORTE,jan.-22,4
+1502400,Castanhal,PA,NORTE,jan.-22,4
+1502764,Cumaru Do Norte,PA,NORTE,jan.-22,2
+1502772,Curionópolis,PA,NORTE,jan.-22,2
+1502905,Curuçá,PA,NORTE,jan.-22,1
+1502939,Dom Eliseu,PA,NORTE,jan.-22,1
+1503457,Ipixuna Do Pará,PA,NORTE,jan.-22,1
+1503507,Irituia,PA,NORTE,jan.-22,2
+1503606,Itaituba,PA,NORTE,jan.-22,3
+1503705,Itupiranga,PA,NORTE,jan.-22,1
+1503754,Jacareacanga,PA,NORTE,jan.-22,1
+1504059,Mãe Do Rio,PA,NORTE,jan.-22,2
+1504208,Marabá,PA,NORTE,jan.-22,8
+1504455,Medicilândia,PA,NORTE,jan.-22,1
+1504604,Mocajuba,PA,NORTE,jan.-22,2
+1504802,Monte Alegre,PA,NORTE,jan.-22,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jan.-22,3
+1504976,Nova Ipixuna,PA,NORTE,jan.-22,2
+1505064,Novo Repartimento,PA,NORTE,jan.-22,4
+1505205,Oeiras Do Pará,PA,NORTE,jan.-22,1
+1505304,Oriximiná,PA,NORTE,jan.-22,1
+1505403,Ourém,PA,NORTE,jan.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,jan.-22,2
+1505486,Pacajá,PA,NORTE,jan.-22,4
+1505494,Palestina Do Pará,PA,NORTE,jan.-22,1
+1505502,Paragominas,PA,NORTE,jan.-22,3
+1505536,Parauapebas,PA,NORTE,jan.-22,12
+1505650,Placas,PA,NORTE,jan.-22,1
+1505809,Portel,PA,NORTE,jan.-22,1
+1505908,Porto De Moz,PA,NORTE,jan.-22,1
+1506005,Prainha,PA,NORTE,jan.-22,2
+1506138,Redenção,PA,NORTE,jan.-22,3
+1506161,Rio Maria,PA,NORTE,jan.-22,1
+1506187,Rondon Do Pará,PA,NORTE,jan.-22,6
+1506195,Rurópolis,PA,NORTE,jan.-22,1
+1506302,Salvaterra,PA,NORTE,jan.-22,1
+1506708,Santana Do Araguaia,PA,NORTE,jan.-22,2
+1506807,Santarém,PA,NORTE,jan.-22,5
+1507300,São Félix Do Xingu,PA,NORTE,jan.-22,6
+1507409,São Francisco Do Pará,PA,NORTE,jan.-22,1
+1507474,São João De Pirabas,PA,NORTE,jan.-22,1
+1507508,São João Do Araguaia,PA,NORTE,jan.-22,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,jan.-22,1
+1507805,Senador José Porfírio,PA,NORTE,jan.-22,1
+1507953,Tailândia,PA,NORTE,jan.-22,3
+1507979,Terra Santa,PA,NORTE,jan.-22,1
+1508100,Tucuruí,PA,NORTE,jan.-22,1
+1508126,Ulianópolis,PA,NORTE,jan.-22,2
+1508159,Uruará,PA,NORTE,jan.-22,4
+1508209,Vigia,PA,NORTE,jan.-22,1
+1508407,Xinguara,PA,NORTE,jan.-22,1
+1500107,Abaetetuba,PA,NORTE,fev.-22,9
+1500206,Acará,PA,NORTE,fev.-22,2
+1500503,Almeirim,PA,NORTE,fev.-22,1
+1500602,Altamira,PA,NORTE,fev.-22,1
+1500800,Ananindeua,PA,NORTE,fev.-22,4
+1500859,Anapu,PA,NORTE,fev.-22,4
+1500958,Aurora Do Pará,PA,NORTE,fev.-22,1
+1501303,Barcarena,PA,NORTE,fev.-22,3
+1501402,Belém,PA,NORTE,fev.-22,18
+1501501,Benevides,PA,NORTE,fev.-22,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,fev.-22,3
+1501709,Bragança,PA,NORTE,fev.-22,1
+1501725,Brasil Novo,PA,NORTE,fev.-22,1
+1501907,Bujaru,PA,NORTE,fev.-22,2
+1502152,Canaã Dos Carajás,PA,NORTE,fev.-22,3
+1502202,Capanema,PA,NORTE,fev.-22,4
+1502400,Castanhal,PA,NORTE,fev.-22,5
+1502608,Colares,PA,NORTE,fev.-22,1
+1502707,Conceição Do Araguaia,PA,NORTE,fev.-22,2
+1502764,Cumaru Do Norte,PA,NORTE,fev.-22,1
+1502772,Curionópolis,PA,NORTE,fev.-22,1
+1502939,Dom Eliseu,PA,NORTE,fev.-22,1
+1502954,Eldorado Do Carajás,PA,NORTE,fev.-22,2
+1503044,Floresta Do Araguaia,PA,NORTE,fev.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,fev.-22,3
+1503200,Igarapé-Açu,PA,NORTE,fev.-22,2
+1503309,Igarapé-Miri,PA,NORTE,fev.-22,1
+1503606,Itaituba,PA,NORTE,fev.-22,4
+1503705,Itupiranga,PA,NORTE,fev.-22,2
+1503804,Jacundá,PA,NORTE,fev.-22,1
+1504208,Marabá,PA,NORTE,fev.-22,4
+1504455,Medicilândia,PA,NORTE,fev.-22,1
+1504604,Mocajuba,PA,NORTE,fev.-22,3
+1504703,Moju,PA,NORTE,fev.-22,2
+1504976,Nova Ipixuna,PA,NORTE,fev.-22,1
+1505031,Novo Progresso,PA,NORTE,fev.-22,4
+1505064,Novo Repartimento,PA,NORTE,fev.-22,5
+1505403,Ourém,PA,NORTE,fev.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,fev.-22,4
+1505486,Pacajá,PA,NORTE,fev.-22,2
+1505502,Paragominas,PA,NORTE,fev.-22,5
+1505536,Parauapebas,PA,NORTE,fev.-22,4
+1505908,Porto De Moz,PA,NORTE,fev.-22,2
+1506138,Redenção,PA,NORTE,fev.-22,3
+1506161,Rio Maria,PA,NORTE,fev.-22,1
+1506187,Rondon Do Pará,PA,NORTE,fev.-22,4
+1506500,Santa Izabel Do Pará,PA,NORTE,fev.-22,2
+1506708,Santana Do Araguaia,PA,NORTE,fev.-22,2
+1506807,Santarém,PA,NORTE,fev.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,fev.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,fev.-22,3
+1507706,São Sebastião Da Boa Vista,PA,NORTE,fev.-22,1
+1507755,Sapucaia,PA,NORTE,fev.-22,1
+1507805,Senador José Porfírio,PA,NORTE,fev.-22,1
+1507953,Tailândia,PA,NORTE,fev.-22,2
+1508001,Tomé-Açu,PA,NORTE,fev.-22,1
+1508035,Tracuateua,PA,NORTE,fev.-22,1
+1508084,Tucumã,PA,NORTE,fev.-22,2
+1508100,Tucuruí,PA,NORTE,fev.-22,2
+1508159,Uruará,PA,NORTE,fev.-22,1
+1508209,Vigia,PA,NORTE,fev.-22,1
+1508308,Viseu,PA,NORTE,fev.-22,2
+1508407,Xinguara,PA,NORTE,fev.-22,1
+1500107,Abaetetuba,PA,NORTE,mar.-22,5
+1500206,Acará,PA,NORTE,mar.-22,1
+1500503,Almeirim,PA,NORTE,mar.-22,1
+1500602,Altamira,PA,NORTE,mar.-22,3
+1500800,Ananindeua,PA,NORTE,mar.-22,9
+1500859,Anapu,PA,NORTE,mar.-22,3
+1500958,Aurora Do Pará,PA,NORTE,mar.-22,1
+1501105,Bagre,PA,NORTE,mar.-22,1
+1501303,Barcarena,PA,NORTE,mar.-22,1
+1501402,Belém,PA,NORTE,mar.-22,20
+1501501,Benevides,PA,NORTE,mar.-22,1
+1501576,Bom Jesus Do Tocantins,PA,NORTE,mar.-22,1
+1501600,Bonito,PA,NORTE,mar.-22,1
+1501709,Bragança,PA,NORTE,mar.-22,2
+1501758,Brejo Grande Do Araguaia,PA,NORTE,mar.-22,3
+1502103,Cametá,PA,NORTE,mar.-22,3
+1502152,Canaã Dos Carajás,PA,NORTE,mar.-22,2
+1502202,Capanema,PA,NORTE,mar.-22,2
+1502400,Castanhal,PA,NORTE,mar.-22,7
+1502707,Conceição Do Araguaia,PA,NORTE,mar.-22,1
+1502905,Curuçá,PA,NORTE,mar.-22,1
+1502939,Dom Eliseu,PA,NORTE,mar.-22,2
+1503044,Floresta Do Araguaia,PA,NORTE,mar.-22,1
+1503077,Garrafão Do Norte,PA,NORTE,mar.-22,3
+1503093,Goianésia Do Pará,PA,NORTE,mar.-22,1
+1503309,Igarapé-Miri,PA,NORTE,mar.-22,2
+1503457,Ipixuna Do Pará,PA,NORTE,mar.-22,1
+1503606,Itaituba,PA,NORTE,mar.-22,4
+1503705,Itupiranga,PA,NORTE,mar.-22,1
+1503804,Jacundá,PA,NORTE,mar.-22,4
+1503903,Juruti,PA,NORTE,mar.-22,1
+1504059,Mãe Do Rio,PA,NORTE,mar.-22,2
+1504208,Marabá,PA,NORTE,mar.-22,14
+1504307,Maracanã,PA,NORTE,mar.-22,1
+1504422,Marituba,PA,NORTE,mar.-22,3
+1504455,Medicilândia,PA,NORTE,mar.-22,2
+1504505,Melgaço,PA,NORTE,mar.-22,1
+1504604,Mocajuba,PA,NORTE,mar.-22,1
+1504802,Monte Alegre,PA,NORTE,mar.-22,1
+1504901,Muaná,PA,NORTE,mar.-22,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mar.-22,1
+1505031,Novo Progresso,PA,NORTE,mar.-22,1
+1505064,Novo Repartimento,PA,NORTE,mar.-22,2
+1505106,Óbidos,PA,NORTE,mar.-22,1
+1505304,Oriximiná,PA,NORTE,mar.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,mar.-22,1
+1505486,Pacajá,PA,NORTE,mar.-22,1
+1505502,Paragominas,PA,NORTE,mar.-22,5
+1505536,Parauapebas,PA,NORTE,mar.-22,6
+1505601,Peixe-Boi,PA,NORTE,mar.-22,1
+1506138,Redenção,PA,NORTE,mar.-22,2
+1506161,Rio Maria,PA,NORTE,mar.-22,1
+1506187,Rondon Do Pará,PA,NORTE,mar.-22,2
+1506203,Salinópolis,PA,NORTE,mar.-22,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,mar.-22,2
+1506500,Santa Izabel Do Pará,PA,NORTE,mar.-22,2
+1506708,Santana Do Araguaia,PA,NORTE,mar.-22,2
+1506807,Santarém,PA,NORTE,mar.-22,3
+1507201,São Domingos Do Capim,PA,NORTE,mar.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,mar.-22,1
+1507409,São Francisco Do Pará,PA,NORTE,mar.-22,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,mar.-22,1
+1507474,São João De Pirabas,PA,NORTE,mar.-22,2
+1507953,Tailândia,PA,NORTE,mar.-22,2
+1508001,Tomé-Açu,PA,NORTE,mar.-22,2
+1508035,Tracuateua,PA,NORTE,mar.-22,1
+1508050,Trairão,PA,NORTE,mar.-22,4
+1508084,Tucumã,PA,NORTE,mar.-22,1
+1508100,Tucuruí,PA,NORTE,mar.-22,1
+1508126,Ulianópolis,PA,NORTE,mar.-22,2
+1508159,Uruará,PA,NORTE,mar.-22,2
+1508209,Vigia,PA,NORTE,mar.-22,1
+1508308,Viseu,PA,NORTE,mar.-22,1
+1508407,Xinguara,PA,NORTE,mar.-22,1
+1500107,Abaetetuba,PA,NORTE,abr.-22,5
+1500131,Abel Figueiredo,PA,NORTE,abr.-22,1
+1500206,Acará,PA,NORTE,abr.-22,2
+1500404,Alenquer,PA,NORTE,abr.-22,1
+1500503,Almeirim,PA,NORTE,abr.-22,2
+1500602,Altamira,PA,NORTE,abr.-22,3
+1500602,Altamira,PA,NORTE,abr.-22,1
+1500701,Anajás,PA,NORTE,abr.-22,1
+1500800,Ananindeua,PA,NORTE,abr.-22,10
+1500859,Anapu,PA,NORTE,abr.-22,1
+1500958,Aurora Do Pará,PA,NORTE,abr.-22,2
+1501204,Baião,PA,NORTE,abr.-22,1
+1501303,Barcarena,PA,NORTE,abr.-22,1
+1501402,Belém,PA,NORTE,abr.-22,13
+1501501,Benevides,PA,NORTE,abr.-22,1
+1501709,Bragança,PA,NORTE,abr.-22,3
+1501782,Breu Branco,PA,NORTE,abr.-22,1
+1502103,Cametá,PA,NORTE,abr.-22,1
+1502301,Capitão Poço,PA,NORTE,abr.-22,1
+1502400,Castanhal,PA,NORTE,abr.-22,5
+1502707,Conceição Do Araguaia,PA,NORTE,abr.-22,2
+1502756,Concórdia Do Pará,PA,NORTE,abr.-22,1
+1502764,Cumaru Do Norte,PA,NORTE,abr.-22,3
+1502772,Curionópolis,PA,NORTE,abr.-22,2
+1502905,Curuçá,PA,NORTE,abr.-22,1
+1502939,Dom Eliseu,PA,NORTE,abr.-22,1
+1503044,Floresta Do Araguaia,PA,NORTE,abr.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,abr.-22,2
+1503309,Igarapé-Miri,PA,NORTE,abr.-22,1
+1503457,Ipixuna Do Pará,PA,NORTE,abr.-22,1
+1503507,Irituia,PA,NORTE,abr.-22,1
+1503606,Itaituba,PA,NORTE,abr.-22,5
+1503705,Itupiranga,PA,NORTE,abr.-22,2
+1503804,Jacundá,PA,NORTE,abr.-22,1
+1504208,Marabá,PA,NORTE,abr.-22,21
+1504422,Marituba,PA,NORTE,abr.-22,1
+1504455,Medicilândia,PA,NORTE,abr.-22,1
+1504505,Melgaço,PA,NORTE,abr.-22,2
+1504604,Mocajuba,PA,NORTE,abr.-22,3
+1504703,Moju,PA,NORTE,abr.-22,1
+1504901,Muaná,PA,NORTE,abr.-22,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,abr.-22,2
+1505007,Nova Timboteua,PA,NORTE,abr.-22,3
+1505031,Novo Progresso,PA,NORTE,abr.-22,3
+1505064,Novo Repartimento,PA,NORTE,abr.-22,7
+1505437,Ourilândia Do Norte,PA,NORTE,abr.-22,1
+1505486,Pacajá,PA,NORTE,abr.-22,1
+1505502,Paragominas,PA,NORTE,abr.-22,5
+1505536,Parauapebas,PA,NORTE,abr.-22,4
+1505908,Porto De Moz,PA,NORTE,abr.-22,1
+1506138,Redenção,PA,NORTE,abr.-22,4
+1506161,Rio Maria,PA,NORTE,abr.-22,2
+1506195,Rurópolis,PA,NORTE,abr.-22,1
+1506500,Santa Izabel Do Pará,PA,NORTE,abr.-22,4
+1506583,Santa Maria Das Barreiras,PA,NORTE,abr.-22,1
+1506708,Santana Do Araguaia,PA,NORTE,abr.-22,1
+1506807,Santarém,PA,NORTE,abr.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,abr.-22,2
+1507409,São Francisco Do Pará,PA,NORTE,abr.-22,2
+1507607,São Miguel Do Guamá,PA,NORTE,abr.-22,1
+1507706,São Sebastião Da Boa Vista,PA,NORTE,abr.-22,1
+1507953,Tailândia,PA,NORTE,abr.-22,3
+1508001,Tomé-Açu,PA,NORTE,abr.-22,2
+1508035,Tracuateua,PA,NORTE,abr.-22,2
+1508050,Trairão,PA,NORTE,abr.-22,2
+1508100,Tucuruí,PA,NORTE,abr.-22,3
+1508126,Ulianópolis,PA,NORTE,abr.-22,2
+1508159,Uruará,PA,NORTE,abr.-22,2
+1508209,Vigia,PA,NORTE,abr.-22,1
+1500107,Abaetetuba,PA,NORTE,mai.-22,5
+1500206,Acará,PA,NORTE,mai.-22,3
+1500602,Altamira,PA,NORTE,mai.-22,13
+1500701,Anajás,PA,NORTE,mai.-22,1
+1500800,Ananindeua,PA,NORTE,mai.-22,13
+1500859,Anapu,PA,NORTE,mai.-22,3
+1501303,Barcarena,PA,NORTE,mai.-22,1
+1501402,Belém,PA,NORTE,mai.-22,26
+1501451,Belterra,PA,NORTE,mai.-22,1
+1501501,Benevides,PA,NORTE,mai.-22,4
+1501600,Bonito,PA,NORTE,mai.-22,1
+1501725,Brasil Novo,PA,NORTE,mai.-22,1
+1501782,Breu Branco,PA,NORTE,mai.-22,5
+1501808,Breves,PA,NORTE,mai.-22,1
+1501907,Bujaru,PA,NORTE,mai.-22,1
+1501956,Cachoeira Do Piriá,PA,NORTE,mai.-22,2
+1502103,Cametá,PA,NORTE,mai.-22,1
+1502152,Canaã Dos Carajás,PA,NORTE,mai.-22,2
+1502202,Capanema,PA,NORTE,mai.-22,3
+1502400,Castanhal,PA,NORTE,mai.-22,4
+1502707,Conceição Do Araguaia,PA,NORTE,mai.-22,3
+1502764,Cumaru Do Norte,PA,NORTE,mai.-22,3
+1502806,Curralinho,PA,NORTE,mai.-22,1
+1502905,Curuçá,PA,NORTE,mai.-22,1
+1502954,Eldorado Do Carajás,PA,NORTE,mai.-22,1
+1503044,Floresta Do Araguaia,PA,NORTE,mai.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,mai.-22,1
+1503408,Inhangapi,PA,NORTE,mai.-22,1
+1503457,Ipixuna Do Pará,PA,NORTE,mai.-22,2
+1503606,Itaituba,PA,NORTE,mai.-22,6
+1503705,Itupiranga,PA,NORTE,mai.-22,3
+1503754,Jacareacanga,PA,NORTE,mai.-22,3
+1503804,Jacundá,PA,NORTE,mai.-22,1
+1504059,Mãe Do Rio,PA,NORTE,mai.-22,5
+1504208,Marabá,PA,NORTE,mai.-22,6
+1504422,Marituba,PA,NORTE,mai.-22,4
+1504604,Mocajuba,PA,NORTE,mai.-22,2
+1504703,Moju,PA,NORTE,mai.-22,7
+1504802,Monte Alegre,PA,NORTE,mai.-22,1
+1504901,Muaná,PA,NORTE,mai.-22,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,mai.-22,3
+1505007,Nova Timboteua,PA,NORTE,mai.-22,1
+1505031,Novo Progresso,PA,NORTE,mai.-22,2
+1505064,Novo Repartimento,PA,NORTE,mai.-22,3
+1505437,Ourilândia Do Norte,PA,NORTE,mai.-22,3
+1505486,Pacajá,PA,NORTE,mai.-22,2
+1505502,Paragominas,PA,NORTE,mai.-22,4
+1505536,Parauapebas,PA,NORTE,mai.-22,7
+1505601,Peixe-Boi,PA,NORTE,mai.-22,2
+1505700,Ponta De Pedras,PA,NORTE,mai.-22,1
+1506112,Quatipuru,PA,NORTE,mai.-22,1
+1506138,Redenção,PA,NORTE,mai.-22,3
+1506187,Rondon Do Pará,PA,NORTE,mai.-22,1
+1506500,Santa Izabel Do Pará,PA,NORTE,mai.-22,2
+1506559,Santa Luzia Do Pará,PA,NORTE,mai.-22,3
+1506708,Santana Do Araguaia,PA,NORTE,mai.-22,1
+1506807,Santarém,PA,NORTE,mai.-22,4
+1507003,Santo Antônio Do Tauá,PA,NORTE,mai.-22,2
+1507102,São Caetano De Odivelas,PA,NORTE,mai.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,mai.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,mai.-22,2
+1507904,Soure,PA,NORTE,mai.-22,2
+1507953,Tailândia,PA,NORTE,mai.-22,5
+1507961,Terra Alta,PA,NORTE,mai.-22,1
+1508001,Tomé-Açu,PA,NORTE,mai.-22,2
+1508050,Trairão,PA,NORTE,mai.-22,1
+1508084,Tucumã,PA,NORTE,mai.-22,2
+1508100,Tucuruí,PA,NORTE,mai.-22,4
+1508126,Ulianópolis,PA,NORTE,mai.-22,1
+1508159,Uruará,PA,NORTE,mai.-22,1
+1508209,Vigia,PA,NORTE,mai.-22,3
+1508308,Viseu,PA,NORTE,mai.-22,1
+1508407,Xinguara,PA,NORTE,mai.-22,2
+1500107,Abaetetuba,PA,NORTE,jun.-22,3
+1500206,Acará,PA,NORTE,jun.-22,1
+1500404,Alenquer,PA,NORTE,jun.-22,2
+1500602,Altamira,PA,NORTE,jun.-22,6
+1500701,Anajás,PA,NORTE,jun.-22,1
+1500800,Ananindeua,PA,NORTE,jun.-22,6
+1500859,Anapu,PA,NORTE,jun.-22,3
+1500958,Aurora Do Pará,PA,NORTE,jun.-22,3
+1501006,Aveiro,PA,NORTE,jun.-22,1
+1501204,Baião,PA,NORTE,jun.-22,1
+1501303,Barcarena,PA,NORTE,jun.-22,1
+1501402,Belém,PA,NORTE,jun.-22,15
+1501501,Benevides,PA,NORTE,jun.-22,1
+1501709,Bragança,PA,NORTE,jun.-22,1
+1501808,Breves,PA,NORTE,jun.-22,2
+1502103,Cametá,PA,NORTE,jun.-22,1
+1502152,Canaã Dos Carajás,PA,NORTE,jun.-22,2
+1502202,Capanema,PA,NORTE,jun.-22,6
+1502400,Castanhal,PA,NORTE,jun.-22,5
+1502707,Conceição Do Araguaia,PA,NORTE,jun.-22,4
+1502756,Concórdia Do Pará,PA,NORTE,jun.-22,1
+1502764,Cumaru Do Norte,PA,NORTE,jun.-22,1
+1502939,Dom Eliseu,PA,NORTE,jun.-22,1
+1502954,Eldorado Do Carajás,PA,NORTE,jun.-22,2
+1503077,Garrafão Do Norte,PA,NORTE,jun.-22,1
+1503200,Igarapé-Açu,PA,NORTE,jun.-22,1
+1503309,Igarapé-Miri,PA,NORTE,jun.-22,3
+1503606,Itaituba,PA,NORTE,jun.-22,3
+1503705,Itupiranga,PA,NORTE,jun.-22,1
+1503903,Juruti,PA,NORTE,jun.-22,1
+1504059,Mãe Do Rio,PA,NORTE,jun.-22,1
+1504208,Marabá,PA,NORTE,jun.-22,6
+1504422,Marituba,PA,NORTE,jun.-22,3
+1504455,Medicilândia,PA,NORTE,jun.-22,2
+1504604,Mocajuba,PA,NORTE,jun.-22,2
+1504703,Moju,PA,NORTE,jun.-22,1
+1504802,Monte Alegre,PA,NORTE,jun.-22,1
+1504950,Nova Esperança Do Piriá,PA,NORTE,jun.-22,1
+1504976,Nova Ipixuna,PA,NORTE,jun.-22,1
+1505007,Nova Timboteua,PA,NORTE,jun.-22,1
+1505031,Novo Progresso,PA,NORTE,jun.-22,1
+1505064,Novo Repartimento,PA,NORTE,jun.-22,2
+1505304,Oriximiná,PA,NORTE,jun.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,jun.-22,4
+1505486,Pacajá,PA,NORTE,jun.-22,3
+1505502,Paragominas,PA,NORTE,jun.-22,3
+1505536,Parauapebas,PA,NORTE,jun.-22,10
+1505551,Pau D'Arco,PA,NORTE,jun.-22,1
+1505809,Portel,PA,NORTE,jun.-22,1
+1506138,Redenção,PA,NORTE,jun.-22,2
+1506187,Rondon Do Pará,PA,NORTE,jun.-22,1
+1506500,Santa Izabel Do Pará,PA,NORTE,jun.-22,3
+1506609,Santa Maria Do Pará,PA,NORTE,jun.-22,1
+1506708,Santana Do Araguaia,PA,NORTE,jun.-22,1
+1506807,Santarém,PA,NORTE,jun.-22,1
+1507003,Santo Antônio Do Tauá,PA,NORTE,jun.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,jun.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,jun.-22,4
+1507409,São Francisco Do Pará,PA,NORTE,jun.-22,1
+1507458,São Geraldo Do Araguaia,PA,NORTE,jun.-22,2
+1507953,Tailândia,PA,NORTE,jun.-22,4
+1507961,Terra Alta,PA,NORTE,jun.-22,1
+1508001,Tomé-Açu,PA,NORTE,jun.-22,2
+1508050,Trairão,PA,NORTE,jun.-22,1
+1508084,Tucumã,PA,NORTE,jun.-22,1
+1508100,Tucuruí,PA,NORTE,jun.-22,6
+1508159,Uruará,PA,NORTE,jun.-22,7
+1508209,Vigia,PA,NORTE,jun.-22,1
+1508308,Viseu,PA,NORTE,jun.-22,1
+1508357,Vitória Do Xingu,PA,NORTE,jun.-22,1
+1508407,Xinguara,PA,NORTE,jun.-22,1
+1500107,Abaetetuba,PA,NORTE,jul.-22,2
+1500206,Acará,PA,NORTE,jul.-22,1
+1500347,Água Azul Do Norte,PA,NORTE,jul.-22,2
+1500503,Almeirim,PA,NORTE,jul.-22,1
+1500602,Altamira,PA,NORTE,jul.-22,7
+1500800,Ananindeua,PA,NORTE,jul.-22,7
+1500859,Anapu,PA,NORTE,jul.-22,1
+1500958,Aurora Do Pará,PA,NORTE,jul.-22,2
+1501204,Baião,PA,NORTE,jul.-22,3
+1501303,Barcarena,PA,NORTE,jul.-22,2
+1501402,Belém,PA,NORTE,jul.-22,21
+1501501,Benevides,PA,NORTE,jul.-22,3
+1501576,Bom Jesus Do Tocantins,PA,NORTE,jul.-22,2
+1501709,Bragança,PA,NORTE,jul.-22,4
+1501956,Cachoeira Do Piriá,PA,NORTE,jul.-22,2
+1502152,Canaã Dos Carajás,PA,NORTE,jul.-22,1
+1502202,Capanema,PA,NORTE,jul.-22,3
+1502301,Capitão Poço,PA,NORTE,jul.-22,1
+1502400,Castanhal,PA,NORTE,jul.-22,3
+1502707,Conceição Do Araguaia,PA,NORTE,jul.-22,2
+1502772,Curionópolis,PA,NORTE,jul.-22,2
+1502806,Curralinho,PA,NORTE,jul.-22,2
+1502939,Dom Eliseu,PA,NORTE,jul.-22,1
+1502954,Eldorado Do Carajás,PA,NORTE,jul.-22,4
+1503002,Faro,PA,NORTE,jul.-22,1
+1503077,Garrafão Do Norte,PA,NORTE,jul.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,jul.-22,3
+1503200,Igarapé-Açu,PA,NORTE,jul.-22,1
+1503309,Igarapé-Miri,PA,NORTE,jul.-22,2
+1503408,Inhangapi,PA,NORTE,jul.-22,1
+1503457,Ipixuna Do Pará,PA,NORTE,jul.-22,2
+1503507,Irituia,PA,NORTE,jul.-22,1
+1503606,Itaituba,PA,NORTE,jul.-22,7
+1503754,Jacareacanga,PA,NORTE,jul.-22,2
+1503804,Jacundá,PA,NORTE,jul.-22,2
+1504000,Limoeiro Do Ajuru,PA,NORTE,jul.-22,2
+1504059,Mãe Do Rio,PA,NORTE,jul.-22,2
+1504208,Marabá,PA,NORTE,jul.-22,11
+1504455,Medicilândia,PA,NORTE,jul.-22,1
+1504505,Melgaço,PA,NORTE,jul.-22,1
+1504604,Mocajuba,PA,NORTE,jul.-22,2
+1504703,Moju,PA,NORTE,jul.-22,4
+1505007,Nova Timboteua,PA,NORTE,jul.-22,1
+1505031,Novo Progresso,PA,NORTE,jul.-22,3
+1505064,Novo Repartimento,PA,NORTE,jul.-22,2
+1505304,Oriximiná,PA,NORTE,jul.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,jul.-22,2
+1505486,Pacajá,PA,NORTE,jul.-22,1
+1505502,Paragominas,PA,NORTE,jul.-22,4
+1505536,Parauapebas,PA,NORTE,jul.-22,5
+1505551,Pau D'Arco,PA,NORTE,jul.-22,1
+1505908,Porto De Moz,PA,NORTE,jul.-22,1
+1506138,Redenção,PA,NORTE,jul.-22,4
+1506161,Rio Maria,PA,NORTE,jul.-22,1
+1506203,Salinópolis,PA,NORTE,jul.-22,2
+1506351,Santa Bárbara Do Pará,PA,NORTE,jul.-22,3
+1506500,Santa Izabel Do Pará,PA,NORTE,jul.-22,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,jul.-22,2
+1506708,Santana Do Araguaia,PA,NORTE,jul.-22,2
+1507102,São Caetano De Odivelas,PA,NORTE,jul.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,jul.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,jul.-22,5
+1507458,São Geraldo Do Araguaia,PA,NORTE,jul.-22,1
+1507466,São João Da Ponta,PA,NORTE,jul.-22,1
+1507607,São Miguel Do Guamá,PA,NORTE,jul.-22,3
+1507805,Senador José Porfírio,PA,NORTE,jul.-22,2
+1507953,Tailândia,PA,NORTE,jul.-22,6
+1508001,Tomé-Açu,PA,NORTE,jul.-22,1
+1508050,Trairão,PA,NORTE,jul.-22,2
+1508084,Tucumã,PA,NORTE,jul.-22,7
+1508126,Ulianópolis,PA,NORTE,jul.-22,4
+1508159,Uruará,PA,NORTE,jul.-22,1
+1508308,Viseu,PA,NORTE,jul.-22,1
+1508407,Xinguara,PA,NORTE,jul.-22,4
+1500107,Abaetetuba,PA,NORTE,ago.-22,3
+1500347,Água Azul Do Norte,PA,NORTE,ago.-22,1
+1500503,Almeirim,PA,NORTE,ago.-22,1
+1500602,Altamira,PA,NORTE,ago.-22,2
+1500701,Anajás,PA,NORTE,ago.-22,3
+1500800,Ananindeua,PA,NORTE,ago.-22,4
+1500859,Anapu,PA,NORTE,ago.-22,2
+1501303,Barcarena,PA,NORTE,ago.-22,4
+1501402,Belém,PA,NORTE,ago.-22,13
+1501501,Benevides,PA,NORTE,ago.-22,1
+1501709,Bragança,PA,NORTE,ago.-22,1
+1501782,Breu Branco,PA,NORTE,ago.-22,2
+1501808,Breves,PA,NORTE,ago.-22,1
+1501956,Cachoeira Do Piriá,PA,NORTE,ago.-22,2
+1502103,Cametá,PA,NORTE,ago.-22,1
+1502152,Canaã Dos Carajás,PA,NORTE,ago.-22,3
+1502202,Capanema,PA,NORTE,ago.-22,2
+1502301,Capitão Poço,PA,NORTE,ago.-22,1
+1502400,Castanhal,PA,NORTE,ago.-22,7
+1502608,Colares,PA,NORTE,ago.-22,1
+1502707,Conceição Do Araguaia,PA,NORTE,ago.-22,2
+1502756,Concórdia Do Pará,PA,NORTE,ago.-22,1
+1502764,Cumaru Do Norte,PA,NORTE,ago.-22,1
+1502772,Curionópolis,PA,NORTE,ago.-22,2
+1502806,Curralinho,PA,NORTE,ago.-22,1
+1503044,Floresta Do Araguaia,PA,NORTE,ago.-22,1
+1503077,Garrafão Do Norte,PA,NORTE,ago.-22,2
+1503093,Goianésia Do Pará,PA,NORTE,ago.-22,5
+1503309,Igarapé-Miri,PA,NORTE,ago.-22,4
+1503457,Ipixuna Do Pará,PA,NORTE,ago.-22,1
+1503507,Irituia,PA,NORTE,ago.-22,1
+1503606,Itaituba,PA,NORTE,ago.-22,5
+1503705,Itupiranga,PA,NORTE,ago.-22,5
+1503804,Jacundá,PA,NORTE,ago.-22,1
+1504059,Mãe Do Rio,PA,NORTE,ago.-22,2
+1504208,Marabá,PA,NORTE,ago.-22,14
+1504307,Maracanã,PA,NORTE,ago.-22,1
+1504604,Mocajuba,PA,NORTE,ago.-22,1
+1505031,Novo Progresso,PA,NORTE,ago.-22,5
+1505064,Novo Repartimento,PA,NORTE,ago.-22,1
+1505106,Óbidos,PA,NORTE,ago.-22,1
+1505304,Oriximiná,PA,NORTE,ago.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,ago.-22,3
+1505486,Pacajá,PA,NORTE,ago.-22,2
+1505502,Paragominas,PA,NORTE,ago.-22,3
+1505536,Parauapebas,PA,NORTE,ago.-22,5
+1505809,Portel,PA,NORTE,ago.-22,4
+1505908,Porto De Moz,PA,NORTE,ago.-22,1
+1506005,Prainha,PA,NORTE,ago.-22,1
+1506138,Redenção,PA,NORTE,ago.-22,2
+1506161,Rio Maria,PA,NORTE,ago.-22,2
+1506187,Rondon Do Pará,PA,NORTE,ago.-22,2
+1506195,Rurópolis,PA,NORTE,ago.-22,1
+1506500,Santa Izabel Do Pará,PA,NORTE,ago.-22,2
+1506583,Santa Maria Das Barreiras,PA,NORTE,ago.-22,1
+1506708,Santana Do Araguaia,PA,NORTE,ago.-22,3
+1506807,Santarém,PA,NORTE,ago.-22,4
+1507151,São Domingos Do Araguaia,PA,NORTE,ago.-22,2
+1507300,São Félix Do Xingu,PA,NORTE,ago.-22,3
+1507904,Soure,PA,NORTE,ago.-22,2
+1507953,Tailândia,PA,NORTE,ago.-22,5
+1508001,Tomé-Açu,PA,NORTE,ago.-22,2
+1508050,Trairão,PA,NORTE,ago.-22,1
+1508084,Tucumã,PA,NORTE,ago.-22,1
+1508100,Tucuruí,PA,NORTE,ago.-22,3
+1508126,Ulianópolis,PA,NORTE,ago.-22,1
+1508159,Uruará,PA,NORTE,ago.-22,5
+1508308,Viseu,PA,NORTE,ago.-22,4
+1508357,Vitória Do Xingu,PA,NORTE,ago.-22,1
+1500107,Abaetetuba,PA,NORTE,set.-22,5
+1500206,Acará,PA,NORTE,set.-22,3
+1500347,Água Azul Do Norte,PA,NORTE,set.-22,1
+1500503,Almeirim,PA,NORTE,set.-22,1
+1500602,Altamira,PA,NORTE,set.-22,6
+1500800,Ananindeua,PA,NORTE,set.-22,11
+1500859,Anapu,PA,NORTE,set.-22,2
+1501204,Baião,PA,NORTE,set.-22,1
+1501402,Belém,PA,NORTE,set.-22,15
+1501709,Bragança,PA,NORTE,set.-22,2
+1501758,Brejo Grande Do Araguaia,PA,NORTE,set.-22,1
+1502103,Cametá,PA,NORTE,set.-22,2
+1502152,Canaã Dos Carajás,PA,NORTE,set.-22,1
+1502301,Capitão Poço,PA,NORTE,set.-22,2
+1502400,Castanhal,PA,NORTE,set.-22,8
+1502756,Concórdia Do Pará,PA,NORTE,set.-22,1
+1502764,Cumaru Do Norte,PA,NORTE,set.-22,2
+1503044,Floresta Do Araguaia,PA,NORTE,set.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,set.-22,1
+1503200,Igarapé-Açu,PA,NORTE,set.-22,2
+1503309,Igarapé-Miri,PA,NORTE,set.-22,3
+1503606,Itaituba,PA,NORTE,set.-22,5
+1503705,Itupiranga,PA,NORTE,set.-22,2
+1503903,Juruti,PA,NORTE,set.-22,1
+1504208,Marabá,PA,NORTE,set.-22,11
+1504604,Mocajuba,PA,NORTE,set.-22,3
+1504703,Moju,PA,NORTE,set.-22,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,set.-22,1
+1504976,Nova Ipixuna,PA,NORTE,set.-22,1
+1505031,Novo Progresso,PA,NORTE,set.-22,4
+1505106,Óbidos,PA,NORTE,set.-22,1
+1505304,Oriximiná,PA,NORTE,set.-22,3
+1505403,Ourém,PA,NORTE,set.-22,2
+1505437,Ourilândia Do Norte,PA,NORTE,set.-22,1
+1505486,Pacajá,PA,NORTE,set.-22,3
+1505502,Paragominas,PA,NORTE,set.-22,3
+1505536,Parauapebas,PA,NORTE,set.-22,8
+1506138,Redenção,PA,NORTE,set.-22,6
+1506161,Rio Maria,PA,NORTE,set.-22,3
+1506187,Rondon Do Pará,PA,NORTE,set.-22,2
+1506203,Salinópolis,PA,NORTE,set.-22,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,set.-22,1
+1506559,Santa Luzia Do Pará,PA,NORTE,set.-22,1
+1506708,Santana Do Araguaia,PA,NORTE,set.-22,1
+1506807,Santarém,PA,NORTE,set.-22,6
+1507003,Santo Antônio Do Tauá,PA,NORTE,set.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,set.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,set.-22,5
+1507458,São Geraldo Do Araguaia,PA,NORTE,set.-22,2
+1507474,São João De Pirabas,PA,NORTE,set.-22,2
+1507904,Soure,PA,NORTE,set.-22,1
+1507953,Tailândia,PA,NORTE,set.-22,3
+1508001,Tomé-Açu,PA,NORTE,set.-22,3
+1508084,Tucumã,PA,NORTE,set.-22,1
+1508100,Tucuruí,PA,NORTE,set.-22,5
+1508126,Ulianópolis,PA,NORTE,set.-22,1
+1508159,Uruará,PA,NORTE,set.-22,4
+1508308,Viseu,PA,NORTE,set.-22,1
+1508357,Vitória Do Xingu,PA,NORTE,set.-22,1
+1500206,Acará,PA,NORTE,out.-22,3
+1500602,Altamira,PA,NORTE,out.-22,7
+1500701,Anajás,PA,NORTE,out.-22,2
+1500800,Ananindeua,PA,NORTE,out.-22,5
+1500859,Anapu,PA,NORTE,out.-22,2
+1501253,Bannach,PA,NORTE,out.-22,1
+1501303,Barcarena,PA,NORTE,out.-22,2
+1501402,Belém,PA,NORTE,out.-22,12
+1501451,Belterra,PA,NORTE,out.-22,1
+1501501,Benevides,PA,NORTE,out.-22,2
+1501576,Bom Jesus Do Tocantins,PA,NORTE,out.-22,1
+1501709,Bragança,PA,NORTE,out.-22,2
+1501725,Brasil Novo,PA,NORTE,out.-22,1
+1501758,Brejo Grande Do Araguaia,PA,NORTE,out.-22,1
+1501782,Breu Branco,PA,NORTE,out.-22,2
+1501907,Bujaru,PA,NORTE,out.-22,1
+1502004,Cachoeira Do Arari,PA,NORTE,out.-22,1
+1501956,Cachoeira Do Piriá,PA,NORTE,out.-22,2
+1502152,Canaã Dos Carajás,PA,NORTE,out.-22,2
+1502202,Capanema,PA,NORTE,out.-22,3
+1502400,Castanhal,PA,NORTE,out.-22,5
+1502707,Conceição Do Araguaia,PA,NORTE,out.-22,3
+1502756,Concórdia Do Pará,PA,NORTE,out.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,out.-22,2
+1503309,Igarapé-Miri,PA,NORTE,out.-22,3
+1503457,Ipixuna Do Pará,PA,NORTE,out.-22,1
+1503606,Itaituba,PA,NORTE,out.-22,6
+1503705,Itupiranga,PA,NORTE,out.-22,1
+1503804,Jacundá,PA,NORTE,out.-22,1
+1503903,Juruti,PA,NORTE,out.-22,1
+1504059,Mãe Do Rio,PA,NORTE,out.-22,2
+1504208,Marabá,PA,NORTE,out.-22,11
+1504422,Marituba,PA,NORTE,out.-22,3
+1504604,Mocajuba,PA,NORTE,out.-22,1
+1504703,Moju,PA,NORTE,out.-22,3
+1504950,Nova Esperança Do Piriá,PA,NORTE,out.-22,2
+1505007,Nova Timboteua,PA,NORTE,out.-22,1
+1505064,Novo Repartimento,PA,NORTE,out.-22,2
+1505106,Óbidos,PA,NORTE,out.-22,2
+1505304,Oriximiná,PA,NORTE,out.-22,3
+1505403,Ourém,PA,NORTE,out.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,out.-22,1
+1505486,Pacajá,PA,NORTE,out.-22,5
+1505502,Paragominas,PA,NORTE,out.-22,6
+1505536,Parauapebas,PA,NORTE,out.-22,7
+1505700,Ponta De Pedras,PA,NORTE,out.-22,1
+1505809,Portel,PA,NORTE,out.-22,3
+1506005,Prainha,PA,NORTE,out.-22,1
+1506138,Redenção,PA,NORTE,out.-22,4
+1506187,Rondon Do Pará,PA,NORTE,out.-22,3
+1506203,Salinópolis,PA,NORTE,out.-22,1
+1506351,Santa Bárbara Do Pará,PA,NORTE,out.-22,1
+1506609,Santa Maria Do Pará,PA,NORTE,out.-22,1
+1506708,Santana Do Araguaia,PA,NORTE,out.-22,1
+1506807,Santarém,PA,NORTE,out.-22,5
+1507300,São Félix Do Xingu,PA,NORTE,out.-22,4
+1507458,São Geraldo Do Araguaia,PA,NORTE,out.-22,1
+1507474,São João De Pirabas,PA,NORTE,out.-22,1
+1507508,São João Do Araguaia,PA,NORTE,out.-22,1
+1507607,São Miguel Do Guamá,PA,NORTE,out.-22,1
+1507953,Tailândia,PA,NORTE,out.-22,4
+1508001,Tomé-Açu,PA,NORTE,out.-22,2
+1508050,Trairão,PA,NORTE,out.-22,4
+1508084,Tucumã,PA,NORTE,out.-22,7
+1508100,Tucuruí,PA,NORTE,out.-22,3
+1508126,Ulianópolis,PA,NORTE,out.-22,3
+1508159,Uruará,PA,NORTE,out.-22,2
+1508308,Viseu,PA,NORTE,out.-22,1
+1508407,Xinguara,PA,NORTE,out.-22,3
+1500107,Abaetetuba,PA,NORTE,nov.-22,1
+1500206,Acará,PA,NORTE,nov.-22,2
+1500305,Afuá,PA,NORTE,nov.-22,1
+1500503,Almeirim,PA,NORTE,nov.-22,1
+1500602,Altamira,PA,NORTE,nov.-22,6
+1500800,Ananindeua,PA,NORTE,nov.-22,8
+1500859,Anapu,PA,NORTE,nov.-22,2
+1500909,Augusto Corrêa,PA,NORTE,nov.-22,1
+1500958,Aurora Do Pará,PA,NORTE,nov.-22,3
+1501204,Baião,PA,NORTE,nov.-22,1
+1501253,Bannach,PA,NORTE,nov.-22,1
+1501303,Barcarena,PA,NORTE,nov.-22,2
+1501402,Belém,PA,NORTE,nov.-22,22
+1501501,Benevides,PA,NORTE,nov.-22,3
+1501709,Bragança,PA,NORTE,nov.-22,2
+1501808,Breves,PA,NORTE,nov.-22,1
+1501956,Cachoeira Do Piriá,PA,NORTE,nov.-22,1
+1502152,Canaã Dos Carajás,PA,NORTE,nov.-22,1
+1502301,Capitão Poço,PA,NORTE,nov.-22,2
+1502400,Castanhal,PA,NORTE,nov.-22,2
+1502707,Conceição Do Araguaia,PA,NORTE,nov.-22,5
+1502756,Concórdia Do Pará,PA,NORTE,nov.-22,1
+1502764,Cumaru Do Norte,PA,NORTE,nov.-22,1
+1502772,Curionópolis,PA,NORTE,nov.-22,1
+1502939,Dom Eliseu,PA,NORTE,nov.-22,2
+1503077,Garrafão Do Norte,PA,NORTE,nov.-22,1
+1503457,Ipixuna Do Pará,PA,NORTE,nov.-22,2
+1503507,Irituia,PA,NORTE,nov.-22,2
+1503606,Itaituba,PA,NORTE,nov.-22,7
+1503804,Jacundá,PA,NORTE,nov.-22,2
+1503903,Juruti,PA,NORTE,nov.-22,2
+1504059,Mãe Do Rio,PA,NORTE,nov.-22,1
+1504208,Marabá,PA,NORTE,nov.-22,13
+1504307,Maracanã,PA,NORTE,nov.-22,1
+1504422,Marituba,PA,NORTE,nov.-22,6
+1504604,Mocajuba,PA,NORTE,nov.-22,1
+1504703,Moju,PA,NORTE,nov.-22,2
+1504950,Nova Esperança Do Piriá,PA,NORTE,nov.-22,1
+1505031,Novo Progresso,PA,NORTE,nov.-22,2
+1505064,Novo Repartimento,PA,NORTE,nov.-22,2
+1505205,Oeiras Do Pará,PA,NORTE,nov.-22,1
+1505304,Oriximiná,PA,NORTE,nov.-22,2
+1505437,Ourilândia Do Norte,PA,NORTE,nov.-22,2
+1505486,Pacajá,PA,NORTE,nov.-22,4
+1505494,Palestina Do Pará,PA,NORTE,nov.-22,3
+1505502,Paragominas,PA,NORTE,nov.-22,3
+1505536,Parauapebas,PA,NORTE,nov.-22,6
+1505635,Piçarra,PA,NORTE,nov.-22,1
+1505650,Placas,PA,NORTE,nov.-22,1
+1505809,Portel,PA,NORTE,nov.-22,2
+1505908,Porto De Moz,PA,NORTE,nov.-22,1
+1506138,Redenção,PA,NORTE,nov.-22,5
+1506187,Rondon Do Pará,PA,NORTE,nov.-22,1
+1506203,Salinópolis,PA,NORTE,nov.-22,2
+1506302,Salvaterra,PA,NORTE,nov.-22,1
+1506500,Santa Izabel Do Pará,PA,NORTE,nov.-22,3
+1506708,Santana Do Araguaia,PA,NORTE,nov.-22,1
+1506807,Santarém,PA,NORTE,nov.-22,3
+1507003,Santo Antônio Do Tauá,PA,NORTE,nov.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,nov.-22,2
+1507201,São Domingos Do Capim,PA,NORTE,nov.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,nov.-22,4
+1507409,São Francisco Do Pará,PA,NORTE,nov.-22,1
+1507508,São João Do Araguaia,PA,NORTE,nov.-22,4
+1507607,São Miguel Do Guamá,PA,NORTE,nov.-22,2
+1507953,Tailândia,PA,NORTE,nov.-22,2
+1508001,Tomé-Açu,PA,NORTE,nov.-22,4
+1508084,Tucumã,PA,NORTE,nov.-22,6
+1508100,Tucuruí,PA,NORTE,nov.-22,3
+1508126,Ulianópolis,PA,NORTE,nov.-22,1
+1508159,Uruará,PA,NORTE,nov.-22,3
+1508209,Vigia,PA,NORTE,nov.-22,1
+1508357,Vitória Do Xingu,PA,NORTE,nov.-22,1
+1508407,Xinguara,PA,NORTE,nov.-22,1
+1500206,Acará,PA,NORTE,dez.-22,4
+1500305,Afuá,PA,NORTE,dez.-22,1
+1500347,Água Azul Do Norte,PA,NORTE,dez.-22,1
+1500503,Almeirim,PA,NORTE,dez.-22,2
+1500602,Altamira,PA,NORTE,dez.-22,5
+1500800,Ananindeua,PA,NORTE,dez.-22,10
+1500859,Anapu,PA,NORTE,dez.-22,3
+1501204,Baião,PA,NORTE,dez.-22,1
+1501303,Barcarena,PA,NORTE,dez.-22,1
+1501402,Belém,PA,NORTE,dez.-22,18
+1501576,Bom Jesus Do Tocantins,PA,NORTE,dez.-22,1
+1501709,Bragança,PA,NORTE,dez.-22,2
+1501725,Brasil Novo,PA,NORTE,dez.-22,2
+1501808,Breves,PA,NORTE,dez.-22,1
+1502103,Cametá,PA,NORTE,dez.-22,1
+1502152,Canaã Dos Carajás,PA,NORTE,dez.-22,2
+1502202,Capanema,PA,NORTE,dez.-22,2
+1502301,Capitão Poço,PA,NORTE,dez.-22,1
+1502400,Castanhal,PA,NORTE,dez.-22,5
+1502707,Conceição Do Araguaia,PA,NORTE,dez.-22,1
+1502756,Concórdia Do Pará,PA,NORTE,dez.-22,1
+1502764,Cumaru Do Norte,PA,NORTE,dez.-22,1
+1502772,Curionópolis,PA,NORTE,dez.-22,3
+1502905,Curuçá,PA,NORTE,dez.-22,2
+1503077,Garrafão Do Norte,PA,NORTE,dez.-22,1
+1503093,Goianésia Do Pará,PA,NORTE,dez.-22,3
+1503309,Igarapé-Miri,PA,NORTE,dez.-22,3
+1503457,Ipixuna Do Pará,PA,NORTE,dez.-22,3
+1503606,Itaituba,PA,NORTE,dez.-22,6
+1503804,Jacundá,PA,NORTE,dez.-22,1
+1503903,Juruti,PA,NORTE,dez.-22,2
+1504059,Mãe Do Rio,PA,NORTE,dez.-22,2
+1504208,Marabá,PA,NORTE,dez.-22,8
+1504422,Marituba,PA,NORTE,dez.-22,3
+1504455,Medicilândia,PA,NORTE,dez.-22,2
+1504604,Mocajuba,PA,NORTE,dez.-22,1
+1504703,Moju,PA,NORTE,dez.-22,3
+1504802,Monte Alegre,PA,NORTE,dez.-22,1
+1504976,Nova Ipixuna,PA,NORTE,dez.-22,1
+1505007,Nova Timboteua,PA,NORTE,dez.-22,1
+1505031,Novo Progresso,PA,NORTE,dez.-22,1
+1505064,Novo Repartimento,PA,NORTE,dez.-22,1
+1505437,Ourilândia Do Norte,PA,NORTE,dez.-22,1
+1505486,Pacajá,PA,NORTE,dez.-22,1
+1505502,Paragominas,PA,NORTE,dez.-22,3
+1505536,Parauapebas,PA,NORTE,dez.-22,6
+1505551,Pau D'Arco,PA,NORTE,dez.-22,1
+1505635,Piçarra,PA,NORTE,dez.-22,1
+1505809,Portel,PA,NORTE,dez.-22,1
+1506005,Prainha,PA,NORTE,dez.-22,1
+1506138,Redenção,PA,NORTE,dez.-22,3
+1506161,Rio Maria,PA,NORTE,dez.-22,2
+1506187,Rondon Do Pará,PA,NORTE,dez.-22,3
+1506302,Salvaterra,PA,NORTE,dez.-22,2
+1506500,Santa Izabel Do Pará,PA,NORTE,dez.-22,3
+1506559,Santa Luzia Do Pará,PA,NORTE,dez.-22,1
+1506583,Santa Maria Das Barreiras,PA,NORTE,dez.-22,1
+1506807,Santarém,PA,NORTE,dez.-22,6
+1507003,Santo Antônio Do Tauá,PA,NORTE,dez.-22,1
+1507151,São Domingos Do Araguaia,PA,NORTE,dez.-22,1
+1507300,São Félix Do Xingu,PA,NORTE,dez.-22,5
+1507508,São João Do Araguaia,PA,NORTE,dez.-22,2
+1507805,Senador José Porfírio,PA,NORTE,dez.-22,1
+1507953,Tailândia,PA,NORTE,dez.-22,5
+1508001,Tomé-Açu,PA,NORTE,dez.-22,4
+1508050,Trairão,PA,NORTE,dez.-22,1
+1508084,Tucumã,PA,NORTE,dez.-22,1
+1508100,Tucuruí,PA,NORTE,dez.-22,3
+1508159,Uruará,PA,NORTE,dez.-22,1
+1508209,Vigia,PA,NORTE,dez.-22,1
+1508308,Viseu,PA,NORTE,dez.-22,1
+1508407,Xinguara,PA,NORTE,dez.-22,1
